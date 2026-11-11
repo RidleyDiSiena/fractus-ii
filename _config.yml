@@ -11,8 +11,8 @@ repo_url: https://github.com/RidleyDiSiena/fractus-ii
 doi:
 # giscus comment settings, filled in after the repository exists.
 giscus_repo: RidleyDiSiena/fractus-ii
-giscus_repo_id:
-giscus_category_id:
+giscus_repo_id: R_kgDOVqVvaA
+giscus_category_id: DIC_kwDOVqVvaM4DK3w2
 exclude:
   - README.md
   - CITATION.cff
