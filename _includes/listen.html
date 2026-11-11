@@ -1,10 +1,12 @@
+<p class="title-by">By Ridley DiSiena, November 2026. Licensed <a href="{{ site.repo_url }}/blob/main/LICENSE">CC BY-NC 4.0</a>. See the <a href="{{ '/NOTICE.html' | relative_url }}">Notice of Authorship</a>. <a href="{{ '/fractus-ii.pdf' | relative_url }}">Download the PDF</a>.</p>
+
 <section class="listen" id="listen" aria-label="Audio version">
-  <p class="listen-head"><span class="listen-title">Listen</span> <span class="listen-meta">Full reading, 2 h 32 min, MP3</span></p>
+  <span class="listen-title">Listen</span>
   <audio id="reading" controls preload="none" src="{{ '/fractus-ii.mp3' | relative_url }}">
     Your browser cannot play this audio. <a href="{{ '/fractus-ii.mp3' | relative_url }}">Download the MP3</a>.
   </audio>
-  <p class="listen-foot"><span id="resume-note"></span><a href="{{ '/fractus-ii.mp3' | relative_url }}" download>Download the MP3 (70 MB)</a></p>
-  <p class="listen-by">By Ridley DiSiena, November 2026. Licensed <a href="{{ site.repo_url }}/blob/main/LICENSE">CC BY-NC 4.0</a>. See the <a href="{{ '/NOTICE.html' | relative_url }}">Notice of Authorship</a>. <a href="{{ '/fractus-ii.pdf' | relative_url }}">Download the PDF</a>.</p>
+  <a class="listen-dl" href="{{ '/fractus-ii.mp3' | relative_url }}" download title="Download the MP3 (70 MB)">MP3 &darr;</a>
+  <p class="listen-note">Full reading, 2 h 32 min.<span id="resume-note"></span></p>
 </section>
 <script>
   (function () {
@@ -12,7 +14,7 @@
     try { saved = parseFloat(localStorage.getItem(key)) || 0; } catch (e) {}
     function fmt(t) { var h = Math.floor(t / 3600), m = Math.floor(t % 3600 / 60), s = Math.floor(t % 60);
       return (h ? h + ':' + String(m).padStart(2, '0') : m) + ':' + String(s).padStart(2, '0'); }
-    if (saved > 30) note.textContent = 'Resumes at ' + fmt(saved) + '. ';
+    if (saved > 30) note.textContent = ' Resumes at ' + fmt(saved) + '.';
     a.addEventListener('loadedmetadata', function () { if (saved > 30 && saved < a.duration - 10) a.currentTime = saved; }, { once: true });
     var last = 0;
     a.addEventListener('timeupdate', function () {
@@ -23,4 +25,3 @@
     a.addEventListener('ended', function () { try { localStorage.removeItem(key); } catch (e) {} note.textContent = ''; });
   })();
 </script>
-
