@@ -1,0 +1,37 @@
+---
+layout: default
+---
+<p class="byline">By Ridley DiSiena. Licensed <a href="{{ site.repo_url }}/blob/main/LICENSE">CC BY-NC 4.0</a>. See the <a href="{{ '/NOTICE.html' | relative_url }}">Notice of Authorship</a>. <a href="{{ '/fractus-ii.pdf' | relative_url }}">Download the PDF</a>.</p>
+
+<hr>
+
+{{ content }}
+
+<hr>
+
+{% if site.giscus_repo_id %}
+<section id="comments">
+  <h2>Comments</h2>
+  <p>Comments are stored in this repository's GitHub Discussions. You need a GitHub account to post.</p>
+  <script src="https://giscus.app/client.js"
+          data-repo="{{ site.giscus_repo }}"
+          data-repo-id="{{ site.giscus_repo_id }}"
+          data-category="General"
+          data-category-id="{{ site.giscus_category_id }}"
+          data-mapping="pathname"
+          data-strict="0"
+          data-reactions-enabled="1"
+          data-emit-metadata="0"
+          data-input-position="bottom"
+          data-theme="transparent_dark"
+          data-lang="en"
+          data-loading="lazy"
+          crossorigin="anonymous"
+          async>
+  </script>
+</section>
+{% endif %}
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css" crossorigin="anonymous">
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.js" crossorigin="anonymous"
+        onload="document.querySelectorAll('span.math').forEach(function (el) { katex.render(el.textContent, el, { displayMode: el.classList.contains('display'), throwOnError: false }); });"></script>

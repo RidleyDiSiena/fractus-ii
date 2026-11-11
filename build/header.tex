@@ -1,0 +1,23 @@
+\usepackage{etoolbox}
+\makeatletter
+\providecommand{\subtitle}[1]{\apptocmd{\@title}{\par\vspace{0.5em}{\Large #1\par}}{}{}}
+\makeatother
+\usepackage{microtype}
+\usepackage{titlesec}
+\titleformat{\section}[block]{\centering\normalfont\LARGE\bfseries}{}{0pt}{}
+\titlespacing*{\section}{0pt}{1em}{2em}
+\titleformat{\subsection}{\normalfont\Large\bfseries}{}{0pt}{}
+\titlespacing*{\subsection}{0pt}{1.8em}{0.8em}
+\titleformat{\subsubsection}{\normalfont\large\bfseries\itshape}{}{0pt}{}
+\let\oldsection\section
+\renewcommand{\section}{\clearpage\oldsection}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{\small\itshape Fractus-II}
+\fancyhead[R]{\small\itshape Ridley DiSiena}
+\fancyfoot[C]{\small\thepage}
+\renewcommand{\headrulewidth}{0.3pt}
+\setlength{\headheight}{14pt}
+\renewcommand{\abstractname}{}
+\AtBeginEnvironment{longtable}{\small}

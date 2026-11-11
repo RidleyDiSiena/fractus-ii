@@ -1,0 +1,22 @@
+title: Fractus-II
+description: One Shape, Folded at Every Depth
+theme: jekyll-theme-minimal
+markdown: kramdown
+kramdown:
+  input: GFM
+  auto_ids: true
+  hard_wrap: true
+repo_url: https://github.com/RidleyDiSiena/fractus-ii
+# Filled in after the first Zenodo release mints the DOI.
+doi:
+# giscus comment settings, filled in after the repository exists.
+giscus_repo: RidleyDiSiena/fractus-ii
+giscus_repo_id:
+giscus_category_id:
+exclude:
+  - README.md
+  - CITATION.cff
+  - fractus-ii.md
+  - build/
+plugins:
+  - jekyll-seo-tag

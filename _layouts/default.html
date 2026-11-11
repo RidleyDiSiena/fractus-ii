@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="color-scheme" content="dark">
+    <meta name="theme-color" content="#0d0716">
+{% seo %}
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Antonio:wght@400;600;700&family=Figtree:ital,wght@0,400;0,600;0,700;1,400&family=JetBrains+Mono:wght@400;600&display=swap">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+  </head>
+  <body>
+    <a class="skip" href="#content">Skip to the text</a>
+    <div class="frame">
+      <aside class="rail">
+        <div class="elbow">
+          <a class="brand" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+          <p class="tagline">{{ site.description }}</p>
+        </div>
+        <nav class="pills" aria-label="Site">
+          <a class="pill p-cyan" href="{{ '/' | relative_url }}">Manuscript</a>
+          <a class="pill p-green" href="{{ '/fractus-ii.pdf' | relative_url }}">PDF</a>
+          <a class="pill p-pink" href="{{ '/NOTICE.html' | relative_url }}">Notice</a>
+          <a class="pill p-blue" href="{{ site.repo_url }}">GitHub</a>
+          {% if site.doi %}<a class="pill p-orange" href="https://doi.org/{{ site.doi }}">DOI</a>{% endif %}
+        </nav>
+        <details class="toc" id="toc" hidden>
+          <summary>Contents</summary>
+          <ol id="toc-list"></ol>
+        </details>
+        <div class="rail-foot">
+          <span class="seg s1"></span><span class="seg s2"></span><span class="seg s3"></span><span class="seg s4"></span>
+        </div>
+      </aside>
+      <main id="content" class="page">
+        {{ content }}
+        <footer class="foot">
+          <p>Fractus-II by Ridley DiSiena. Text licensed CC BY-NC 4.0.{% if site.doi %} DOI <a href="https://doi.org/{{ site.doi }}">{{ site.doi }}</a>.{% endif %} The first work, <a href="https://ridleydisiena.github.io/fractus/">Fractus</a>, remains available.</p>
+        </footer>
+      </main>
+    </div>
+    <script>
+      (function () {
+        var page = document.getElementById('content');
+        var heads = page.querySelectorAll('h2[id]');
+        if (heads.length < 3) return;
+        var toc = document.getElementById('toc');
+        var list = document.getElementById('toc-list');
+        var links = [];
+        heads.forEach(function (h) {
+          if (h.closest('#comments')) return;
+          var li = document.createElement('li');
+          var a = document.createElement('a');
+          a.href = '#' + h.id;
+          a.textContent = h.textContent;
+          li.appendChild(a);
+          list.appendChild(li);
+          links.push({ head: h, link: a });
+        });
+        toc.hidden = false;
+        if (window.matchMedia('(min-width: 1100px)').matches) toc.open = true;
+        list.addEventListener('click', function (e) {
+          if (e.target.tagName === 'A' && !window.matchMedia('(min-width: 1100px)').matches) toc.open = false;
+        });
+        var current = null;
+        function mark() {
+          var y = window.scrollY + 120, pick = links[0];
+          for (var i = 0; i < links.length; i++) {
+            if (links[i].head.offsetTop <= y) pick = links[i]; else break;
+          }
+          if (pick === current) return;
+          if (current) current.link.classList.remove('here');
+          pick.link.classList.add('here');
+          current = pick;
+          if (toc.open && window.matchMedia('(min-width: 1100px)').matches) {
+            var box = list.getBoundingClientRect(), r = pick.link.getBoundingClientRect();
+            if (r.top < box.top || r.bottom > box.bottom) list.scrollTop += r.top - box.top - box.height / 2;
+          }
+        }
+        var ticking = false;
+        window.addEventListener('scroll', function () {
+          if (ticking) return;
+          ticking = true;
+          requestAnimationFrame(function () { ticking = false; mark(); });
+        }, { passive: true });
+        mark();
+      })();
+    </script>
+  </body>
+</html>

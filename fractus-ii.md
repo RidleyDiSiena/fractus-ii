@@ -1,0 +1,1298 @@
+# Fractus-II
+### One Shape, Folded at Every Depth
+
+*A thought experiment on how a single folded geometry might give rise to forces, matter, spin, light, gravity, and the dark universe*
+
+**Ridley DiSiena**
+
+*November 2026*
+
+---
+
+Before anyone can write the mathematics of a new physics, someone first has to build the picture that the mathematics would be a mathematics of. This is that picture.
+
+It is a thought experiment, not a finished theory. It offers no new equations. What it offers is a single way of seeing, followed as far as it will go, with an honest account kept along the way of what it borrows from known physics, what it is guessing at, and what would still have to be proven before any of it counted as science.
+
+Read it as a lens to look through, not a claim to be believed.
+
+The main text is written to be listened to. Technical names, the formal mathematics, and the established research behind each idea are collected in the appendices at the end, so the argument can stay in plain language while anyone who wants the machinery can go and get it.
+
+One habit of this document deserves naming at the start, because it has a precedent. The patterns come first and the mechanisms come after. That is how the particle zoo itself was first organized: the hadrons were sorted into families by symmetry alone in 1961, one missing member was predicted from the pattern and then found, and the quarks were proposed afterward as the things that carried it. This document works the same way. It looks for the pattern and leaves the mechanism as a debt.
+
+A second habit should be named too, because it is a method and not a failing. To picture the shape at all, the mind has to render it with distance and time in it, because those are the only facilities it has. The rendering is then corrected against what is known: that light does not move through time, that there is no frame for it, that two entangled knots are not at a distance in the sense that matters. The jumping back and forth between the picture and the correction is how this document was written, and it is how every physicist works with a spacetime diagram. The pictures are scaffolding. The places where they fail are exactly where the fold is doing something the scaffold cannot hold.
+
+---
+
+# Part I: The essay
+
+## A shape instead of a stage
+
+Picture spacetime not as an empty stage that things happen on top of, and not as a fine grid of tiny pixels either, but as a single folded shape with real structure inside it.
+
+Think of a coastline, or the branching of a tree, or the inside of a lung. Look closer at any part of it and you find more structure, and the structure you find looks like the structure you already saw, echoed again at a smaller size.
+
+That word echoed matters, and one distinction has to be made right at the start, because everything rests on it. This is not the same picture copied identically at every size, like the endlessly repeating fractal on a poster. It is something looser and more alive: the same way of building, working at every scale, producing patterns that rhyme with one another without being exact copies. The same hand at work at every depth, drawing something a little different each time.
+
+This kind of rhyming across scales is not a new invention. Physics has already found it in several places, and the appendices name them. What is new here is bolder than the observation. It is the claim that these echoes are not a curiosity around the edges of physics but the main organizing principle of the whole thing.
+
+Everything we normally treat as a separate ingredient of the world is, in this picture, one more feature of that single shape. A particle is a knot tied in it. A force is a channel running through it. Gravity is the shape flexing as a whole. Light is a ripple traveling along its surface. There is no stage and no separate cast of actors. There is only the geometry, and the things we call physics are the different things this one shape is doing at different depths.
+
+And the shape does not sit on top of some outside clock, waiting for time to move it. The whole of it, past and future together, simply is. What we live as the flow of time is us counting our way along the shape from the inside, following its grain in one direction, the way you feel a story move even though all its pages already exist at once. We do not travel across the shape. We count along it from within, and we call that count history. What the grain is, and what does the counting, is taken up in the section on time.
+
+One more word belongs in this opening, because the middle of this document turns on it. The substrate is treated here as continuous: a fluid, flowing topology rather than a grid of quantized cells. It is also never still. Its native behavior is a restlessness this document calls the **tide**, always winding in or winding out, with nothing outside driving it. The tide is not caused by anything. It is simply what the substrate is.
+
+Continuity does not mean that everything about a particle can slide smoothly, though, and four things are kept apart from here on. The substrate is continuous. The depths at which a pattern can hold together are discrete, a short list of allowed levels. A particle's identity is protected by something that cannot be smoothly undone. And its persistence, the fact that it stays a finite size for a while, comes from a balance that can eventually tip. Size can vary within a depth. Depth itself does not slide.
+
+On this reading, discreteness is not a sign that the substrate is built from pieces. It is what a continuous, restless thing produces when a pattern has to come back on itself. That is in the spirit of how the hydrogen levels were first derived, as standing waves. What selects the allowed depths is not known, and the section on closure and persistence sets out what would have to be found.
+
+If a single shape has to show up differently at different depths, then something has to happen between one depth and the next. That something, this document will argue, is a fold. Hold the word. It comes back.
+
+## One channel becoming many
+
+Start with something familiar and see it differently.
+
+A familiar account of the early universe tells of forces separating as things cooled. The parting of electromagnetism and the weak force belongs to established physics; a common origin with the strong force and gravity remains conjectural. The proposed history is told as a sequence of events after a beginning.
+
+Tell it instead as a fact about scale.
+
+At the finest, most energetic depths, this framework proposes that the channels carrying the forces are not separate things at all. They are one system of passages, undivided. There is nothing yet that distinguishes what we will later call gravity from what we will later call the strong force. Everything runs through the same tunnels.
+
+Read the same structure at a coarser scale, at lower energy, and the single passage divides. Gravity may be rooted in the deepest workings of the substrate while showing up as its broadest collective behavior, the overall shape of the whole thing. The others resolve inside it, down to the familiar parting of electromagnetism from the weak force.
+
+On this reading the forces were never created one by one. They are the same channel system seen at different depths, unified where the structure is fine and distinct where it is coarse.
+
+There is an established fact that favors this reading more than any other, and it is easy to miss because it is usually stated as mathematics. The force carriers are not put into physics by hand. They are forced into existence by a requirement. The requirement says the equations must not change if you rotate a certain internal label of a particle differently at every point in space, and the only way to satisfy that is to add something that compensates for the rotation. That compensating something is the force carrier. Each force has its own internal symmetry, and the size of that symmetry fixes how many carriers there are: one photon for electromagnetism, three carriers for the weak force before they mix, eight gluons for the strong force. Nothing about mass appears anywhere in this story. A pure symmetry demands that every carrier be massless.
+
+So the carriers are not objects added to the geometry. They are what the geometry must contain for its internal orientation to be free at every point. That is the plain-language content of the claim that force is a channel rather than a messenger, and it is already established physics.
+
+The strengths of the three forces are not constants either. Each changes with energy, and the three strengths approach one another at high energy. In the Standard Model alone they come close but do not quite meet. With additional particles added, they can meet at a single point. Whether they do is unknown, and it is one of the main arguments for physics beyond the catalog we have.
+
+The kinship among the forces is not invented here. It is what unification physics already says. The particle of light and the particle that binds atomic nuclei really are siblings, built from the same mathematical construction with different symmetries attached. What this framework adds is only the geometric reading: that this structure is the channel system of one shape. To become physics rather than a picture, it would have to specify which symmetry sits underneath, and show why the particular family of forces we observe is the one that falls out. That debt is real and is recorded.
+
+## The first lean
+
+Now a question that any single shape has to answer. If everything comes from one structure, why is the world not perfectly symmetrical?
+
+Picture the seam down the middle of a deeply folded figure, the balance point between two mirrored halves. That seam is an equilibrium, but an unstable one. A structure that stays perfectly balanced there stays undifferentiated. To have distinct structure at all, it has to lean.
+
+Somewhere early in its own internal history, the substrate may lean. When it does, one orientation becomes dominant and its mirror becomes recessive, still present but nested underneath and suppressed. Which one we happen to call matter is arbitrary. Had the shape leaned the other way, beings made of the other orientation would write this same paragraph with the labels swapped. The necessity is in the leaning. The direction is free.
+
+**The lean has an established face.** The weak interaction treats a particle and its mirror differently. For a spin-one-half matter field, the two chiral components give a precise meaning to the two orientations in this picture. The charged weak interaction selects the left-chiral matter fields and their conjugates. The neutral weak interaction also distinguishes the two sides but has different couplings. Parity violation was established in cobalt-60 decay in 1957. Appendix A gives the distinction between chirality, helicity and the charged and neutral currents.
+
+The neutrino makes this difference especially visible. Ordinary weak production and detection overwhelmingly select negative-helicity neutrinos and positive-helicity antineutrinos at high energy. That is not evidence that a massive traveling state contains only one chiral component. The nature of its mass, and whether additional sterile states exist, remains open.
+
+The mirror is broken twice. Parity alone can be repaired by also swapping matter for antimatter, a combined operation physicists call CP. In 1964 that combination was found to be broken too, first in the decays of neutral kaons and later in B mesons. The breaking is small, and it is fully accounted for by a single phase in the quark mixing matrix described later in this document. The combination of all three mirror operations, which adds a reversal of time, is believed exact and has never been seen to fail.
+
+So the substrate leaned, and established physics already knows where. What this framework must still say is whether its lean is this one, the weak sector's chirality, or a deeper lean that the weak sector merely inherits. That is left open.
+
+**Two things the lean does, kept separate.** The lean does one structural thing and one quantitative thing, and they are not the same.
+
+The structural thing is the branching itself. The substrate chose an orientation, and charged knots ended up on one side with their mirrors on the other. A perfectly balanced universe, equal in matter and antimatter, would still have two branches. The branching needs no imbalance at all.
+
+The quantitative thing is why the matter branch ended up more populated. The lean alone cannot do that. Established physics states the three conditions any account must meet, named for Sakharov. There must be a process that changes the count of matter particles, there must be a violation of both charge symmetry and the combined CP symmetry, and there must be a departure from equilibrium so the change can lock in. All three are known to exist in the Standard Model. The measured CP violation is far too small, by many orders of magnitude, to produce the observed excess. The shortfall is quantitative, not qualitative. The leaning is the image. The mechanism is a debt, and below this document records a candidate for paying it.
+
+### The unbranched knot
+
+Here is a question the lean forces, and it leads somewhere this document did not expect.
+
+An electron carries electric charge of minus one. Its mirror, the positron, carries plus one. Charge is conserved exactly, so an electron can never turn over into its mirror mid-flight. The turnover would have to create or destroy charge. Whatever an electron does as it moves, it is forced to stay an electron, and its mirror lives on the other branch of the lean, reachable only by annihilation. Charge is what keeps the electron on its own side of the seam.
+
+The neutrino is the only elementary matter particle with no electric or color charge. It still takes part in the weak interaction. A bookkeeping count called lepton number distinguishes a neutrino from an antineutrino in the Dirac case, but no known exact gauge charge requires that distinction. Neutrality permits the Majorana possibility; it does not select it.
+
+So the neutrino is the one knot where the mirror is allowed as a partner. Established physics has two names for the two possibilities. In the first, the neutrino is like every other matter particle, with a right-chiral partner that exists but interacts with nothing, a sterile twin. In the second, the neutrino is its own antiparticle. The left-chiral state we call a neutrino and the right-chiral state we call an antineutrino are one object seen from two sides. There are not four states with two missing. There are two states total, and we have seen both. Physicists call the second possibility a Majorana neutrino, and it is being tested right now.
+
+In this framework's language, charge is what branches the shape. The first lean split the substrate into two mirrored halves, and charge is the label that keeps every charged knot on one half with its reflection on the other. The author proposes that the neutrino is where the two sides rejoin, the unbranched knot. This is an interpretation of the Majorana possibility, not a consequence established by neutrality alone.
+
+The test is a decay called neutrinoless double beta decay, in which a nucleus changes two neutrons into two protons and emits two electrons with no neutrinos. Seeing it would strongly support the neutrino being, at least in part, its own antiparticle. It would not establish that the branches of the first lean rejoin; other accounts predict the same signal. A null result so far does not rule the reading out. To earn a decisive test, the framework must first predict a minimum rate that experiments could pass. Appendix A, 'What the double-beta search can establish,' gives the precise implication.
+
+This remains a question with an experiment attached. The interpretation is open, and the framework has not yet earned a numerical prediction.
+
+### A candidate for the lean's debt
+
+The unbranched knot may also be the thing that pays for the imbalance, and the idea is established, if untested.
+
+Start with a puzzle. Neutrinos are vastly lighter than the electron. One widely used answer, called the seesaw, adds heavy neutral partners. In its simplest form, a larger partner mass can suppress the visible mass, with the relation also depending on an unknown coupling. There is no single measured mass for the hidden partner. A very high scale is one possibility, not a prediction of the observed light mass alone. Appendix A gives the conditional relation.
+
+Those heavy partners sit on the seam by construction. They are their own mirrors, with no charge to branch them. In the first instants of the universe they would have been produced in huge numbers and then decayed, into a lepton plus a Higgs or into an antilepton plus an anti-Higgs. If those two routes run at slightly different rates, which CP violation allows, the decays leave slightly more leptons than antileptons behind. The universe cools, the heavy partners are gone, and the excess cannot be undone.
+
+The last step is a conversion. A known process in the hot early universe, called a sphaleron, can turn part of a lepton excess into a baryon excess. Physicists call this candidate chain leptogenesis. It is consistent with measured physics but has not been established as the source of the cosmic imbalance. Double-beta decay and neutrino CP measurements bear on related ingredients; neither would prove that this history occurred.
+
+For this framework the fit is striking. A knot on the seam, a configuration so deep it was real only in the first instants and then was gone, and the lean's debt paid by it. It is pinned here as the candidate mechanism, not the answer.
+
+One discomfort belongs beside the high-scale version: it leaves an enormous gap between visible neutrinos and hidden partners. Other seesaw constructions put new states much lower, and some can support leptogenesis. If generations are depths, the framework must say whether a distant hidden partner is another rung or a different kind of configuration. That is an open question, taken up again in the dark sector.
+
+## Knots, and the channels between them
+
+A particle with mass is not an object placed into space. In this picture it is a knot in the shape itself, a pattern that holds its identity and is kept at a finite size by a balance the geometry provides. The next section says exactly what holding an identity and keeping a size mean, because they turn out to be two different things.
+
+That reading explains something otherwise strange about the particle catalog: its rigidity. You cannot have a particle of any mass you like. Only certain ones exist, always with exactly the same properties. If particles are knots, then only certain knots can be tied, each stable form is a species, and the energy it takes to hold each shape sets its mass. Mass is not a substance added to a particle. It is how the pattern is anchored into the shape. What that anchoring actually is, in this framework, is the subject of the overturn section.
+
+Then there is the odd business of virtual particles. They appear in every calculation physicists do and are never observed directly, and this framework offers a clean reading of why. They are not particles. They are the weave: the connective channels of the substrate, the grooves between the deep wells along which one anchored pattern's disturbance reaches another.
+
+When two electrons push apart, this framework pictures a disturbance traveling through the weave rather than a ghost particle crossing the gap. Standard physics computes the interaction without requiring virtual particles to be observable objects. Energy remains conserved; an internal line in a calculation is not a particle borrowing energy for a moment. Reading that mathematical connection as a physical weave is the proposal.
+
+One line has to be drawn here, firmly. The weave is proposed to carry influence, and influence takes time. It respects the speed of light. Entanglement is a different question: correlated outcomes do not give either observer a way to send a message to the other. Ordinary interactions can create correlations, but a transmitted disturbance through the weave cannot serve as a hidden message explaining Bell correlations. The crease is never a wire for signaling through entanglement.
+
+The force carriers we do observe are real ripples running along these channels. The particle of light is such a ripple on the open surface, free to travel any distance at all. The particle that binds quarks is its sibling, but not its copy. The difference between them has a precise established cause. A photon carries no electric charge, so it cannot talk to other photons, and its field spreads out and thins. A gluon carries the very color charge it mediates, so gluons pull on one another constantly, and there are eight of them. That self-coupling is the whole reason the strong force collapses into a narrow string between quarks while electromagnetism spreads. It is not light that failed to escape. It is a ripple of a structurally different channel, one that grips itself. In the language of the fold section, a gluon is the tide made visible where it is trapped.
+
+## Closure, persistence, and the words that keep them apart
+
+A few of this document's words could easily carry several jobs at once. This section separates them, because established physics separates them too, and running them together hides the questions that matter. It is a set of definitions with their status marked. It claims nothing new about the world.
+
+Start with a door. Picture a knot tied in a rope. Two different questions can be asked of it. Can it be untied without cutting the rope? And will it stay the size it is, or slide tighter or looser until it is gone? The first question is about identity. The second is about persistence. A knot can pass the first test and fail the second. Like every door in this document it is too simple, because the substrate is not a rope, but the two questions survive the trip.
+
+**The tide.** The substrate's native restlessness. It is never static, always winding in or winding out, collapsing or expanding. Nothing drives it. Everything else in this document is the tide under different conditions. Where nothing traps it, its windings spread out and never pile up. Where something does, they build on one another. The fold section pictures the tide as an iteration, a move applied over and over. That iteration is a way of picturing the tide, not its mechanism. Confinement supplies nothing. It only keeps the tide from escaping.
+
+**Closure.** A pattern is closed when its identity cannot be smoothly undone. You can stretch it, squeeze it, and slosh it around, but you cannot remove what makes it that pattern without tearing the substrate somewhere. Mathematicians call this kind of protection topological, and what it protects is a whole-number count: how many times something winds around, or how two loops link through each other. Established physics has many working examples of protected counts in fields and fluids. None is yet known to describe a real elementary particle.
+
+Returning on itself is not enough to count as closure, and the reason is established. In quantum physics, almost anything trapped and lasting settles into states that repeat identically, turning only in phase. If closure meant only returning, every trapped thing would qualify, and the word would add nothing to confinement. So closure is reserved for protection. The requirement that a pattern come back on itself is given its own name, the **return condition**, and it is a candidate for what makes depths discrete.
+
+**What carries the count.** This document proposes that the substrate carries an orientation at every point, a direction that says which way the tide is winding there. A protected count would live in that orientation, and it could not change without the field tearing somewhere, which costs energy. The crease, described later as the path a windfold traces and the record it leaves in the lower order, would also be where the count shows up as a visible line, the core of the field. How those two descriptions of the crease fit together is open, and both are kept.
+
+One thing can be said about the orientation now. Signed charge, an electron and a positron as opposite closures, needs the field to remember direction somewhere. So the orientation is arrow-like at least where charge lives, rather than a plain axis with no head and no tail. What the crease keeps of that direction is not decided, and this document declines to decide it until something forces the choice.
+
+The idea has an old ancestor. In 1867 Kelvin proposed that atoms were knotted vortex rings in a fluid ether, with each kind of atom a different knot. The proposal was abandoned when the ether was. This document inherits its shape knowingly, and it records a modern relative too: in an ideal fluid, how tangled the swirling lines are is conserved, and the count leaks only when lines cut and reconnect. That is a working example of protection that holds well and fails by degree.
+
+**Persistence.** A protected count does not fix a size. A known result in field theory, called Derrick's theorem, shows that in many simple models a configuration with a protected count can still shrink to a point or spread out forever, keeping its count either way. Something else has to hold the size. Model builders who wanted their knots to stay a finite size had to add a second ingredient that resists shrinking, so that two pressures balance.
+
+Physics has a name for a balance that holds against small disturbances but can eventually be escaped. It is a **metastable equilibrium**: balanced for now, able to hold against small nudges, but not forever. This document uses that term for persistence, because nothing in it is meant to last forever. Whether every configuration is metastable, or only the ones considered here, is left open. Some model solutions are stable outright, and the electron has never been seen to decay.
+
+Stability itself comes in two kinds that are easy to confuse. Something can be stable because nothing lies below it to fall into, or stable because its identity is protected. The electron happens to be both. It is the lightest particle with its charge, and charge is conserved exactly.
+
+**What may supply the balance.** The roles can be named while the law is left open. Each is paired with the established mechanism it echoes, and none of the pairings is shown to be an identity.
+
+Two roles may pull inward. The first is confinement holding the tide in, so that it winds inward and builds crease. Its established echo is the strong force's flux tube, which pulls harder as quarks separate. The second is the substrate's pull toward its resting shape. If a wound crease costs shape, the substrate would pull it shorter and tighter. Its echoes are string tension and surface tension, both of which shrink things.
+
+Two roles may push outward. The first is restlessness under squeeze. If the tide cannot be still, squeezing it into a smaller region may force it to turn faster, and if a faster turn means more energy, collapse would eventually cost more than it saves. Its established echo is the uncertainty principle, which keeps atoms from collapsing and holds up white dwarf stars. The second is crowding of the count. If a protected count needs room, packing it smaller would make its twists steeper, and steeper twists may cost energy. Its echo is the extra term model builders added to stop their knots from shrinking.
+
+If these roles hold, size would settle where squeezing further costs more than tightening saves. That point would be the metastable equilibrium. One consequence is worth keeping as a possibility. If tighter really means faster, then size, energy, and mass are linked through the turning rate, and very different particles might be different balance points of the same tradeoff. That depends on the first outward role holding, and it is untested.
+
+**Four combinations.** Kept apart, the two properties give four cases. Closed and in metastable equilibrium is a particle, such as the electron. Closed but not in equilibrium is a protected pattern that shrinks or spreads while keeping its count. In equilibrium but not closed is something that persists only because nothing lies below it, and the pure-glue glueball of the quark ladder section is the candidate. Neither closed nor in equilibrium is an ordinary passing disturbance.
+
+**Cinch.** The energy held in a wound crease. Most of a hadron's mass is energy held in its wound crease. This document calls that held energy the cinch, and keeps the word tension for its established meaning. Cinch is defined by what it does, holding energy by winding, and not by what kind of thing it is.
+
+**Knot, defined by role.** A knot is whatever reaches closure and holds its identity there. It is not a kind of material. So nothing stops one configuration from being both cinch and knot. Cinch that has closed on itself may be a knot. Whether knot and cinch are two things or one thing at different tightness is open, and the glueball, discussed in the quark ladder section, is the case where they either come apart or turn out to be the same.
+
+**Harness.** A loosely bound system, such as an electron and its nucleus. The atom's binding is not called a crease, because light's channel is barely folded. The harness is what the electron is strapped into. Absorption and emission of light belong to the harness, not to the rider.
+
+**Depth and size.** Depth and size can change independently, and established physics shows both patterns. In atoms, the most tightly bound state is also the smallest. But adding energy to a hadron along its family line makes it heavier and larger, not smaller. And the muon and tau, read here as occupying deeper levels than the electron, look just as point-like as the electron does. So this document proposes that depth is discrete and size is continuous. A balance fixes size within a depth. Something else fixes which depths exist.
+
+**One count, several depths.** The three charged leptons carry the same electric charge and the same total lepton number. A muon falls to an electron and the charge comes through untouched. So if charge is a protected count, one count closes at three depths. Topology protects identity, but it does not choose depth. That has to be a separate rule.
+
+What that rule is remains open, and two candidates are kept side by side. One is a return condition, the requirement that a pattern come back on itself, which is how one charge allows many energy levels in an atom. The other is the proportion question recorded in Appendix D: why each self-similar copy is the size it is compared with the last. Whatever the rule is, it must stop at three light families, or place any further ones very high. Measurements of how the Z boson decays show exactly three kinds of light neutrino.
+
+**The honest boundary.** Established: that topological counts protect configurations in many field theories, that a protected count alone does not fix size, that metastable equilibrium is a standard physical condition, that every rest mass corresponds to a frequency, that the three charged leptons share their conserved charges, and that there are three light neutrino types. Proposed, belonging to this framework: the tide, the orientation field as the carrier of protected counts, its arrow-like character where charge lives, the four balance roles, the crease as the field's core, and discrete depth selected by a rule separate from protection. Open: the field space, which invariant it carries, the law that sets the balance, and the depth rule.
+
+## Overturn, and the mass of matter knots
+
+This section changes how the rest of the document reads the word mass for matter particles. It needs a door first.
+
+Picture a pattern that keeps turning beneath what we can see, the way a held note keeps vibrating while it sounds steady. That turning is not the object moving. How fast a particle travels is a separate question from how fast it turns.
+
+**The established fact.** A mass term couples a fermion's two chiral faces, its left-handed and right-handed components. In a steady state both faces are present together in a fixed balance: a held chord rather than a trill, with neither face alternating with the other. That is a clue for the hidden-turning picture, not a proof of it. Appendix A, 'The held chord: weights, amplitudes and clocks,' gives the conditions.
+
+**A rate every mass already has.** Quantum mechanics already gives every definite mass a rhythm. Its phase advances at a fixed rate, the Compton frequency, set by the mass alone. An electron has it, and so do a proton, a massive particle with no spin, and an atom taken as a whole. The rhythm hints at a physical turning but does not prove one. The task is to say what turns, and why at that rate.
+
+**The framework's reading.** The author proposes that this rhythm reflects a physical turning: a steady, hidden turning within one depth of the geometry, called the **overturn**. A force that grips only one chiral face might be what reveals it. This is an interpretation, not a demonstrated motion. Appendix A sets out the chiral and clock conditions it must meet.
+
+Mass sets the pace of that turning. It does not slow the object down, and a heavier knot need not move more slowly. The framework reads the Higgs coupling as a kind of grip, but it must recover the established Higgs field and its couplings before it can claim to explain them. Standard physics takes the fermion masses from measurement, and this framework has not derived them either. Producing even one independently remains the target.
+
+**Mass is a comparison.** Over the same proper time, a muon's phase advances about 207 cycles for each cycle of an electron's, and that ratio is the muon's mass in electron units. The section on time takes this up.
+
+**The Higgs particle as a splash.** The Higgs boson is real. It was discovered in 2012, it has no spin, and it decays in about ten to the minus twenty-second of a second into pairs of W bosons, Z bosons, bottom quarks, tau leptons, and photons, in proportions that match a coupling that scales with mass. Nobody has watched a Higgs. It has been reconstructed from a bump at a particular energy across millions of collisions. Calling it a particle is fair, but it is more like a splash.
+
+In this framework the splash is the substrate's resting state ringing. The resting state is the unfolded seam, the one configuration that looks the same from every direction, which is exactly what spin zero means. Hit it hard enough and it rings at its own natural frequency before it settles back down. The ringing falls into the nearest available configurations, heaviest first. That is the Higgs, read as a resonance of the ground state rather than as a field that gives things mass. The reading inherits one debt untouched. The energy at which the resting state rings is no more explained here than the Higgs mass is in standard physics.
+
+**Two sources of mass, and whether they are one.** Most of the mass of ordinary matter comes from the strong-force dynamics inside its protons and neutrons, with a smaller contribution from the quarks' own masses. The Higgs mechanism supplies elementary fermion mass terms; confinement and relativistic quark and gluon dynamics supply most nucleon mass. These contributions cannot be summarized by one universal Higgs percentage. Binding nucleons into a nucleus changes their combined mass by a much smaller amount. Appendix A keeps these comparisons apart.
+
+So established physics has two mechanisms, and this document keeps a word for each. A lone knot's mass is proposed to be its overturn. A hadron's mass is mostly its cinch, the energy held in its wound crease. The framework's leaning, recorded as a leaning and not a result, is that these are one grip at two depths. The lone knot grips the substrate directly. The hadron grips itself through its own crease, and the self-coupling of the gluons is what makes that inner grip possible. Whether that unification holds, or whether the two mechanisms must be kept apart, is the sharpest internal question the catalog raises. The glueball, a configuration that would be all cinch and no quark, is now the cleanest test case, and it is taken up in the quark ladder section.
+
+**What turns in a cinch.** Every definite-mass state already has the ordinary mass-related phase, including a scalar glueball. It does not need chiral exchange to have that phase. If cinch and overturn are one grip, the framework must still say what physical motion underlies it. Circulation around a closed crease, breathing as the cinch tightens and loosens, and reorientation remain candidates. No one of them has been identified with the Compton phase.
+
+Circulation and breathing both have worked precedents in field theory. Models of closed loops held open against their own tension by a circulating current, called vortons, have been built, and some have shown numerical stability in selected conditions. Localized configurations that breathe for a long time without an exactly conserved charge, called oscillons, are well studied. And recent work found that, in a simplified one-dimensional setting and to leading approximation, a breathing configuration can be described as a rotating one. That leaves room for one tide dynamics showing different faces in different regimes. It does not establish it, and it does not connect either motion to chiral exchange. The candidates are compared in Appendix E.
+
+**Two grips, as established physics already sees them.** The leaning has more support than the paragraph above lets on, because established physics already has two grips and describes them in the same terms. Each is a vacuum that holds a resting value and couples a particle's two chiral faces. The first is the Higgs vacuum, an outside medium. Its resting value carries weak isospin, the charge only the left face carries. This lets it couple the electron's two chiral faces. The electron gets its mass while the charged weak force still selects one face. The second is a medium the strong force builds out of quarks themselves, a pairing of quarks with antiquarks that fills the vacuum. Physicists call it the quark condensate. The gluon never flips a quark's chirality directly. The condensate does.
+
+The two grips differ in depth and in reach. The Higgs gives each particle its own grip strength, with a steep hierarchy among them. The condensate gives every light quark the same grip, worth about three hundred million electron-volts, and for the light quarks that is roughly a hundred times more mass than the Higgs supplies. The condensate melts at a temperature about a thousand times lower than the one that dissolves the Higgs vacuum. In plain terms, the electron is gripped by an outside medium, and the quark is gripped by a medium of its own kind.
+
+If the two are one grip at two depths, the Higgs is a deeper copy of the condensate, not a smaller one. Physics has a precedent for exactly that move. Superconductivity was first described with a field written down by hand, and was later shown to be a condensate of paired electrons. The mainstream programs that read the Higgs the same way are called composite Higgs models. So far the measured Higgs behaves like an elementary particle to within five to ten percent, and no new particles have appeared to suggest it is built of anything. Precision measurements expected around 2030 will tighten that. On this reading, a deviation would be the framework's best evidence, and continued elementary behavior at higher precision would weaken the unification.
+
+**The honest boundary.** Established: the mass term couples chiral components; a definite rest mass corresponds to a phase frequency; the Higgs boson exists; and most nucleon mass arises from confined QCD dynamics. A universal alternating chiral clock does not follow. Conjecture: the phase is a physical hidden overturn, Higgs coupling is grip in the substrate, and overturn and cinch have a common mechanism. Neither the physical turning nor its rate has been derived. Confinement is strongly supported; the rigorous Yang-Mills existence and mass-gap problem remains open.
+
+One more debt belongs here and should not be hidden. A phase rhythm is a count per unit of time. Reading mass through it therefore leans on the one thing this document has so far declined to define. That debt is taken up, and partly paid, in the section on time that follows the other turnings, where reading mass as a comparison is the first payment.
+
+## Overturn, and the other turnings
+
+The previous section put one property of a matter particle, its mass, on a rotation. This section asks whether the others go on rotations too. It is the next exploration this document proposes, and it is written as a set of questions with a direction, not as results.
+
+A fundamental particle carries four kinds of handle: mass, electric charge, color charge, and spin. Established physics treats each as a quantum number, a label the particle has. This framework proposes instead that each is something the particle is experiencing. The knot is not holding these properties. It is being turned by the geometry it sits in, on more than one axis at once, and each handle is one of those turnings seen from inside. The turnings are not all of the same kind. They are different dimensional mechanics at different orders of the topology, which is why they look so unlike one another from here.
+
+**Why the overturn is the fundamental one.** Among the four, mass is set apart, and the reason is gravity. Mass is the one handle that loads the substrate. Every other property couples to a channel. Mass alone curves the shape as a whole, which is what this document calls gravity. So the overturn is the turning that engages the geometry directly, and the others are stacked on it. That is also a candidate for why all mass gravitates the same way regardless of what the particle is, the fact established physics calls the equivalence principle. If every matter mass is the same overturn, and if cinch loads the substrate in exactly the same way per unit of mass, then every mass loads the substrate alike. Recorded as a question, because it would need to be derived rather than noticed.
+
+**Charge as the turning that branches.** Electric charge is proposed to be a rotation on a second axis, and its job is the one the first lean section found. It locks a knot to one side of the seam. An electron is turning on two axes at once, the overturn that sets its mass and the charge rotation that fixes its side, and the two are coupled: it cannot overturn onto its mirror without reversing the charge rotation, which is forbidden. Why charge comes only in fixed units would then be a return condition, the charge rotation coming back on itself in a continuous flow. Its exact conservation would be closure in the sense of the previous section, a count that cannot be smoothly undone.
+
+**Color as the turning that winds.** Color charge is proposed to be a rotation on a third axis, the one whose self-coupling winds the crease. A quark carries it and an electron does not, and that is why the quark is confined and the electron is free. The eight gluons, which carry color and pull on one another, would be the visible form of this turning's self-grip.
+
+**Spin as the return.** Spin is already a statement about rotation, the angle through which a pattern must be turned to come back to itself. The spin section of this document records the double cover: a matter particle needs two full turns to return. This document now has two rotations in play for the same knot, the overturn and the double cover, and it is an open question whether they are one object. Chirality lives in the same mathematical structure that produces the two-turn return, which is at least a hint that the overturn and the double cover are the same turning described twice. Flagged as a question.
+
+**The kinds of anchor.** Electric charge and color distinguish the neutrino, charged-lepton and quark families in different ways. The framework reads these properties, along with mass and spin, as handles on the shape. That catalog does not establish a ladder of mixing strengths. Mixing compares partner families, and the proposal below asks whether matching kinds of anchoring matters more than counting them.
+
+**Where the overturn might turn.** Four-dimensional geometry offers a place to look for the hidden turning. It separates rotations into two parts related to the two chiral faces. The mass term couples those faces. Gauge-field twists called instantons give topology a role in the strong force too. These are hints, not proof of one hidden motion. Appendix A keeps their different mathematical roles apart.
+
+**What this proposes to explore.** Whether the four handles can be ordered by the dimensional order of their turning. Whether charge quantization and color's three values fall out as return conditions on continuous rotations. Whether the overturn and the double cover are one. Why the weak force sees only one face of the overturn. And whether the W acts at a boundary where a knot's turnings are reorganized when it changes species. These are listed as tasks in Appendix D. The one firm statement is the stance: these are properties the particle experiences, not properties it has.
+
+## Time and the phase of mass
+
+Mass brings a phase rhythm into the picture, and that gives the question of time a sharper door, without settling what time physically is.
+
+**Which clock is meant.** The clock here is the phase that comes with mass in ordinary quantum physics. Every massive state has it, whether it is elementary or built from parts, and whether or not Fractus calls it a knot. Reading that phase as a physical turning is the proposal. Circulation and breathing may have rhythms of their own, but neither has been shown to be this clock. Appendix A, 'Compton phase and proper time,' gives the calibration and its limits.
+
+**Three things kept apart.** Depth is the level at which a pattern closes. It is a fixed label and does not grow as time passes. Phase is what advances along a path. Proper time is what a clock carried along that path reads. For a free particle of definite mass, the phase it gathers tracks its proper time once the count is scaled by its mass. Different masses give different raw counts over the same stretch of proper time.
+
+**What that buys.** A moving clock's reading depends on the path it takes, and the phase gives that reading a rhythm. Along a light path the proper interval is zero: the eight minutes from the sun to the eye belong to the clocks at either end, not to the light. That is a clue for the substrate picture, not a derivation of its geometry. Appendix A gives the limits.
+
+**Mass as a comparison.** Over the same proper interval, a muon's phase advances about 207 cycles for each cycle of an electron's. That ratio is the muon's mass in electron units: a ratio of counts. Comparing counts needs a shared interval and a reference mass. It does not need the two particles to tick at the same raw rate. An isolated overall phase is not itself an observable clock; a physical clock needs an accessible comparison. Calling a phase cycle a physical overturn remains the proposal.
+
+**The interpretation, kept open.** The author reads the phase as the overturn, a steady hidden turning. Two accounts remain possible. The opening's grain of time might be what that turning is counted against, or the turning might help produce what we call time. Neither has been constructed, and the ordinary phase relation survives either one. It applies beyond matter knots, including to massive particles with no spin.
+
+**Where it strains.** The author's instinct is that relativity belongs to the substrate's own structure, so that distance and the comparison of clocks would come from that structure too. That remains a hint, not a construction. Appendix A records the problems of distance and of regional clocks.
+
+**The honest boundary.** Established: proper time along a massive path is what a clock carried along it reads; null paths have zero proper interval; there is no preferred global slicing; and mass-related phase has a calibrated proper-time correspondence. Conjecture: that this phase is a physical overturn, that the opening's grain is the direction the tide winds, and that the fold supplies the geometry needed to compare clocks. No derivation of distance, a regional clock or gravitational redshift is supplied here.
+
+## The truth of spin
+
+Particles have a property called spin, and the name is a liar.
+
+Spin is not a particle turning like a tiny planet. In established physics it is a statement about how a pattern behaves when you rotate it. In a geometry that simply is, with time read from the inside, that is exactly the kind of property a knot should have. Not something it does. Something it is.
+
+The rotation angles form a pattern worth pausing on. Some particles, the particle of light among them, come back to themselves after one full turn. Gravity's wave comes back after only half a turn. And then the strange case: an electron has to be turned through two complete revolutions, all the way around twice, before it returns to its original state. Set them in order and each step up the ladder halves the angle of return. Seven hundred and twenty degrees, then three hundred and sixty, then one hundred and eighty.
+
+The particles sort themselves onto that ladder by kind. Matter sits on the two-turn rung. The force carriers sit on the one-turn rung. Gravity's wave sits on the half-turn rung. And the Higgs, the settled resting form, sits off the ladder entirely, looking the same from every angle because it is not a knot at all. The Higgs is the only fundamental particle with no spin, and every other fundamental particle has some. That fits its reading, in the overturn section above, as the resting state rather than a fold.
+
+This document records the halving as an observed pattern and deliberately declines to build on it. The reason is in a moment.
+
+What the framework does offer is a reading of the two-turn strangeness itself. If a matter knot is not an isolated object but is tied into the surrounding structure by connective folds, then rotating it once drags those folds along and twists the space around it. A second full rotation untwists them and brings the whole arrangement, knot and surroundings together, back to rest. This is a picture physics already knows in another form, and it is the least speculative part of the idea. Whether this two-turn return and the overturn of the previous sections are the same rotation seen twice is an open question this document now carries.
+
+What this framework does not claim is that spin determines stability. It would be tempting to read one particular spin value as too loosely tied to hold, but the data rule that out. There are two particles with exactly the same spin whose lifetimes differ by a factor of ten trillion, because one of them has a conservation law blocking its easiest way to fall apart and the other does not. Same spin, wildly different fate. Stability comes from what decay routes are open, not from a rung on a ladder. In this document's vocabulary, that is a fact about persistence, and it is kept apart from identity.
+
+The ladder stays in this document as an observed echo, not as a mechanism. Appendix F keeps the untwisting idea as a separate conjecture, and nothing in the main text depends on it.
+
+## Light, and the surface it rides on
+
+Light does not sink into the deep knots. It rides along the surface of the geometry, on a special kind of pathway the structure protects, which is why its speed is so exactly fixed. In the language of the overturn section, light never overturns. It has no grip on the substrate, and that is why it skims.
+
+How deep light can reach depends on how fine it is. A coarse, long ripple such as a radio wave is too broad to feel the fine interior of things, which is why radio sails through walls and bodies almost untouched. A fine, tight ripple such as an X-ray or a gamma ray has a wavelength short enough to reach the small structures where matter is anchored. High-energy light is destructive not simply because it carries more punch, but because it resolves deeper.
+
+Push the energy far enough and something remarkable happens, and this is measured fact, not speculation. A sufficiently energetic light ripple passing near a nucleus can convert itself into a particle of matter and its antimatter twin. In this framework's language, the light's energy excites a pair of anchored knots into being, with the nucleus absorbing the recoil. Light becomes matter by tying its energy into the shape. Run it backward and the reverse happens: a particle meeting its antiparticle releases the energy back onto the surface as light.
+
+The oldest light we can see, the faint glow filling the sky from the early universe, is often described as the beginning of light. It is not. It marks the moment the universe stopped being opaque and light could travel freely. It is the horizon of transparency, not the horizon of light itself.
+
+**A narrower reading of what light is.** This is offered as conjecture, deliberately claiming less than standard physics does, and it is worth keeping separate.
+
+Light is treated here not as a thing moving through the substrate but as a texture of the substrate's surface, a disturbance that is a feature of the geometry rather than an object laid on top of it. Only two properties are kept, and both are geometric.
+
+The first is orientation. Light carries a polarization, a direction it points, free to lie anywhere around the full circle in the plane across its travel. That is a geometric freedom living on the surface, not a label added afterward.
+
+The second is the null character, and it is the stranger of the two. Light travels a path along which the spacetime interval is exactly zero. In its own terms it does not cross the geometry so much as connect its two endpoints at no separation at all, joined underneath the geometry rather than across it.
+
+Put together: light is a textured feature on the surface of the shape, orientable around a full circle, bridging its endpoints at zero interval.
+
+The honest boundary: established physics treats light's field as something defined on spacetime, not as a texture of spacetime's own geometry. Reading it as a texture of the shape is this framework's conjecture, and it is recorded in its modest form, with nothing further claimed.
+
+### Where the photon comes from, and where it goes
+
+The established mechanics of how light is emitted and absorbed turn out to say more about this framework's harness than any other everyday fact. They are told here plainly, with the framework's reading marked after.
+
+**A free electron cannot absorb a photon.** Energy and momentum cannot both balance. Absorption needs a bound system, with a third party to take the recoil, and in an atom that third party is the nucleus. So the photon's energy does not go into the electron alone. It goes into reshaping the whole bound arrangement the electron sits in, and the electron climbs to a higher rung. The same is true in reverse. The photon does not come out of the electron. It comes out of the harness, the whole bound system reorganizing, with the nucleus silently carrying the balance.
+
+**The recoil does not travel to the nucleus.** The nucleus was already part of what absorbed. Electron and nucleus share one center of mass and one momentum, bound by a field that was already stretched across the whole atom before the photon arrived. The photon's push goes into that joint momentum at once, and the energy goes into the internal arrangement. The split happens together because there is one system, not two with a message passing between them. In this framework's language the electron and nucleus already sit in one harness, and that is why they act as one system. This is the weave section's claim at its most literal.
+
+**In overturn terms** the electron's own mass does not change, so its phase rhythm does not change. The harness gains the photon's energy. The atom as a whole becomes slightly heavier. Its phase rhythm speeds up by that amount. The photon did not speed the rider's clock. It sped up the harness's.
+
+**The nucleus is a passenger.** For a visible photon the nucleus takes a momentum shove of a few centimeters per second and a recoil energy around a ten-billionth of an electron-volt. Nothing inside it engages. A visible photon is a million times too coarse to touch the nuclear rungs, which are spaced by millions of electron-volts. What the nucleus does feel is a change of environment: the reshaped cloud changes the field the nucleus sits in, and the nucleus's own levels shift by a few millionths of an electron-volt. Physicists call that hyperfine structure. The nucleus is re-situated, not altered.
+
+**The rule runs both ways.** Each depth engages only the ripple that resolves it. When a nucleus drops a rung and emits a gamma ray, the electron cloud is the passenger, exactly as the nucleus was for the visible photon. The gamma is a million times too fine for the cloud to notice it going past. A gamma ray is not heavy. It is massless like every photon and never overturns. What it is, is fine.
+
+**The bigger harness, taken literally.** Recoil costs energy. An emitted photon comes out slightly below the transition energy because the emitter kicked back, and an absorbing atom needs a photon slightly above, because it will kick back too. For a free atom the two do not match, and a free nucleus can never catch its own gamma: the recoil shift is a million linewidths off target. Lock the atom into a crystal and the lattice takes the recoil, billions of atoms at once. The recoil energy vanishes, emission and absorption match, and the resonance returns. Physicists call this the Mossbauer effect, and it is measured to one part in ten to the fifteenth. In this framework's language, the bigger the harness, the less any single knot has to kick.
+
+One caution on the lattice, because it is easy to over-read. The mechanism is not higher symmetry. It is that the lattice has quantized vibrations and sometimes the gamma leaves without exciting a single one, so the crystal takes the momentum as a rigid whole and the energy stays in the photon. A liquid has no such rungs and the effect dies. That is a condition on quantized vibration, not a symmetry. The honest line is this: the nesting of harnesses, knot inside nucleus inside atom inside crystal, is what lets the finest ripple be exchanged losslessly.
+
+**Gamma rays, one depth down.** The most common gamma is cleanup after a decay. An unstable nucleus throws off an alpha or beta particle, the daughter is left excited on a rung above its ground state, and it drops, often within a picosecond. Cobalt-60 is the textbook case: a beta decay to nickel-60, then two gammas as the nickel settles. In this framework's language the W changes the species, the nucleus finds itself in an arrangement that no longer fits, and the gamma is the sound of it settling into one that does. The other route is capture from outside. A neutron has no charge, so nothing stops it drifting into a nucleus, and once the strong force grabs it the nucleus is around eight million electron-volts too energetic for its new shape and cascades down. That is the mirror of an atom capturing an electron and shedding X-rays, one depth down and a million times the energy.
+
+The emission is electromagnetic at both depths. The strong crease sets up the nuclear ladder, and light reads the step down. That is the two-forces-one-grammar point of the shell section taken literally. But the shared messenger proves less than it seems. Light would read a step off any charged system whatever its internal shape. The stronger leg is the selection rules: both ladders restrict which steps are allowed by the same angular-momentum bookkeeping, and that is a shared grammar of return conditions, not merely a shared messenger.
+
+**A nucleus almost never absorbs a gamma gently.** Outside the lattice case, recoil detunes it. Below about a million electron-volts the gamma is usually taken by an inner electron instead. Above about a million it converts to an electron and positron near the nucleus, the pair production described above. Above about eight million it knocks a neutron out, and that peaks where all the protons slosh against all the neutrons together, a collective ringing of the whole nucleus. And sometimes a nucleus does not emit a gamma at all but hands its energy straight to the electron sitting on top of it and ejects that electron instead. Physicists call that internal conversion, and it works only because the inner harness and the outer harness overlap. It is the nested harness talking to itself.
+
+**What is established and what is read.** Every mechanism in this subsection is established and measured. The framework's reading is only that harness is the right word for the bound system that absorbs and emits, that the Mossbauer case is harness size governing how cleanly a knot can exchange energy, and that the nested passivity, each depth deaf to the ripple of the other, is the depth structure of the fold made visible in ordinary matter.
+
+## Gravity, the broadest ripple
+
+Treating gravity's wave as an ordinary particle works well enough for gentle, everyday gravity, but it breaks down badly if you try to make that particle the fundamental builder of spacetime itself.
+
+This framework proposes that gravity is not a messenger at all but the broad collective behavior of the geometry. What we feel as attraction is the way the shape curves and flows around concentrations of anchored energy, the way a valley directs a river without needing to send it a message. The valley is the message.
+
+The overturn section gives this a second face. The framework proposes that grip loads the substrate, and that this loading is what appears as curvature. But gravity answers to all energy and stress, including motion and binding, not to a simple tally of phase counts. Overturn and cinch supply a ledger. The law that turns that ledger into curvature is still missing.
+
+**Grip, drag, and the half gravity can live in.** The picture has more structure than a ledger, and this may be the most important thread in the whole document. Call the two halves of it grip and drag.
+
+The Higgs coupling and the strong-interaction vacuum give the grip image two physical points of contact. The further idea is that grip loads the substrate, and that its collective response appears as curvature. The link is proposed rather than derived.
+
+There is a mathematical connection worth keeping: general relativity has formulations using self-dual variables, one part of a four-dimensional split. Instantons use related language for gauge-field twists. This is a hint of kinship, not proof of a shared mechanism. Appendix A separates the theories and states the gravity test both grips must meet.
+
+If there is no fundamental gravity particle, what carries a gravitational wave? Nothing needs to. Air carries sound as a ripple of pressure, not as a stream of dedicated sound particles. A gravitational wave is a ripple of the geometry's own curvature, riding on the broadest form of the shape.
+
+Here the framework inherits a right answer rather than earning one, and says so. Because it is built to reduce to ordinary general relativity at large scales, the observed behavior of gravitational waves is something it is already obliged to reproduce. Observations of colliding neutron stars have pinned the speed of gravitational waves to be extremely close to the speed of light, with no sign of the distortion that would show up if different frequencies traveled differently.
+
+That fits their character here as the most breadth-bound ripple there is, the exact opposite of a gamma ray. A gamma ray resolves as deep as light can go. A gravitational wave stays entirely on the broadest form of the shape and has nothing fine to feel. But the framework must eventually produce those limits from its own structure rather than borrowing them, and determine whether its symmetry predicts them exactly or merely hides the deviations below what we can currently measure.
+
+## The bottom of the well
+
+If a mass-related phase is read as a physical clock, a black hole poses a sharp question: how far can that reading be carried into strong curvature?
+
+**What is established.** General relativity says that once collapse has gone far enough, a singularity is very hard to avoid. That was proven in 1965 and earned a Nobel Prize in 2020. The same theory says something striking about time inside a black hole. Past the horizon, the inward direction behaves like time. Falling inward is the same as moving into the future, so the singularity is not a place at the center but a moment ahead.
+
+The horizon itself is quieter than its reputation. For a large black hole, nothing special happens to a falling particle as it crosses. Its clock keeps its own time. A distant watcher sees the falling clock slow and freeze at the horizon, because the light carrying its ticks cannot climb back out, but that freezing belongs to the watcher's view, not to the clock. The intuition that light fails to carry the ticking out is right. It describes what the outside sees.
+
+**Where the clock picture may strain.** A mass sets a characteristic length, the Compton wavelength; it is not necessarily the physical size of a particle. When curvature varies strongly on relevant quantum scales, a simple one-particle account may fail. The framework asks whether its hidden-turning picture fails there too. No threshold at which the ordinary phase clock stops has been derived.
+
+The author imagines a graded failure, with different structures losing their organized turning at different depths. That ordering is conjecture. A comparison of condensate melting temperatures does not establish what happens inside a black hole, and a hadron's phase already includes its total bound-state mass.
+
+**What happens to the energy.** One speculative possibility is that a knot could lose its organized form while its energy continues to gravitate. The framework has not shown that losing a proposed turning removes rest mass, or that failure of a particle description stops proper time. Those are questions for a model of the strong-curvature regime, not consequences of the phase correspondence. The energy ledger must remain consistent with gravity throughout.
+
+If such a threshold exists, the substrate past it would be described by what does not change. Which depths are occupied? Which surfaces close on themselves? What stays fixed under stretching? The geometry continues, and it grows strange. It does not end at a point.
+
+The bookkeeping from outside is simple. Everything that falls in adds to the black hole's mass, so nothing is lost from the ledger. What happens to that energy inside is what nobody knows. The graded failure would give that energy a definite shape. If each kind of knot unwinds at its own depth, the core's structure would depend on what fell in. From outside, a classical black hole shows only its mass, charge and spin, so that record would be kept inside. Any outside trace of it would run through the open question of whether information escapes a black hole. A few further speculative possibilities for what that energy becomes are recorded in Appendix D, task 26.
+
+**What else has been proposed.** Most people working on quantum gravity expect the singularity's infinity to be an artifact of leaving quantum effects out. Three replacements are well developed. In loop quantum gravity, collapse bounces at the highest possible density, and the point of greatest compression is called a Planck star. In string theory's fuzzball proposal, a black hole has neither horizon nor singularity, and each internal state is a horizon-sized tangle with its own shape. The gravastar replaces the interior with a smooth region of vacuum energy joined to the outside by a thin shell at the horizon. None has been confirmed by observation.
+
+Each one disagrees with this picture somewhere. The gravastar puts its transition at the horizon, where this document says nothing special happens to the knot. Loop quantum gravity stops collapse with discrete geometry, where this document wants a continuous fold all the way down. The fuzzball is the closest mainstream match to a very odd shape, and parts of it are still debated inside string theory itself.
+
+One parallel runs the other way. Concentrated radiation can source strong gravity even without rest mass. That keeps open a picture of energy surviving after a knot reorganizes, but it does not establish what the core holds.
+
+## Echoes at every depth: the leptons and their shadows
+
+The clearest place to watch this rhyming at work is a family of particles called the leptons, and the faint partners that shadow them. It is worth going slowly here, because the pattern nests more deeply than it first appears, and the deepest nesting is the most interesting part.
+
+Begin with the outer pattern. There are three charged leptons: the electron, and two heavier versions of it called the muon and the tau. They carry identical charges at three escalating masses. The muon is a heavier echo of the electron. The tau is a heavier echo again. Same shape, three sizes. That is what structural self-similarity looks like at the surface, one form repeated at growing scale.
+
+One precision matters, because it is easy to get wrong. The muon is not an excited electron that sheds a photon to drop down. That direct route, a muon turning into an electron and a photon, has been searched for intensely and never seen. The most recent search limits it to below about one and a half in ten trillion decays. That is an upper limit, not a proof that the route is forbidden. A muon does fall to an electron, about two microseconds after it forms, but only through the weak force, and it hands its muon-ness to a muon neutrino on the way out.
+
+So the three charged leptons share the same exactly conserved charge, and the deeper ones fall to the shallowest while keeping it. In this document's language they are one protected count closed at three depths. The deeper two sit in metastable equilibrium, closed but able to drop. And the rule that picks the three depths is separate from the protection, which is why the closure and persistence section kept the two apart.
+
+Now the first nesting. Each of the three carries a shadow: a neutrino, a faint partner of almost no mass. The electron has its neutrino, the muon has its own, the tau has its own. Each is the same pattern folded down to almost nothing, tucked inside the larger form. Three leptons, each holding a smaller companion. The pattern has repeated at a finer scale.
+
+Then the part that makes it remarkable, and this is established physics, not conjecture.
+
+A neutrino does not keep a fixed identity as it travels. Each one is a blend of three underlying states, and as it moves the blend shifts, cycling continuously through all three flavors. A neutrino that leaves the sun as one kind arrives as a mixture. This has been measured.
+
+It is worth being exact about what travels and what changes. What travels is the three mass states, each unchanged on the way. Flavor is assigned at an interaction, by which charged lepton the neutrino pairs with when it is created or absorbed. Between interactions the blend's alignment drifts, so the flavor one would catch it in changes. Flavor conservation was never built into the theory. It holds in the Standard Model only because nothing in the original model breaks it, and neutrino masses are what break it. So flavor is a relational label, a description of how the neutrino couples, not something it carries on its own. That fits this document's stance that properties are something a particle experiences rather than something it has, and flavor is the clearest established example.
+
+Hold both facts together and the nested structure appears. Three-ness at the family level, and three-ness inside every single neutrino's identity, each one distinct in which flavor dominates, each performing the identical three-state cycle. Different, and the same pattern, at once. And the mirror completes it: for every one of these there is an antiparticle, the whole triple repeated in the recessive orientation that the first lean suppressed.
+
+The same structure, echoing at every depth, distinct in its particulars and identical in its form. Fractals within fractals.
+
+In this framework the cycling is read through the same music, and the analogy runs deeper than a passing image. Start with a triad, three notes that make one chord. Keep the same three notes but change which one sits on the bottom and you get an inversion, a chord with a different character though not a single note has changed. The three neutrino flavors are three such inversions of one underlying triad: the electron is the voicing with the high note anchoring the bottom, the tau the voicing with a low note underneath, the muon the one between, always the same three notes, only the base changing.
+
+And here is the part that makes the analogy honest rather than decorative. The oscillation is not someone reaching in to flip the inversion. It is the natural ringing of the struck chord. Pluck a triad once and let it sound, and because the three notes vibrate at slightly different rates the chord will not hold still. It swells and shifts and drifts through its own inversions as the notes fall in and out of alignment. What you hear at any instant is the voicing the blend has momentarily landed on. The neutrino analogy works at the level of coherent modes and changing phases, not literal musical inversions. It is struck once at birth as one flavor, and then it simply rings, and the flavor you catch it in is whichever inversion the ringing is passing through when you measure it. The traveling is the ringing. The flavors are the moments it passes through each voicing.
+
+The phase picture has an established basis: the three mass modes propagate with different phases, and their relative phase drift changes the flavor probabilities. The drift depends on the squared mass differences and the propagation conditions. It is not a beat between three literal flips. Appendix A gives the phase relation that a physical model of the ringing would have to recover.
+
+Nothing jumps between depths along the way. All three mass modes are present the whole time, each ringing at its own rate. What changes is how their phases line up, and flavor is read from that alignment only when the neutrino interacts. A model of the ringing would therefore have to reproduce two things: the phase drift between the modes, and the strength with which each mode couples to each charged lepton.
+
+**The native ringing.** There is a question standard physics cannot answer, and the anchor ladder gives it a shape.
+
+Quark mixing is small and neutrino mixing is large. Mixing describes how two families of particles line up, not a property of one particle, so this is one contrast rather than a three-step ladder. Quark mixing compares the up-type and down-type families. Neutrino mixing compares the neutrino and charged-lepton families. Limits on flavor-changing charged-lepton decays measure something else; they do not supply a third rung.
+
+There may still be a relationship underneath the contrast. One old numerical pattern links the largest quark mixing angle to a ratio of quark masses. That is a clue, not a general law that steep mass ladders must line up. Neutrino oscillations measure gaps between squared masses, while the lightest mass remains unknown, so the full steepness of the neutrino ladder is not yet established. Appendix A, 'Mixing as alignment,' keeps these distinctions precise.
+
+The proposal is anchor matching rather than anchor counting. Up-type and down-type quarks share electric charge, color and mass as kinds of handle, though their charge values differ. Neutrinos have no electric or color charge, while their charged partners carry electric charge. The author asks whether anchors shape the mass ladders, and whether matching kinds of anchoring make partner families line up more closely. Charged leptons have fewer kinds of anchor than quarks yet still have a steep mass ladder, so a simple count does not work.
+
+That link is a conjecture, not yet derived. The observed contrast does not establish its cause. Tasks 16 and 29 keep anchor matching open for a deeper investigation before it moves beyond a recorded possibility.
+
+**The faint other face.** A fast neutrino can carry a very faint other face throughout its flight. It does not visit that face for a tiny part of the journey. The faintness is a balance within the traveling pattern. The deeper question is whether the neutrino and its mirror are the same kind of thing. The decay search bears on that question. Appendix A, 'The small neutrino component and the double-beta test,' gives the technical distinction.
+
+**An unexplained number.** There is an empirical relation among the three charged lepton masses, published in 1982 and still unexplained. Take the sum of the three masses and divide it by the square of the sum of their square roots. The result is two thirds, to a precision far beyond any known reason, and it has survived forty years of improved measurement. It is not a Standard Model result. It is a numerical fact. If the three generations are one harmonic at three depths, a relation among their masses is exactly what this framework should predict, and this one is on the table. Producing it from depth would be the first number the framework ever earned. It is recorded as a benchmark, not as a rule assumed true, with the warning that many have tried.
+
+Standard physics has no explanation for why there are three families rather than two or four, or why the masses climb the way they do. The geometry offers the shape of an answer, nested layers of one recursive structure, but the decisive achievement remains unmet. Producing exactly three, and calculating even one mass ratio, is the target. Naming it as unmet is the only responsible move.
+
+## Mixing, and three changes of basis
+
+The triad image was built for neutrinos. Changes of basis appear elsewhere too, giving the framework another echo to investigate.
+
+Three separate places in the Standard Model use the same move: an underlying basis, a measured basis, and a rotation between them.
+
+The first is in the bosons. Before the vacuum leans, the electroweak sector holds four carriers, three from the weak symmetry and one from a separate symmetry called hypercharge. None of them is the photon yet. Once the vacuum picks its direction, two of the four are rotated into each other by a single angle, about twenty-nine degrees, called the weak mixing angle. One combination stays massless and becomes the photon. The other picks up mass and becomes the Z. The photon and the Z are not two separate things that existed beforehand. They are two voicings of a single pair, chosen by the lean. The measured angle fixes the ratio of the W and Z masses, and the measurement agrees with the prediction to high precision.
+
+The second is in the quarks. The states with definite mass and the states the W couples to are two bases rotated into each other by a three-by-three matrix, named for Cabibbo, Kobayashi, and Maskawa, built from three angles and one phase. The third is in the leptons, where a matrix of the same shape, three angles and a phase, does the same for the neutrinos. A complex phase can produce CP violation in each fermion sector; the lepton-sector value and its consequences remain under investigation.
+
+So one geometric act appears at three depths: once for the bosons with one angle, and twice for the matter particles with three angles each. In the triad language, that is the same chord inverted at three levels, and the two matter inversions carry an orientation, a chirality of the rotation itself, that the boson one does not.
+
+The W uses the quark mixing matrix in its couplings between up-type and down-type states, including the hadronic part of tau decay. That gives the boundary question and the mixing question a shared physical comparison. It does not derive a passage between depths.
+
+The question shared with the previous section is why the quark and lepton mixing matrices have such different angles. The author proposes anchor matching as a possible connection. It is not yet an answer or a derived consequence of the three-basis analogy.
+
+## Three generations, three depths
+
+The electron is not the only lepton, but it is nearly the only one that builds anything, and the reason is telling.
+
+The established facts first, with the framework's reading laid over them afterward and marked as such.
+
+The muon is about two hundred times heavier than the electron, and the tau about seventeen times heavier again. Muonic atoms are real and routinely made: capture a muon around a nucleus and it cascades down through the same shell structure an electron would occupy, giving off a characteristic spectrum measured to high precision. Because the muon is so much heavier it orbits roughly two hundred times closer, and it spends a meaningful part of its time inside the nucleus itself. This makes muonic atoms a sensitive probe of nuclear size, and they sat at the center of a famous puzzle about the size of the proton.
+
+Lifetimes drop sharply down the family. The muon lives about two microseconds. The tau lives about three hundred femtoseconds, roughly ten million times shorter.
+
+And the tau does something no lighter lepton can. About a third of the time it decays the way a muon does, into lighter leptons. About two thirds of the time it decays into hadrons, into the bound quark matter that makes up nuclei. The electron and muon cannot do this. They are too light. The tau is the only lepton heavy enough to decay into strongly interacting matter.
+
+**The framework's reading.** The three generations are one and the same harmonic sampled at three increasing depths, carrying one protected count. The shape does not change from one generation to the next. The depth and the strain do.
+
+The electron is the gentle, shallow, unfolded version, sitting well outside the nucleus, stable enough for chemistry to happen at all. The muon is the identical harmonic pushed deeper and tighter, moving fast enough for relativity to matter, dipping into the nuclear surface, ringing only briefly before it comes apart. The muonic atom is therefore a physical bridge, a place where the electron-scale pattern and the nuclear-scale pattern overlap: the same self-similar shape reproduced at a smaller, more strained radius. The tau sits at a deeper level still, so massive that if it could bind at all it would orbit inside the nucleus, and so short-lived that no atom ever forms.
+
+The attraction of this reading is the question it poses: could a limit on allowed depths explain why there are three light families?
+
+The author asks whether the pattern can recur only so far before a further windfold changes its character. The tau alone is heavy enough for hadronic decays, which supplies a real threshold to compare with. Whether that threshold has anything to do with the number of families is conjecture. No rule selecting exactly three has been derived.
+
+The tau's hadronic decay is established. The proposed connection between its mass, a hypothetical bound-state size and a cutoff in depth is interpretation. The rule that would select three families remains a debt.
+
+## The shells of the atom, and a symmetry hiding one dimension up
+
+If the leptons are one place to watch a pattern echo, the electron shells of the atom are a second, and a far more precise one. Here the framework can lean on established physics that turns out to be unusually friendly to its central intuition.
+
+Begin with what is settled. The order in which electron shells fill up, as you walk across the periodic table, follows a simple counting rule discovered in the 1930s. It is the rule that gives the periodic table its shape, including the awkward blocks in the middle and along the bottom. It was published as a purely empirical ordering. Its discoverer could not connect it to any deeper theory, and for decades it was, in one historian's phrase, a piece of scientific folklore that worked without a reason.
+
+There is now a useful symmetry-based organization of the pattern, although it does not replace the many-electron calculation. That distinction is the heart of this section.
+
+The first clue comes from a symmetry that is hidden in the ordinary three-dimensional description and becomes clear in a four-dimensional construction.
+
+In 1935 a physicist showed that if you take the hydrogen atom and lift the problem onto the surface of a sphere in four dimensions, the electron states stop looking like a jumble of different shapes and become the simple, regular vibration patterns of that sphere. The famous coincidence of hydrogen, that states of quite different shape happen to sit at exactly the same energy, is not a coincidence at all. It is the shadow of a rotational symmetry that only becomes visible when the problem is lifted one dimension up. Down here it looks like luck. Up there it is exact.
+
+Sit with what that means, because it is precisely the shape of claim this framework makes everywhere else. A pattern looks arbitrary at the surface. Lift it into a higher-dimensional geometry and the arbitrariness resolves into clean symmetry. The electron shells are the best-documented existing case in all of physics of exactly that move: surface irregularity, deep regularity, connected by going one dimension up.
+
+The lifting goes further still. Larger symmetry groups contain operators that step between shells as well as rotations within one level. They can organize the periodic table, but a group-theoretic organization is not a first-principles derivation of every filling order. For this framework the question is whether the organization can become a generative rule. Appendix A distinguishes the ideal Coulomb symmetry, the larger dynamical groups and the many-electron problem.
+
+Then the collapse, which the framework should claim carefully because it fits.
+
+At high atomic number the clean ordering breaks down. In a heavy element the innermost electrons move at a substantial fraction of the speed of light. Relativity contracts and stabilizes some orbitals while affecting others differently, the tidy counting rule buckles, and exceptions multiply toward the bottom of the table. This is why gold is yellow rather than silver: a relativistic effect on its electron shells, visible to the naked eye.
+
+In this framework that is the same phenomenon seen throughout. Under extreme load the resting symmetry deforms and a clean pattern gives way to a strained one. The relativistic collapse of the atomic shells is, structurally, the small-scale version of the stiffening and reorganizing under stress that this document invokes at cosmic scales.
+
+What is established and what is conjecture must stay sharply separated. Established: the filling rule, the hidden four-dimensional symmetry of hydrogen, the larger group organizing the periodic table, and the relativistic breakdown in heavy elements. Conjecture: that these are instances of one recursive grammar rather than facts that merely rhyme. This framework does not derive the atomic symmetry from the substrate. It observes that established atomic physics already found, in the shells, exactly the pattern the substrate posits everywhere, and proposes that this is not a coincidence worth ignoring.
+
+Three propositions are offered for consideration, not as claims.
+
+First, that the different orbital shapes, the round one, the lobed one, the cloverleaf ones, are not four unrelated geometries but one geometry read at successive levels of the same recursive structure, exactly as the three lepton generations are proposed to be. Under the four-dimensional construction described above, that is literally what they are: a fundamental note and its overtones on the same sphere.
+
+Second, that the peculiar way the filling rule adds two numbers together, rather than ordering by one alone, is the fingerprint of a particular kind of diagonal step operator inside the larger group, and that finding the substrate's own version of that operator would be the concrete test of whether this framework reproduces the periodic table or merely admires it.
+
+Third, that the relativistic collapse in heavy elements sets a natural strain scale for the atom, and that the same language this document uses for cosmic stiffness might apply, at least in rough form, to where and how sharply the ordering fails. This is the most testable of the three, because the breakdown pattern in the heaviest elements is an active experimental frontier.
+
+One caveat governs all of it. The four-dimensional symmetry is exact only for the idealized single-electron atom. Real multi-electron atoms break it, so the group-theoretic treatments of the periodic table are organizational rather than derived from first principles. The decisive question is whether the ladder structure is recursively generative or merely hierarchical, because those are not the same thing, and only the first would earn the fractal language used in this document.
+
+## The fold, and the crease
+
+Everything so far has circled the same word. Now it needs to be said properly, because it is the intuition the whole framework rests on.
+
+Start with a piece of paper.
+
+A sheet of paper is a two-dimensional thing. Flat, with a front and a back, and no way to get from one to the other without leaving the surface. Now fold it. The moment you fold it, the flat sheet has used the third dimension. It has gone up out of its own plane and come back down. And the fold leaves a mark: the crease.
+
+The crease is the interesting thing, and it is easy to overlook. It is not the flat part and it is not the empty space above. It is the line where the sheet passed through the higher dimension. It is where the fold happened, made permanent in the surface. Run your finger along it and you are tracing the record of an excursion into a dimension the paper does not otherwise have.
+
+Now hold that image and change three things about it.
+
+Change the first thing: the sheet is not paper. It is the substrate, the geometry that everything is made of.
+
+Change the second thing: the fold is not a single event, and nobody is doing the folding. The substrate is never still. Its tide is always winding in or out, and where something traps it, the windings build on one another, each inside the last. The easiest way to picture that is as a fold repeated over and over, the way a fractal is built by applying the same simple move again and again until the complexity lives in the repetition rather than in the move. The repetition is the picture. The restlessness is the thing.
+
+Change the third thing, and this is the one that matters most: the crease is not a straight line.
+
+On paper the crease is straight because paper is simple. In a geometry that folds recursively, the crease inherits the recursion. It is not a clean edge but an intricate one, and it does not run in a line. It spirals. It winds inward toward where the fold is deepest, tracing a path that is itself self-similar, a crease with structure at every scale of its own.
+
+Anyone who has looked closely at a fractal image knows this already, though perhaps not in these words. The interesting part of a fractal is never the middle of a region. It is the edge. The boundary is where the intricacy lives, where the endless detail accumulates, where the structure is doing its real work. The crease is the fractal edge of a fold in the geometry.
+
+And here is the claim this framework has been building toward.
+
+**The conduits are the creases.**
+
+Every channel this document has described, the weave between anchored knots, the pathways that force runs along, the tight string that holds quarks together, is proposed to be the crease of a fold: the winding, self-similar path left where the geometry passed from one dimensional depth into another. In this document the word crease means that path and nothing more. The energy held in a tight crease is its cinch. The loose binding of an atom is its harness. And whether the crease is also the visible core of the orientation field that carries a protected count is open, as the closure section recorded.
+
+Follow what that buys, because it makes several loose things click at once.
+
+It explains why the connective channels are not observable in the way objects are. A crease is not a thing sitting in the surface. It is a feature of the surface, the record of a fold. You cannot pick it up and weigh it.
+
+It explains why the tightest force has the tightest channel. The strong force does not spread out the way electromagnetism does. Its binding collapses into a narrow string between quarks, confirmed in detailed simulation, and that string is why quarks cannot get free. In this reading that narrow string is a crease at maximum tightness, the path of a deep windfold, holding so much cinch it cannot open.
+
+There is a second place the string shows itself, older than the simulations. Plot each family of hadrons by its spin against the square of its mass and the points fall on straight lines with a common slope. These lines were found in 1961, and a straight line in that plot is exactly what a spinning string with constant tension produces. That observation is the historical origin of string models of the strong force. The slope of the line measures the string's tension, in physical units, decades before anyone could simulate it. In this document's language that tension is the cinch held along each stretch of crease.
+
+It explains why light's channel is the loose one. Light spreads out. It has no string. Its surface is barely folded at all, which is why the electron's geometry stays clean and unfolded and why light travels forever.
+
+And it explains why the transition between depths is spiral rather than sudden. A windfold built by a restless tide cannot jump from one dimensional level to the next in one step. It has to wind its way there, converging inward across many windings, which is exactly the long spiral this document keeps returning to when it describes energy settling into anchored shape.
+
+That passage deserves a name of its own, because until now this document has had names for everything the fold leaves behind and none for the crossing itself. Call it the **windfold**, wind as in winding. The windfold is the tide winding in across a dimensional order, the substrate's convergence from one order into a higher one. It is not a step but a convergence: the geometry approaches the higher order across many windings rather than arriving at it in one move. Confinement does not drive it. The tide is always winding, and confinement only keeps the windings from escaping, so they build. The crease is the path the windfold traces, its record in the lower order, and the knot is what it converges onto. From here the word does real work, because folding is the general image while the windfold is the specific passage. The overturn, introduced earlier, is a different thing again: it is the turning a single knot performs within its depth, not the passage between depths. The two are kept separate on purpose.
+
+There is one piece of established mathematics that makes the spiral crease far less fanciful than it sounds, and it is worth telling in plain terms because it is the strongest hint the whole picture has.
+
+Relativity, the mathematics of changing inertial frames, turns out to be closely tied to a particular way of reshuffling a sphere. Imagine the sky of incoming light around you painted on a globe. Change to a frame moving near light speed and the pattern bunches toward the direction of motion. A relativistic boost acts on those directions as a Moebius transformation. The precise correspondence includes rotations as well as boosts and is given in Appendix A.
+
+Repeating just one sphere-sliding move does not make a lacy fractal edge. Such edges can arise from several distinct moves combined under the right rules, and only some combinations work. Relativity supplies the right family of moves. A crease would need at least two of them, pulling in different directions, combined by the tide in a way still to be found.
+
+And this is where confinement does its proposed work, though not the work it might first seem to do. The substrate's tide is pictured as always making moves. In free space the repetitions can spread out; trapped inside a proton, they might build on one another. Confinement does not supply the repetition. It keeps it from escaping. The account of tide and confinement stays, but which moves occur, what decides their order and whether they produce a fractal path remain open.
+
+This suggests a possible reading of the channels, not an established identity. The pathways toward a suitable limit set might become creases. The tight color flux tube between confined quarks is the physical structure the proposal must recover; it has not been derived from these moves. The gluon remains the tide made visible where it is trapped, in the framework's interpretation. How the pattern becomes a path that holds energy is still to be found.
+
+The honest boundary must be firm. Fractal creases are a picture, not yet a mathematics. What established science does supply, and it supplies more than one might expect, is a set of ingredients: rigorous definitions of fractional dimension, real theories in which the effective dimension of spacetime changes with scale, the standard machinery by which repeating a simple map generates fractional-dimensional structure, and one striking identity in which the mathematics of relativity turns out to belong to precisely the family of maps whose repetition is already known to produce fractals. Those ingredients are named properly in the appendices. What no one has done is assemble them into the chain this framework proposes. That chain is the conjecture, and it is the thing that would have to be built.
+
+## Inward and outward, and the windfold of the strong force
+
+The atomic shell picture invites a distinction worth stating plainly, because it marks exactly where this framework rhymes with established physics and where it departs.
+
+In the established four-dimensional construction, the geometry is fixed. It does not grow as you climb the shells. Each shell is a richer set of vibration patterns drawn on the same sphere, so complexity increases outward, by adding overtones to a geometry of constant size.
+
+This framework runs the same flavor of mathematics in the opposite direction: not more patterns on a fixed geometry, but the same pattern at deeper and deeper levels of one recursive structure, complexity increasing inward by windfold.
+
+The shells grow more intricate going up, by adding overtones outward. The substrate grows more intricate going down, by windfold inward. Same self-similar character, opposite direction of travel. Naming that inversion is what keeps the analogy honest rather than loose.
+
+Read this way, the object underneath the electron shells is a recursive four-dimensional harmonic structure. That is not a metaphor imported from outside. In the established construction the electron states really are the vibration patterns of a four-dimensional sphere. The round orbital is the fundamental, the most symmetric note. The lobed one is the first overtone. The cloverleaf ones are deeper overtones, more intricate and more easily disturbed, which is exactly why they fill later and why their electrons are the first ones shared or lost in chemistry. The outer overtones are the loosest.
+
+**Strain as harmonic breakdown.** Electrons are not slow. In hydrogen an inner electron moves at roughly one percent of light speed, but in the innermost shells of a heavy element the speed climbs to somewhere between a half and four fifths of light speed. Established relativistic quantum mechanics predicts the resulting contraction precisely, but treats it as a mechanical correction. It says what happens without saying why the geometry distorts in that particular way, or whether the distortion connects to anything deeper.
+
+This framework offers the deeper reading: the clean self-similar pattern holds only in the gentle regime, and under relativistic load the geometry itself strains and the pattern deforms. The counting rule does not stop applying. The underlying four-dimensional object is being bent. The same word, strain, does real work at the atomic scale here and at the cosmic scale elsewhere in this document, and the framework proposes they are the same phenomenon at different depths. Standard physics makes no such claim.
+
+**Where the pattern frays, and where it briefly holds.** The periodic table does not simply stop. It frays. Adding protons increases electrical repulsion until it strains against the strong force, the inner electrons contract, outer shells overlap, half-lives shorten, and the atom becomes a briefly held configuration rather than a stable thing.
+
+But the fraying is punctuated. The nucleus has its own shell structure, with certain special numbers of protons or neutrons at which a shell closes and the configuration briefly restabilizes. Nuclear physicists expect this to recur once more in a predicted island of stability among the superheavy elements.
+
+In this framework those special numbers are points where a return condition is met and the configuration settles into a metastable equilibrium, holding briefly before the next layer of complexity loads it past its limit. The established name for them, shell closure, is kept, and it is a different use of the word from the protected closure defined earlier. The climb is therefore not smooth but spiral, a pattern that completes a shell, holds, strains, and completes the next until it can no longer hold at all.
+
+**Two forces, one grammar.** The electron shells are governed by electromagnetism. The nuclear shells are governed by the strong force, an entirely different interaction, far stronger and far shorter in reach. Yet both produce shell structures that close at special numbers, and both are described by the same class of harmonic mathematics.
+
+This framework reads that not as coincidence but as one grammar appearing at two depths: the four-dimensional harmonic organization is not a property of electromagnetism specifically, but of how stable configurations arrange themselves at any depth of the recursive geometry, whichever channel they ride.
+
+The parallel extends to how they release energy. Atomic electronic and nuclear transitions can both emit light, though nuclear photons are commonly far more energetic. The electromagnetic messenger is shared. The binding is different: electrons bind electromagnetically, while nuclear structure depends on the residual interaction between nucleons, including the pion exchange described below. Neither a shared messenger nor shared angular-momentum rules alone establish a common fold.
+
+Standard cosmic history does not treat these two forces as the closest pair. That distinction belongs to electromagnetism and the weak force, whose unification is confirmed. Electromagnetism and the strong force are more distant relatives whose unification remains conjectural. But they are the two that produce harmonic shell structure, and that shared behavior is the connection this framework draws.
+
+**The windfold conjecture.** Now the sharp version of the question. Why does one force yield a tidy four-dimensional symmetry and the other does not?
+
+The conjecture offered here: the strong force is the same channel system carried by windfold into a higher-dimensional, more tightly wound structure. The electron case is the unfolded, symmetry-clean version. The nuclear case is the deeper, symmetry-broken one. The reason nobody has found a tidy four-dimensional geometry for the nucleus would then be not that it is absent but that windfold carries it into higher dimensions where the symmetry is harder to see.
+
+An established model organizes collective nuclear spectra using groups larger than the atom's rotation group. That gives the conjecture something concrete to compare with. Those groups describe effective collective modes; their size is not evidence for extra spatial dimensions or a fold. A prediction would have to recover a spectral feature that ordinary nuclear models do not already supply. Task 9a leaves that test open.
+
+The energy scales carry a clue worth keeping separate from a proof. Atomic transitions commonly cost electron-volts; nuclear transitions can cost millions of electron-volts. That rough million-fold energy jump is the step from atom to nucleus. The structure inside a nucleon is a further level down. The framework asks whether windfold relates these levels; the size of the jump alone does not show it.
+
+**Three levels, not two.** There are three levels here, not two. The atom is loosely bound. The nucleus is bound more tightly, but its nucleons move fairly slowly and binding changes their mass by only about one percent. Inside each nucleon, nearly all the mass comes from the confined strong-force dynamics itself. Where the windfold sits among these three is open. Appendix A, 'Atom, nucleus and nucleon,' gives representative energy, motion and mass scales.
+
+The shell-windfold conjecture concerns the nucleus. The cinch-fraction idea concerns the mass built inside a nucleon. They stay as separate open questions, with a third question alongside them: how the levels connect. A large mass carried into the nucleus by each nucleon does not by itself explain the nuclear shell structure.
+
+**The weave between nucleons.** The nucleus is held together by something that reaches out from each nucleon without anything colored escaping. At longer range, standard physics describes this force through pion exchange, involving the lightest ripple of the medium that grips the quarks. This document reads it as the weave: the nucleon's own confined structure showing past its edge, tying its neighbors to it. The force is still the force. The proposal is only about what it physically is. Appendix A, 'The weave and the nuclear force,' separates that interpretation from the established description.
+
+Whether the weave between nucleons is a crease extending outward, a record left by one, or something else is open. This may help distinguish the descriptions of the crease in task 33. No new names are assigned to the three levels, because naming an answer before finding it would close the question too soon.
+
+**The honest boundary.** Established: most nucleon mass arises from confined QCD dynamics; nuclear binding removes a small fraction of the combined nucleon mass; atomic and nuclear spectra show shell structure; and the longer-range force between nucleons involves pion exchange. Conjecture: that the nuclear shell structure is related to the atomic symmetry by windfold, that the cinch fraction tracks windfold, and that the weave is a physical trace of deeper confined order. Where the windfold sits and how these levels connect remain to be found.
+
+**An open question, recorded.** The electron energy ladder is analytically clean, its gaps following a simple formula to extraordinary precision. Nuclear spectroscopy maps many levels, with completeness and precision varying by nucleus. There is no single hydrogen-like formula for all those spectra. The two ladders therefore cannot be laid over each other to find a constant ratio.
+
+The unsolved problem is whether the atomic and nuclear ladders can be related by a physical transformation that deserves the name windfold. Their shared selection rules constrain that question but do not answer it. A useful transformation would have to predict something beyond a fitted rescaling or an existing symmetry model. Whether such a relationship exists remains open.
+
+## Bonding, and the edges of the pattern
+
+If each atom's shells are vibration patterns on its own four-dimensional sphere, then a chemical bond invites a reading consistent with everything above. Not two electron clouds touching, but two harmonic structures brought close enough that they must resolve into a single shared pattern spanning both nuclei.
+
+A stable molecule is then a configuration where the combined pattern completes cleanly across the two centers, and a non-bonding arrangement is one where it cannot. This casts bonding in the same shell language used for the nuclear numbers, a gentle version of the same condition. Standard chemistry computes bond energies accurately but does not explain, in a deep geometric sense, why sharing lowers the energy. The completion reading offers a candidate answer: sharing completes a pattern that neither atom could complete alone.
+
+Read this way, bonding and screening and the ignition of fusion may be one phenomenon at three intensities, the progressive deformation of the same structure. Gentle deformation is a chemical bond. Stronger deformation is screening, the reshaping of the electron cloud that changes how closely two nuclei can approach. Extreme deformation is the regime where the structure is strained so far that the nuclei it held apart are permitted to meet. One continuous parameter rather than three separate stories.
+
+A point of precision belongs here. A second nucleus breaks the full hidden symmetry of the ideal one-center atom. Yet the simplest two-center system keeps an extra conserved quantity. There is surviving order to follow, even though the original symmetry is reduced. Appendix A, 'The surviving two-center integral,' states how that quantity connects the limiting cases.
+
+The reconciliation with the windfold language is the same move made for the nucleus. A broken-symmetry system is described cleanly again not by dropping to a lower dimension but by embedding it in a larger structure, one big enough to hold both centers and the deformation between them. Lower symmetry, larger embedding. The two statements are not in tension, and together they are the proposed windfold.
+
+The familiar one-center descriptions reappear when the nuclei coincide or are taken far apart. The bond lies between those limits, where the surviving two-center quantity still supplies order. Chemical correlation diagrams track connections between states as separation changes. Reading this deformation as a windfold is the framework's proposal, rather than an implication of the diagrams alone.
+
+The different bond types then read as completion at different numbers of centers. The cleanest case is two comparable atoms whose patterns merge into one that completes symmetrically across both. The opposite case is two independent patterns that never merged, where one atom simply takes the electron so each completes its own shell and afterward they are held by plain charge attraction. The striking case is metal, where the outer patterns complete on no single atom or pair at all but spread across the entire lattice, a shared set of modes spanning the whole crystal. Fainter contacts between molecules are not completions at all but patterns leaning gently on one another.
+
+The same completion resolves at one center, at two, and at the scale of an entire crystal, which is itself a self-similar statement. The exotic hadrons described later in this document pose the identical question one depth down, whether a bound state completes at one center or two, and that parallel is drawn there.
+
+Energy makes the picture concrete. A completed shared pattern sits in an energy valley. The completion and the valley are two different facts, the first about the pattern and the second about its persistence, and they are easy to run together under one word. When two patterns find a shared completion, the combined arrangement sits lower in energy than two atoms failing to complete around each other, and the difference is released as the bond energy, exactly what must be paid back to break it. Bonding is downhill. Breaking is climbing back out. The depth of the valley marks the regime: shallow valleys are chemistry, gentle and reversible. Loading energy into a shared lattice-wide pattern is screening, straining the pattern and storing potential. Dumping in enough energy strains the pattern so far past its completion that the configuration reorganizes at the nuclear scale and releases the vastly larger nuclear energy. One ledger, wildly different depths.
+
+The caveat here must be firmer than elsewhere. Bonding as completion is a clean conceptual extension. The fusion end of the continuum, however, touches contested experimental territory. Hot fusion is settled physics, but there the electrons are stripped away entirely and screening is a correction rather than the mechanism. Low-energy, lattice-based, screening-assisted fusion is new and disputed science. Some of it is peer-reviewed while the broader interpretation is not established, and the researchers themselves describe the results as strange and not fully understood. This extension is therefore recorded as a speculative bridge and explicitly not as support for the framework. Nothing here should be read as endorsing a particular account of what happens in those experiments. Its only value is that the extremes, where behavior turns strange, mark the edges of the pattern, and the edges are where the reach and the limits of the recursive picture would become visible.
+
+## The carriers, and the three stories usually told as one
+
+The established facts first, with the framework's reading marked after.
+
+Established: the force carriers are the photon, the gluon, the W, and the Z. The photon carries electromagnetism over unlimited range. The gluon carries the strong force and, because its field collapses into a narrow string rather than spreading, it binds quarks in tight confinement. There are eight gluons, and they carry color charge themselves, which is why they grip one another and why the string forms. The W and Z carry the weak force and are heavy, the W about eighty-six times the mass of a proton and the Z about ninety-seven, which is exactly why the weak force reaches only a very short distance.
+
+The W is the distinctive one. It changes one kind of particle into another. It is the carrier present whenever a particle changes species: when a neutron becomes a proton in radioactive decay, and in every one of the tau's decays, both the leptonic kind and the hadronic kind. The Z is its electrically neutral cousin, mediating weak interactions that leave identity unchanged.
+
+One clarification that is easy to get wrong: the gluon is a force carrier in exactly the same family as the photon, the W, and the Z. It is not a matter particle.
+
+**Three mechanisms, kept apart.** The phrase "the bosons and the Higgs" blurs three different things, and keeping them separate matters for everything that follows.
+
+The first is that the force carriers exist because of symmetry, as the opening section described. They are what the geometry must contain for its internal orientation to be free at every point. Pure symmetry forbids them any mass.
+
+The second is that the Higgs vacuum breaks one of those symmetries. The weak carriers are heavy, and symmetry alone forbids that. The resolution is a vacuum that holds a nonzero resting value, the way a magnet keeps a preferred direction with no outside field applied. That resting value picks a direction in the internal space, and the symmetry that would have rotated it is no longer a symmetry of the ground state. It remains a symmetry of the equations. It is broken only in the vacuum. When that happens, three of the four electroweak carriers absorb three of the four components of the Higgs field and become heavy. The fourth component is the Higgs particle. The photon is the one combination the resting value leaves untouched, which is why it stays massless. This is the established example of exactly the move this document calls the first lean: symmetric equations whose lowest-energy state is not symmetric.
+
+The third is that fermion mass enters through couplings to the Higgs field, which after symmetry breaking couple the chiral components. This is not an alternating population clock. The framework reads the measured fermion masses as phase rates and asks whether a physical hidden overturn underlies them. There is one measured coupling for each massive Dirac fermion in that construction, but the framework has not derived their values.
+
+**The W and Z, left open.** The W and Z are different from the other carriers in a way worth naming, and this document leaves their depth mechanism open for now. Every matter particle has partners in all three generations. The W and the Z do not come in generations at all. There is one of each. So if generations are depths, the carriers live on a different axis entirely. Whether the W and Z masses come from a windfold of their own, or from something closer to the standard account of absorbing the vacuum's resting value, is pinned as open. The question of how a carrier that carries no generation can set the mass of knots that do is part of what the overturn exploration is for.
+
+**The W at the boundary.** In this framework the gluon is read as the tide made visible where it is trapped along a tight crease. The W is the carrier involved when a matter pattern changes type through a charged weak interaction. The author asks whether these changes mark boundaries between recursive structures. The carrier is not itself the conduit: conduit remains the word for a crease. The CKM matrix specifies the measured quark-sector couplings that such a reading must recover.
+
+That boundary-crossing role, one self-similar structure passing into another, remains the most promising thread in this section, with the tau's dual decay as the anchoring established example. Appendix D, task 12, sets out that work.
+
+**The Higgs, reframed.** The overturn section takes up this work. It reads the Higgs boson as the resting state ringing and the Higgs coupling as a kind of grip. Whether the measured couplings are the rates of a physical overturn remains the interpretation. What remains is the bridge between the established statement that the Higgs gives the fundamental particles mass and the framework's conjecture that a hidden overturn lies beneath the mass-related phase, and it is still recorded as a task rather than a claim.
+
+## The quark ladder and the zoo
+
+Established facts first, framework reading marked after.
+
+There are six quarks in three generations, echoing the three lepton generations. Up and down are the light, stable pair that build protons and neutrons and all ordinary matter. Charm and strange are a heavier repeat. Top and bottom are heavier still. The charge pattern repeats exactly across the three generations. Only the mass changes. Quarks bind in two main ways: three of them make a baryon, such as a proton or neutron, and a quark paired with an antiquark makes a meson.
+
+Which of the heavy ones actually bind is the interesting part. The strange quark binds readily into a family of heavier cousins of the proton, which live a fraction of a nanosecond, long enough to fly a measurable distance through a detector. Charm and bottom bind too, giving their own families of particles, the bottom ones living about a picosecond.
+
+The exception is the top quark. It falls apart in roughly ten to the minus twenty-five seconds, far faster than the strong force can even dress it, so it never forms a bound particle of any kind. It exists only as a fleeting bare quark. Its coupling to the Higgs is close to one, the only one of the twelve that is of natural size, which in this document's language makes the top the one knot whose grip is not suppressed at all.
+
+**The framework's reading.** The quarks are a second recursive ladder running parallel to the leptons, the same three-generation structure at increasing depths, but living in the confined, folded nuclear topology rather than the open one.
+
+Two rhymes across the two ladders are worth holding.
+
+First, at the deepest level, binding fails in both families. The tau is too deep to form an atom. The top is too deep to form a hadron. Binding fails at maximum depth in both, exactly as this framework would predict. In this document's vocabulary that is a failure of persistence, not of protected identity. The top keeps its charge. It simply decays before anything can hold it.
+
+Second, and this is the finer detail, the failure is not a clean cutoff. There is an asymmetry inside the last generation. The bottom quark is a pattern at a deep level that still just barely binds. Its partner the top is one depth past that, where binding fails entirely.
+
+**Thin and rich: the matter and antimatter dance.** Both realms host matter alongside antimatter, but the folded geometry makes a striking difference in richness.
+
+In the open lepton realm the only glue is electromagnetism, so the most that ever forms is a fragile pairing of an electron with its antiparticle, which annihilates in well under a microsecond. A single simple figure, over quickly.
+
+In the quark realm, the strong interaction supports a much richer family of quark-antiquark and multiquark states. Confinement does not forbid annihilation: these states can decay into other hadrons or, in allowed channels, into photons. Their spectra and lifetimes depend on the available processes, not on a general protection against coming apart.
+
+Standard physics credits this richness to confinement specifically. Reading that confinement as folded geometry is this framework's interpretation.
+
+**Heavy quarkonium, the strong-force atom.** The gluons do not care which quark they are binding. They see only color charge. So the glue holding a heavy quark to its antiquark is the same narrow string and the same confinement as in an ordinary proton. Same conduit, heavier occupants.
+
+Heavy quark-antiquark pairs move slowly and behave almost like a strong-force version of the hydrogen atom. Their energy levels are measured in fine detail and are fit by a potential that is measured, not assumed. At short distance it falls off like the electrical force. At large distance it rises in a straight line, which is the string again, the strong force switching from spreading to confining as depth changes. Studying these levels is one of the cleanest windows anyone has onto the actual shape of the confining string, which is to say onto the crease itself.
+
+**The exotic frontier.** Particles that cannot be three quarks or a quark-antiquark pair are now established. The modern search for them began in 2003, with a state whose nature is still debated. Five-quark states were confirmed in 2015 and resolved into several narrow states in 2019. A doubly charmed four-quark state with a lifetime long enough to be striking was found in 2021. A candidate made of four charm quarks was seen in 2020.
+
+What these states are is not settled, and here the catalog hands this framework a question it already asked in another section. One view holds the exotics are compact objects, four or five quarks bound in a single bag. Another holds they are molecules, two ordinary hadrons loosely bound the way two atoms bind. A third holds that some are the binding field itself carrying structure, a hybrid in which the gluons contribute their own excitation. What would settle it is the pattern of masses and decay widths across a full family, and that family is still being filled in.
+
+That is the bonding section's question one depth down. Does a bound state complete at one center or at two? The compact bag is completion at one center. The molecule is two completions leaning on each other. In this framework's language the parallel is exact, and it means the chemistry section and the exotic section are describing the same condition at two depths.
+
+**The glueball as the hinge case.** The strong field is expected to form bound objects of its own. One candidate, X(2370), now has substantial evidence behind it, but its composition remains disputed. It gives the framework an important comparison, with the identification still open. Appendix A separates this candidate from the scalar states predicted in a theory with no quarks.
+
+In a pure-glue theory, that would be mass from cinch alone, and two readings are open. In the first, a glueball is cinch with no knot: held winding energy, no protected count, no overturn. If so, mass can exist without a knot, and the overturn reading of mass holds only for matter knots. In the second, a glueball is a knot made of crease, cinch that has closed on itself. A model by Faddeev and Niemi describes glueballs as knotted tubes of flux carrying a protected count. If so, knot and cinch are one thing at different tightness, which would support the one-grip leaning.
+
+Real glueball candidates are expected to decay quickly into ordinary hadrons, which weighs against the second reading in its strict form. One established caution keeps that from settling it. In a world of pure glue with no quarks, the lightest glueball would be completely stable, because there would be nothing lighter for it to fall into. Its stability there would come from having nothing below it, not from protection. In full QCD, mixing and lighter hadronic final states change the decay possibilities; a heavier glueball can also have gluonic decay channels in the pure-gauge theory.
+
+The glueball bears on the electron too. If a glueball is all cinch and the electron is all knot, and the two are one mechanism, the electron's overturn would have to be a very shallow cinch. The electron looks point-like down to about a billionth of a billionth of a meter, so any such cinch would have to hide below that scale. A glueball identification alone would not show whether some cycle is present inside it or absent.
+
+These states are almost entirely products of high-energy collisions at the largest accelerators. The collision energy does two jobs: it materializes the heavy quarks out of pure energy, and then the strong force assembles them into fleeting states that fall apart almost at once. Experimenters rarely see the particle at all. They reconstruct it from its debris, as a statistical bump in the wreckage.
+
+This fits the framework's recurring through-line that configurations at deeper levels cost more energy to reach. The everyday unfolded shapes are cheap and stable. The deep folded tangles are expensive and fleeting.
+
+There is an image worth developing here. A squishy elastic shape struck so hard that its outer walls and inner nooks can be briefly inferred from how the energy bounces back, rather than being seen directly. The high energy is the relativistic strain, and the strain is what ties the folded nature of these states together.
+
+## Tension and response: the dark sector
+
+Two of the largest unknowns in cosmology are dark energy and dark matter. In this framework they are conjectured to come from a common property of the substrate.
+
+Dark energy behaves as the resting tension of the shape. Think of a stretched drumhead, or a folded sheet of metal that never fully relaxes. Even at rest it holds a tension, a stored push built into the material itself. Spread that across all of space and it pushes outward everywhere at once, which is what we see the universe doing as its expansion speeds up. Recent large-scale surveys have hinted that dark energy may not be constant but may change over cosmic time. If that hint holds up, it would correspond here to the substrate's resting tension varying along cosmic history. The framework would then have to calculate the direction, size, and shape of that variation rather than simply assuming that settling means weakening.
+
+**Shape memory.** A sharper image than the drumhead is a shape-memory alloy, a metal that returns to a set shape after it has been bent. The substrate may hold something similar: a preferred natural state it is drawn toward. Whether it is still easing toward that state, or has settled into a held tension short of it, is open. A settled tension could look like a constant push. Ongoing easing could make the push change over cosmic time, and the direction of that change needs a law this document does not yet have. Appendix A states what an account of density and pressure would need to supply.
+
+The idea has a precedent. Bucher and Spergel modeled a cosmic component as an elastic solid whose tension is comparable to its energy density. In general relativity, sufficiently negative pressure can make expansion accelerate. That does not mean any stretched medium does the job. The next step is to specify the substrate's density and pressure and test its expansion history and perturbations. The clumping mode needed for dark matter has to be recovered separately.
+
+Dark matter is harder, and here the framework has to set aside a tempting reading.
+
+Dark matter cannot be merely the geometry's instantaneous response to visible matter. To satisfy what we know about the early universe, the substrate must have an independent mode of its own: something that clumps on its own before the first light escaped, that shapes the gravitational wells galaxies later fall into, and that barely resists compression at all. Whatever that mode is, it has to behave in practice like a cold, collisionless component. Naming it geometric does not exempt it from that requirement.
+
+**A speculative reading, recorded as such.** The word instantaneous leaves one door open. Dark matter could begin as the substrate's response to concentrated energy in the early universe, not only mass but energy of any kind, since gravity answers to both. Under that load the substrate would develop disturbances that wind into curled, inward dimensions, where they cannot interact the way ordinary matter does and still carry weight. Once wound, the disturbance would persist and act as a source in its own right. It would be born as a reaction and live on as a cause. That would let it clump first and leave hot gas behind in colliding clusters, which a response that only tracks present matter could not do. This is speculation, and it is not developed here.
+
+**An unanchored knot as a candidate.** The first lean section left a gap open: in the standard seesaw nothing sits between the visible neutrino and its enormously heavy hidden partner. If something does sit in that gap, it may be exactly what the dark sector needs, and the idea is mainstream rather than fringe.
+
+A sterile neutrino, a right-chiral partner that mixes only faintly with the ordinary ones, is unstable if it is heavy. At the seesaw scale it would decay in a fraction of a second after the Big Bang, and leptogenesis requires that it does. But a lighter one, in the range of a few thousand electron-volts, is a different story. Its mixing can be so faint that its lifetime exceeds the age of the universe. It would still decay, very slowly, into an ordinary neutrino plus a photon, which gives it a specific X-ray signature. It interacts through nothing else. No charge, no color, no ordinary weak force. It would pass through every detector ever built as if it were not there.
+
+A knot like that is a serious dark matter candidate. It clumps cold enough, it is collisionless, and it anchors to nothing. Cosmology sets a floor on its mass, because anything lighter than a few thousand electron-volts moves too fast and smears out the small galaxies we observe. X-ray searches set a ceiling on how strongly it can mix. A window remains between the two. A claimed X-ray line in galaxy clusters, reported around 2014, sits inside that window and is still disputed.
+
+In this framework's language this is the cleanest version of the dark sector yet proposed: the unbranched knot, so loosely anchored it grips nothing, filling the space between galaxies. It would come out of the neutrino argument rather than being added by hand. It is recorded as an unknown. It has not been found, the window is narrowing, and whether it would account for all of the dark matter or only part is open.
+
+**The acceleration scale.** The framework aims at a striking coincidence. There is a particular acceleration scale below which galaxy rotation stops matching Newtonian expectation, and there is a completely separate acceleration scale associated with the expansion of the universe as a whole. These two numbers have no business being related, and they come out close to each other. It is as if the deep ocean and the upper atmosphere happened to share a pressure.
+
+In this picture the galactic and cosmic acceleration scales might be readings of one substrate property. To make a prediction, the framework must select a definite cosmic quantity, derive the relation and fix its coefficient independently. A law tied to the changing expansion rate differs from one tied to a constant cosmic background. Neither is selected here; any redshift dependence has to follow from the chosen law, not the analogy.
+
+One further honesty. There is a notorious problem here, often called the worst prediction in physics. When you add up the energy that empty space should contain according to our best theory of the small, the answer comes out larger than what we measure by a factor with more than a hundred zeros after it. Something is clearly being counted that nature does not count. Saying the calculation adds up the wrong scale points in a direction, but it does not solve anything. The framework would eventually have to explain what actually removes the fine contributions, and why a small residual tension survives.
+
+## A place to test the idea
+
+A picture earns respect by exposing itself to falsification. The sharpest astrophysical test available is a collision between galaxy clusters.
+
+When two clusters collide, the hot gas, which makes up most of the ordinary matter, slams together and lags behind, while anything collisionless sails straight through with the galaxies. Gravitational lensing then shows where the mass actually is. In the famous cases, the mass has gone through with the galaxies, not stayed with the gas. That is the strongest evidence that dark matter is a collisionless component.
+
+With its dark sector modeled as a collisionless condensate, this framework inherits that account rather than fighting it. The condensate passes through with the galaxies while the gas lags. Contested and anomalous cases in the literature remain contested observations, and this framework declines to build custom machinery to explain them.
+
+Declining to build on a contested case is not the same as closing it. Some reconstructions of Abell 520 infer a central concentration of mass near the stalled gas with little galaxy light; others do not establish that excess. Its existence and interpretation remain disputed. It is a complicated merger, so line-of-sight structure and reconstruction uncertainty matter. The framework records a question about multi-group mergers without predicting a different response to them.
+
+The wager is therefore simple and unglamorous: the condensate must reproduce the observed offsets consistently as a collisionless component. At this level it must behave almost exactly like standard cold dark matter. The framework's novelty would lie in deriving that behavior from the geometry and connecting it to the vacuum tension, not in predicting some dramatically different collision.
+
+## The oldest light, and the question of a beginning
+
+The faint glow left over from the early universe is the most severe constraint any cosmological model faces, because its pattern of hot and cold spots has been measured to extraordinary precision and encodes the whole content of the early universe.
+
+In this framework the ordinary matter and light supply the sound waves visible in that pattern, while the substrate supplies the additional cold clumping mode that establishes and deepens the gravitational wells. A highly connected substrate might well support wave modes of its own. But reproducing the observed pattern requires deriving the full coupled behavior of both components, and matching the measured ratio of dark matter to ordinary matter, which is about five and a half to one, along with the positions and relative heights of the peaks. That is a hard quantitative bar and it has not been cleared.
+
+Then the oldest question. If the grammar is recursive, where does the universe begin?
+
+The honest answer is that you cannot put your finger on it. A structurally self-similar geometry has no privileged innermost scale, the way a coastline has no first bay. Follow it down and you find only finer folds, and finer again.
+
+But infinite recursive depth does not automatically abolish a beginning. There are real technical questions about whether such a geometry can be extended indefinitely into the past, and this framework does not answer them. The Big Bang may simply mark a horizon of legibility, the boundary beyond which ordinary spacetime language stops being an adequate description, rather than proving either an absolute beginning or an eternal past.
+
+This is the point where the picture shades into open questions, and it is left as one rather than resolved.
+
+---
+
+To state it once more, plainly.
+
+This is a thought experiment. It proposes a geometry, not a finished physics. Its whole burden is to eventually produce at least one correct number without disturbing the things we already know, above all the exact constancy of the speed of light.
+
+What it offers today is a single organizing image. The physics we see is one way of building, read at many depths, echoing without repeating. Beneath all of it the substrate is never still. Between one depth and the next there may be a windfold, and along a windfold a crease, with the weave naming the connective whole. Some patterns close, and their identity cannot be undone under the allowed changes. Mass gives a pattern a phase rhythm. Fractus asks whether that rhythm has a physical turning beneath it. Its calibrated count follows proper time; what makes it turn remains open.
+
+The depth was always there, folded and waiting, and every gamma ray is a question asked of it.
+
+---
+
+# Part II: Technical appendices
+
+The main text was written to be read aloud, and technical names were kept out of it deliberately. This is where they live. Appendix A translates the plain language back into the correct scientific terminology, section by section, so that a reader who wants to check the claims or follow them further knows exactly what to search for. Appendix B gives the framework's own vocabulary alongside the established terms. Appendix C holds the failure conditions, Appendix D the research program, Appendix E the source literature. Appendix F carries one conjecture held apart from the main argument. Appendix G is the full particle catalog in table form, with a symmetry inventory. Appendix H holds side notes and open threads that do not yet have a home in the body.
+
+## Appendix A: The technical names behind the plain language
+
+Each entry gives a phrase reference, then the established scientific name. Quotation marks identify wording that matches the main text exactly. Italics without quotation marks identify a paraphrase. Nothing in the body had to carry notation.
+
+**On the shape itself.**
+
+*The same way of building, working at every scale* is structural self-similarity, as distinct from exact self-similarity. The relevant established results are Carlip's dimensional reduction, in which the effective dimension of spacetime runs from four at large scales toward roughly two at the smallest. Calcagni's multifractional spacetimes build field theory on a dimension that varies with scale. Wilson's renormalization group is the mathematics of one set of rules flowing across scales.
+
+*A fluid, flowing topology rather than a grid of quantized cells* states the framework's stance that the substrate is continuous and that quantization comes from a return condition on it. The nearest established precedent is the derivation of the hydrogen levels as standing-wave solutions of the Schrodinger equation.
+
+*"The weave"* and *"the channels"* correspond to the connective structure represented in standard calculations by propagators. A propagator is a mathematical object, not evidence for a material fabric. Between nucleons the longer-range force is described by pion exchange; the framework's physical reading is given in 'The weave and the nuclear force' below. *A knot tied in the shape* denotes a proposed topologically protected localized configuration, or topological soliton.
+
+*The finest, most energetic depths* is the ultraviolet regime. *The broadest collective behavior* is the infrared regime. *The surface light rides on* is an emergent, symmetry-protected null propagation sector. *The resting tension of the shape* is the vacuum energy of the ground state. *How the shape resists being loaded* is called Stiffness in this framework and is identified with an inverse compliance in a linear response relation, connected to entanglement susceptibility, to induced gravity, and to the quantum Fisher information metric.
+
+**On closure, persistence, and the new vocabulary.**
+
+*"The tide"* has no established counterpart. It is the framework's name for an intrinsic, never-static dynamics of the substrate. The iterated map of the fold section is read as a picture of it.
+
+*A whole-number count that cannot be smoothly undone* is a topological invariant, also called a topological charge. The standard candidates are the winding number, for a field whose values lie on a circle, the degree of a map, for point-like configurations, and the Hopf invariant, for fields whose values lie on a sphere in three-dimensional space. The Hopf invariant equals the linking number of the field's preimage curves, which is why the main text says the count can show up as linked lines. None of these is yet assigned to the substrate. The choice depends on the field space and boundary conditions, which are not yet specified.
+
+*An orientation at every point* is an order-parameter field. *Arrow-like* means its values lie on a sphere, so reversing a value gives a different state, as with magnetic spins. *A plain axis with no head and no tail* means its values lie on the real projective plane, as with the molecules of a nematic liquid crystal. The two choices allow different protected structures. Arrow-like fields have no protected line defects in three dimensions but allow signed point charges and knotted textures. Axis-like fields allow line defects protected only in pairs, around which the field returns flipped, and lose the sign of point charges. The arrow space covers the axis space twice.
+
+*"Returning on itself is not enough"* refers to the established fact that a bound quantum system with a discrete spectrum evolves as a sum of stationary states, each returning identically up to a phase. *The return condition* is the framework's name for a quantization condition, such as the single-valuedness of a wavefunction around a closed path.
+
+*"Derrick's theorem"* (1964) shows that in a broad class of scalar field theories in three or more space dimensions, no static, finite-energy localized solution is stable against rescaling. *A second ingredient that resists shrinking* is the higher-derivative term introduced by Skyrme and used in the Faddeev-Niemi model, which balances against the gradient energy to fix a size.
+
+*Metastable equilibrium* is the standard term for a state at a local minimum of energy, stable against small disturbances, from which escape is possible over or through a barrier.
+
+*Kelvin's knotted vortex rings* is the vortex atom theory of William Thomson, Lord Kelvin (1867). *How tangled the swirling lines are is conserved* is the conservation of fluid helicity in an ideal fluid, interpreted topologically by Moffatt (1969) as a measure of the linking of vortex lines. It is broken by viscosity and reconnection.
+
+*Stable because nothing lies below it* is kinematic stability, the absence of a lighter state with the same conserved quantum numbers. *Stable because its identity is protected* is topological stability.
+
+*"The cinch"* has no single established name. Its established content is the energy stored in a confining gluon field, which in the flux-tube picture is the string tension times the tube's length. *"The harness"* is a bound state, such as an atom.
+
+*"Measurements of how the Z boson decays show exactly three kinds of light neutrino"* refers to the invisible width of the Z measured at the LEP collider, which gives a number of light neutrino types very close to three.
+
+**On the carriers and the symmetry that requires them.**
+
+*A requirement that the equations must not change if you rotate an internal label differently at every point* is local gauge invariance, and the compensating field it forces is the gauge boson. The gauge groups are U(1) for hypercharge, SU(2) for the weak isospin sector, and SU(3) for color. The number of carriers is the dimension of each group: one, three, and eight. *The strengths of the three forces change with energy* is the running of the coupling constants, and *"they come close but do not quite meet"* is the statement that gauge coupling unification fails in the Standard Model alone and can succeed in supersymmetric or other extensions.
+
+*A vacuum that holds a nonzero resting value* is the Higgs vacuum expectation value, about 246 GeV. *Three of the four carriers absorb three of the four components* is the Higgs mechanism, in which the Goldstone modes become the longitudinal polarizations of the W plus, W minus, and Z. *Symmetric equations whose lowest-energy state is not symmetric* is spontaneous symmetry breaking.
+
+*Two of the four are rotated into each other by a single angle* is electroweak mixing, with the weak mixing angle, also called the Weinberg angle, whose sine squared, $\sin^2\theta_W$, is about 0.23. The Z and photon are the two orthogonal combinations of the neutral weak field and the hypercharge field.
+
+*Eight gluons that carry the very charge they mediate* is gluon self-coupling, a consequence of SU(3) being non-abelian. The photon's lack of self-coupling follows from U(1) being abelian.
+
+**On the first lean and the unbranched knot.**
+
+*"The charged weak interaction selects the left-chiral matter fields and their conjugates"* is maximal parity violation in the charged current, with its vector-minus-axial structure. The neutral current couples to both chiralities with different strengths. *An experiment on the decay of cobalt-60* is the Wu experiment of 1957. *"The mirror is broken twice"* is CP violation, first seen in neutral kaon decay by Christenson, Cronin, Fitch, and Turlay in 1964, and later in B mesons. *"The combination of all three mirror operations"* is CPT symmetry, protected by the CPT theorem.
+
+*The three conditions any account must meet* are the Sakharov conditions: baryon number violation, C and CP violation, and departure from thermal equilibrium. *"The measured CP violation is far too small"* refers to the Jarlskog invariant of the CKM matrix being many orders of magnitude short of what electroweak baryogenesis would need.
+
+*What the double-beta search can establish.* Electric neutrality permits Dirac and Majorana mass constructions; it does not choose between them. Neutrinoless double beta decay violates lepton number by two units. Under the usual local quantum-field-theory assumptions of the black-box argument, a detection implies a Majorana mass contribution. It need not be dominated by light-neutrino exchange and does not identify Fractus branch reconnection. For standard three-light-neutrino exchange, the effective mass and the inverse half-life are
+$$m_{\beta\beta} = \Big|\sum_i U_{ei}^2\, m_i\Big|, \qquad \big(T^{0\nu}_{1/2}\big)^{-1} = G_{0\nu}\, g_A^4\, \big|M_{0\nu}\big|^2 \left|\frac{m_{\beta\beta}}{m_e}\right|^2.$$
+Phases can cancel contributions, especially in normal ordering. Null searches constrain mechanisms and parameter domains. The framework has not derived a positive minimum rate after allowed cancellations and nuclear uncertainties.
+
+The simplest one-generation type I seesaw, for a heavy right-chiral Majorana partner and a Dirac mass much smaller than its mass, gives
+
+$$m_\nu \approx \frac{m_D^2}{M_R}, \qquad m_D = \frac{y\,v}{\sqrt{2}}.$$
+
+Here $y$ is the Yukawa coupling and $v$ is about 246 GeV. For $y$ near one, a partner scale of order $10^{14}$ to $10^{15}$ GeV gives light masses around the observed sub-eV scale; about $6\times10^{14}$ GeV gives 0.05 eV. A smaller coupling and a smaller partner mass can give the same light mass. The light mass alone does not fix the partner scale. *Versions where the heavy partner sits much lower* include low-scale seesaw variants and resonant leptogenesis. *Leptogenesis* is the Fukugita and Yanagida proposal of 1986. *A known process that converts an excess of leptons into an excess of quarks* is the electroweak sphaleron, which violates baryon plus lepton number while conserving their difference.
+
+*The electron can never turn over into its mirror mid-flight* restates exact conservation of electric charge, which forbids a Majorana mass term for any charged fermion.
+
+**On overturn, the Higgs, and the other turnings.**
+
+**The held chord: weights, amplitudes and clocks.** The Dirac mass term couples left- and right-chiral components. For a free positive-energy momentum component of definite helicity $\eta = \pm 1$ in a fixed frame, their normalized weights are $P_L = (1 - \eta v/c)/2$ and $P_R = (1 + \eta v/c)/2$. At fixed momentum these weights are steady, not fractions of time. At rest helicity is undefined; a spin direction must instead be specified. General wave packets and interactions need their own analysis. Chirality, helicity and zitterbewegung are distinct concepts.
+
+**The small neutrino component and the double-beta test.** For such a definite-helicity component, the smaller weight is $\tfrac12\big[1 - \sqrt{1 - (mc^2/E)^2}\,\big]$. At $E \gg mc^2$ it is approximately $(mc^2/2E)^2$; its amplitude is approximately $mc^2/2E$. The amplitude is of order $m/E$ in natural units, while the weight is of order $(m/E)^2$. Neither is a time fraction. These external-state weights do not by themselves derive the internal Majorana-exchange decay amplitude. The double-beta process does not require a completed physical turn from one chiral face to the other.
+
+*"A rate every mass already has"* is the Compton phase relation. At rest its angular rate is $mc^2/\hbar$ and its cycle rate is $mc^2/h$. For the electron these are about $7.76\times10^{20}$ radians per second and $1.24\times10^{20}$ cycles per second. The conventional rest-energy-gap zitterbewegung scale is twice these values: $1.55\times10^{21}$ radians per second, or $2.47\times10^{20}$ cycles per second. Angular rates must not be called cycles per second. The conventional trembling requires state and observable qualifications, including interference between energy sectors in the usual free Dirac treatment; a stationary positive-energy component has no universal trembling or alternating chiral weights. A spinor phase and a frame rotating at twice its rate also have different return counts. No one of these is established as Fractus's physical overturn.
+
+*"Overturn"* names the author's proposed steady turning through a hidden dimensional order. Its relation to the mass-related phase and to interactions selecting a chiral component is conjecture. Chirality flip, helicity flip and zitterbewegung are not interchangeable established names for it. Whether the overturn and the spinor double cover are the same object remains open.
+
+*"Circulation"* in a cinch corresponds in field theory to a conserved current along a closed string loop, as in vortons. *Breathing* corresponds to long-lived localized oscillations, called oscillons, and to their adiabatic invariants. *A breathing configuration can be described as a rotating one* refers to the derivation of real-field oscillons from effective complex-field Q-balls in one space dimension at leading nonlinear order. A Q-ball is a localized lump whose internal phase rotates at a fixed frequency, stabilized by a conserved charge.
+
+*The Higgs boson is a splash* restates that every Standard Model particle is a quantum of its field. *The resting state ringing* is the framework's reading of the Higgs boson as an excitation about the vacuum expectation value. Its mass, 125 GeV, and its decay channels are from the ATLAS and CMS discoveries of 2012. The measured fermion mass parameters correspond to the Yukawa couplings of the six quarks and the three charged leptons, plus the neutrino couplings if Dirac. The top quark's Yukawa coupling is about one.
+
+*"Most of the mass of ordinary matter"* refers to confined QCD dynamics inside nucleons, including quark and gluon contributions. There is no universal one-percent or few-percent Higgs share. The sum of current valence-quark masses, scalar sigma terms, a change of Higgs background and the binding deficit of a nucleus are different quantities. Any numerical share must specify the operator decomposition, scale and comparison. Nuclear binding is a separate mass deficit, about one percent in many well-bound nuclei. *A rigorous proof remains an open prize problem* refers to Yang-Mills existence and the mass gap. *A mass scale emerging from confinement* refers to dimensional transmutation, not a derivation of nuclear shell geometry.
+
+**Atom, nucleus and nucleon.** These are representative scales, not three universal constants or identical definitions of binding.
+
+| Level | Representative energy | Motion | Mass accounting |
+|---|---|---|---|
+| Atom | Electron binding or excitation on an eV scale for light atoms and outer electrons | Hydrogen ground-state characteristic speed about $0.007c$; inner electrons in heavy atoms can be relativistic | Hydrogen binding deficit about $1.45\times10^{-8}$ of atomic mass; other atoms differ |
+| Nucleus | About 8 MeV binding per nucleon in many well-bound nuclei | Characteristic nucleon speeds can be near $0.25c$, depending on nucleus and state | Binding removes roughly 1% of combined free-nucleon mass |
+| Nucleon | Excitations hundreds of MeV above the ground state; not a free-quark binding threshold | Relativistic quark and gluon dynamics; no unique measured quark speed | Most rest mass arises from confined QCD dynamics, with decomposition-dependent quark and gluon shares |
+
+The rough million-fold comparison is between eV atomic and MeV nuclear energy scales, not a measured geometric fold ratio. Nucleon excitation gaps are not a binding deficit measured against isolated free quarks.
+
+**The weave and the nuclear force.** The longer-range interaction between color-neutral nucleons includes one-pion exchange, with exponential falloff scale $\hbar/(m_\pi c)$, about 1.4 fm, rather than a sharp boundary. Yukawa proposed massive meson exchange in 1935, before the pion was discovered. Pions are pseudo-Goldstone modes of spontaneously broken chiral symmetry; their small nonzero masses also depend on explicit breaking by the light-quark masses. The condensate-ripple image is a conceptual door, not the complete mass derivation. Chiral effective descriptions include one- and multi-pion exchange and local short-distance interactions. Heavier-meson exchange is a conventional shorter-range model, not a unique microscopic explanation of a repulsive core. This residual force remains a consequence of QCD. Reading it as the weave, a physical trace of higher order within the confined nucleon, is the framework's conjecture. It does not yet identify an extending crease or a record left by one.
+
+**Mixing as alignment.** In a standard convention $V_{\mathrm{CKM}} = U_{uL}^\dagger U_{dL}$ and $U_{\mathrm{PMNS}} = U_{eL}^\dagger U_\nu$. Their physical content concerns relative sector bases; it is not an intrinsic mixing strength of one particle. Charged-lepton flavor-changing decay limits constrain different amplitudes. The empirical Gatto-Sartori-Tonin pattern $\sin\theta_C \approx \sqrt{m_d/m_s}$ concerns the leading quark angle and consistently defined running masses; it is not a general mass-to-mixing law. Some flavor textures reproduce it under additional assumptions. Oscillations measure squared mass differences, not the absolute neutrino mass ratios; a lightest mass near zero remains possible. Consequently the full neutrino hierarchy cannot be declared milder than the charged-lepton hierarchy. Electrical neutrality permits Majorana masses and seesaw constructions but does not select a unique mechanism. Anchor matching is the author's proposed relationship, with no quantitative selector for the relative bases or mass ladders yet derived.
+
+*Four kinds of handle* are the quantum numbers mass, electric charge, color charge, and spin. *All mass gravitates the same way* is the equivalence principle. *"Why charge comes only in fixed units"* is charge quantization, for which the established candidate explanations include Dirac's magnetic monopole argument and grand unification.
+
+**On the two grips and the four-dimensional split.**
+
+*"Mass is a comparison"* uses phase-count ratios at equal proper time: $N_a/N_b = m_a/m_b$ for free definite-mass modes. It keeps the reference and interval explicit. The Page-Wootters construction is a separate precedent for relational time, not a proof of a hidden overturn or of the phase clock's physical realization.
+
+*A medium the strong force builds out of quarks themselves* is the chiral quark condensate, the vacuum expectation value of the quark-antiquark operator, introduced by Nambu and Jona-Lasinio in 1961. *About three hundred million electron-volts to every light quark* is the constituent quark mass. *Melts at a temperature about a thousand times lower* compares the QCD crossover near 155 MeV with the electroweak crossover near 160 GeV. *Superconductivity first described with a field written down by hand* is Ginzburg-Landau theory (1950), later explained as a Cooper-pair condensate by Bardeen, Cooper, and Schrieffer (1957). *Composite Higgs models* include the programs of Georgi and Kaplan, of Agashe, Contino, and Pomarol, and top condensation (Bardeen, Hill, and Lindner).
+
+*Rotations in four dimensions split into two independent halves* refers to $\mathrm{Spin}(4) \cong \mathrm{SU}(2)\times\mathrm{SU}(2)$ in Euclidean signature. Lorentzian chiral spinors instead use the complex-conjugate representations associated with $\mathrm{SL}(2,\mathbb{C})$. A Dirac mass couples those components without requiring alternating chiral weights. Instantons are Euclidean self-dual Yang-Mills configurations; index relations connect specified gauge topology to chiral zero modes. The eta-prime mass supports anomalous singlet dynamics through the Witten-Veneziano relation; it does not select an instanton gas, an individual-particle overturn or a sign of cosmic matter asymmetry. ADHM constructs the relevant instanton solutions; Donaldson applies gauge theory to smooth four-manifold topology. These are distinct mathematical roles. A Euclidean propagator has a Compton decay length, not a demonstrated physical overturn.
+
+*"general relativity has formulations using self-dual variables, one part of a four-dimensional split"* refers to the self-dual or chiral formulations of gravity of Plebanski, Ashtekar, and Krasnov. These are reformulations of the same theory, not evidence that gauge topology produces gravity. Spacetime spinor structure and weak internal symmetry have distinct roles. Coleman-Mandula constrains their combination under specific scattering-theory assumptions; it is not an unconditional ban on unification. Euclidean constructions must recover Lorentzian reality conditions and measured couplings. The Higgs and condensate grips must reproduce universal gravitational coupling to total energy, including hadron binding. Whole-hadron phase calibration alone does not derive the equivalence principle.
+
+**On spin.**
+
+*Turned through two complete revolutions before it returns* is the SU(2) double cover, and the property that half-integer spin states require a 720-degree rotation to return to themselves. The image of rotating a knot and dragging the surrounding folds with it is Dirac's belt trick, formally the orientation-entanglement relation. *The two particles with the same spin and wildly different lifetimes* are the Delta baryon, which decays in about ten to the minus twenty-three seconds, and the Omega-minus, which lives about ten to the minus ten seconds because strangeness conservation blocks its strong decay. Both are spin three-halves.
+
+**On light.**
+
+*The direction it points* is polarization. *A path along which the spacetime interval is exactly zero* is a null geodesic. A caution belongs here that the main text does not carry: physicists resist granting a photon a genuine rest frame or point of view, because the mathematics of a massless frame breaks down. The zero-interval statement is exact as a geometric fact about the path and should not be over-read as the photon's experience.
+
+*"The oldest light"* is the cosmic microwave background, and the moment it was released is recombination.
+
+*"A free electron cannot absorb a photon"* is the statement that energy and momentum conservation cannot be simultaneously satisfied for a free electron absorbing a real photon, which is why the photoelectric effect requires a bound electron and why Compton scattering, not absorption, is what a free electron does. *A momentum shove of a few centimeters per second* is photon recoil, exploited in laser cooling. *"The recoil energy"* is the photon energy squared divided by twice the absorber's rest energy. *Hyperfine structure* is the shift of nuclear levels due to the electron cloud's field at the nucleus, strongest for s orbitals because of their nonzero density at the origin. *The Mossbauer effect* is recoil-free nuclear resonance absorption, with the zero-phonon fraction given by the Lamb-Mossbauer factor. *Taken by an inner electron instead* is the photoelectric effect at gamma energies. *Knocks a neutron out* is photodisintegration, and *"all the protons slosh against all the neutrons"* is the giant dipole resonance. *Hands its energy straight to the electron sitting on top of it* is internal conversion. *Cleanup after a decay* is gamma de-excitation of a daughter nucleus, with cobalt-60 to nickel-60 as the standard example.
+
+**On time and on entanglement.**
+
+**Compton phase and proper time.** For a free definite-rest-mass mode along an inertial timelike trajectory,
+$$\Delta\phi = -\frac{mc^2\,\Delta\tau}{\hbar}, \qquad N = \frac{|\Delta\phi|}{2\pi} = \frac{mc^2\,\Delta\tau}{h}.$$
+The analogous leading eikonal relation on a supplied curved spacetime has its own propagation assumptions. The relation applies to scalar and spinor states, elementary or composite; a mass superposition has several phase rates. Different masses require different count-to-time calibrations. An isolated global phase is not an operational clock: relative-phase measurements and a physical clock construction remain necessary. This correspondence does not derive the metric or gravitational redshift from the substrate. Proper time along a null path vanishes, and a photon has no rest frame. The absence of a shared now is relativity of simultaneity; summing clock counts across a region requires a covariant construction rather than an assumed preferred slice.
+
+*Correlation without communication* is quantum entanglement under the no-signaling theorem, also called the no-communication theorem, which guarantees that no local measurement on one half of an entangled pair can transmit information to the other. *Influence takes time* refers to retarded propagators, which carry interaction at or below the speed of light. *Collapse* is the measurement postulate, whose status as a physical process is interpretation-dependent. The phrase *spooky action at a distance* originates in Einstein's correspondence and the Einstein, Podolsky, and Rosen paper of 1935, where it was a complaint rather than a description, and Bell's theorem of 1964 is what rules out the shared-past explanation of the correlations.
+
+**On the bottom of the well.**
+
+*Once collapse has gone far enough, a singularity is very hard to avoid* is the Penrose singularity theorem (1965), with the trapped surface as its condition. *"Past the horizon, the inward direction behaves like time"* is the statement that the Schwarzschild radial coordinate is timelike inside the horizon. *"A distant watcher sees the falling clock slow and freeze"* is the infinite gravitational redshift of signals from the horizon as seen from outside. The infalling observer's proper time to cross the horizon is finite. *"a simple one-particle account may fail"* refers to the breakdown of a unique particle concept in quantum field theory on curved spacetime when curvature becomes significant on the Compton scale. *"Concentrated radiation can source strong gravity even without rest mass"* includes the proposed kugelblitz, collapse sourced by concentrated radiation.
+
+*Collapse bounces at the highest possible density* is the loop quantum gravity bounce, with the Planck star (Rovelli and Vidotto) as the point of maximal compression and a black-to-white-hole transition as its continuation. *Each internal state is a horizon-sized tangle with its own shape* is the fuzzball proposal of Mathur, developed as the microstate geometry program. *A smooth region of vacuum energy joined to the outside by a thin shell* is the gravitational vacuum condensate star, or gravastar, of Mazur and Mottola, with a de Sitter interior. A slowly rotating gravastar is indistinguishable from a Kerr black hole by exterior measurements.
+
+**On the leptons, mixing, and the native ringing.**
+
+*"Each one is a blend of three underlying states"* is neutrino flavor oscillation, with the mixing encoded in the PMNS matrix, named for Pontecorvo, Maki, Nakagawa, and Sakata. *"What travels is the three mass states"* is the statement that mass eigenstates propagate with definite phases while flavor eigenstates are defined by the charged-current interaction. *"Flavor conservation was never built into the theory"* refers to the individual lepton flavor numbers being accidental symmetries of the Standard Model, broken by neutrino masses. *The quark mixing matrix* is the CKM matrix, named for Cabibbo, Kobayashi, and Maskawa. Both are three-by-three unitary matrices parameterized by three angles and one CP-violating phase, with two additional Majorana phases in the PMNS case if the neutrino is Majorana. *One mixing angle near forty-five degrees* is the atmospheric angle, $\theta_{23}$. *The largest quark angle, about thirteen degrees,* is the Cabibbo angle.
+
+*A muon turning into an electron and a photon* is the charged lepton flavor violating decay of the muon to an electron and a photon. *Limits it to below about one and a half in ten trillion decays* refers to the MEG II result of 2025, an upper limit on the branching ratio of one and a half times ten to the minus thirteen at ninety percent confidence. A null search sets an upper limit. It does not establish exact conservation. Neutral-meson oscillations are observed in kaons, D mesons and B mesons. They depend on weak-interaction amplitudes but are not themselves the definition of CKM basis misalignment.
+
+*"The native ringing"* is the name for the proposed explanation of the CKM/PMNS contrast through anchor matching. A simple monotonic anchor-count rule does not work. Relative alignment, the different kinds of flavor-changing observable, and the unknown absolute neutrino mass hierarchy are treated under 'Mixing as alignment.'
+
+*An empirical relation among the three charged lepton masses* is the Koide formula, published in 1982, which holds to the precision of current measurements of the pole masses and has no accepted derivation.
+
+**On the atom.**
+
+*A counting rule discovered in the 1930s* is the Madelung rule, also called the Klechkowski rule: subshells fill in order of increasing $n + l$, and where two share the same $n + l$, the one with smaller $n$ fills first. This is why the 4s subshell fills before 3d.
+
+*Lifting the problem onto the surface of a sphere in four dimensions* is Fock's 1935 result: the bound states of hydrogen, transformed into momentum space and projected stereographically onto a three-sphere, become the four-dimensional spherical harmonics of the rotation group SO(4). *"The famous coincidence"* is the accidental degeneracy of hydrogen, the fact that energy depends only on the principal quantum number $n$ and not on the angular quantum number $l$.
+
+*An even larger symmetry group with operators that step between shells* is the noninvariance dynamical group SO(4,2), extended by a spin factor to SO(4,2) times SU(2), in the work of Barut, Kibler, Ostrovsky and others. This is also the largest group leaving Maxwell's equations invariant. The distinction that matters to this framework is between an invariance group, which acts within one energy level, and a dynamical or noninvariance group, whose ladder operators step between levels.
+
+*The round one, the lobed one, the cloverleaf ones* are the s, p, d and f orbitals. *The two numbers added together* is the $n + l$ sum, and the operator this framework is looking for is a diagonal ladder operator in the larger algebra.
+
+**The surviving two-center integral.** The one-center Coulomb problem has a Laplace-Runge-Lenz vector and SO(4) bound-state symmetry. A second center breaks that full symmetry, while the fixed-nuclei one-electron problem retains an extra conserved scalar. In a specified normalization it tends to $L^2$ at the united-atom endpoint. Near a separated nucleus, an energy-subtracted, shifted and rescaled form tends locally to an axial Runge-Lenz component. The raw midpoint operator has no finite global dissociation limit. This result is for H2+ with fixed nuclei, not a proof for every many-electron bond. Diatomic correlation diagrams track state connections; Woodward-Hoffmann rules have a particular concerted-reaction scope.
+
+**On the nucleus and the hadrons.**
+
+*Special numbers at which a shell closes* are the nuclear magic numbers at 2, 8, 20, 28, 50, 82, and 126, from the shell model of Goeppert Mayer. Shell closure is the established term. *A predicted island of stability* sits near atomic number 114 to 126.
+
+*An established model that fits nuclear spectra using higher-dimensional groups* is the interacting boson model, using U(6) and its subgroups SO(6) and SO(5), which are larger structures than the atom's SO(4).
+
+*A simple formula the electron ladder follows* is the Rydberg formula: ideal Coulomb energies relative to threshold scale as $-1/n^2$, and adjacent spacings asymptotically as $1/n^3$. A finite table of levels has Hausdorff and box dimension zero. The ideal infinite level set, including its accumulation point, has box dimension $1/3$ but Hausdorff dimension zero. Thus fractional box dimension alone is not a windfold diagnostic. Task 9a needs a specified spectral object, limiting procedure and prediction that controlled ordinary dynamics would not already produce. Angular-momentum selection rules and nuclear gamma spectroscopy supply separate information, not an automatic dimension test.
+
+*The hadrons were sorted into families by symmetry alone in 1961* is the Eightfold Way of Gell-Mann and Ne'eman, based on flavor SU(3), with the Omega-minus as the predicted and then discovered member of the decuplet.
+
+*Straight lines in a plot of spin against the square of mass* are Regge trajectories, found by Chew and Frautschi in 1961, whose universal slope is the inverse of the string tension in the string picture of hadrons.
+
+*A potential that falls off like the electrical force at short distance and rises in a straight line at large distance* is the Cornell potential fitted to heavy quarkonium spectra.
+
+*"The modern search for them began in 2003, with a state whose nature is still debated"* is the X(3872), now called chi-c1(3872), seen by Belle. *"Five-quark states"* are the pentaquarks observed by LHCb in 2015 and resolved in 2019. *"A doubly charmed four-quark state"* is the T-cc-plus seen by LHCb in 2021. *"A candidate made of four charm quarks"* is the structure near 6900 MeV in the J/psi pair spectrum. *Compact objects, molecules, or hybrids* are the tetraquark, hadronic molecule, and hybrid interpretations.
+
+**The glueball candidate and its interpretation.** Pure Yang-Mills theory predicts gluonic bound states. BESIII assigned pseudoscalar quantum numbers to X(2370) in 2024 and argued in a July 2026 preprint for a dominant pseudoscalar glueball component, presented at ICHEP on 5 August 2026. Later phenomenological studies dispute that inference. A mixed full-QCD candidate is distinct from an uncontested pure-glue identification. *A scalar glueball mass around 1.5 to 1.75 GeV* refers to quenched lattice QCD predictions for the scalar glueball. *"A model by Faddeev and Niemi"* is the knotted soliton model of 1997, in which a unit-vector field carries a Hopf charge and glueballs are proposed as knotted flux tubes. *Closed loops of glue* is the flux-tube model of Isgur and Paton, in which glueballs are closed flux loops. *In a world of pure glue the lightest glueball would be completely stable* is the mass gap of pure Yang-Mills theory, in which the lightest glueball has no lighter state to decay into.
+
+*The top quark falls apart before the strong force can dress it* is the statement that the top width, about 1.4 GeV, exceeds the hadronization scale.
+
+**On the fold and the crease.**
+
+This is where the framework's central image meets the established mathematics that would have to carry it, and the list is worth reading in full, because each ingredient is real even though the chain assembling them is not.
+
+Fractional dimension is rigorously defined through the Hausdorff and box-counting dimensions. Iterated function systems are the rigorous statement that recursion generates fractional dimension, with the attractor's dimension fixed by the contraction ratios. Renormalization group flow is recursion producing dimensional change inside physics itself. The MERA tensor network realizes depth of iteration as an emergent dimension. Dimensional regularization treats dimension as a continuous parameter as ordinary daily practice. Group contraction and deformation supply the machinery for one symmetry group passing gracefully into another as a parameter slides, with relativity itself as the textbook case: the Lorentz group deforms into the Galilean group as the speed of light is taken to infinity. The question this framework poses in that language is whether SO(4) deforms into SO(5) and SO(6) with energy density driving the deformation. Kaluza-Klein compactification is the established template for dimensions that are wound up, with the energy cost of winding appearing as mass.
+
+And one identity deserves particular attention, because it is the single most suggestive established fact in this entire document.
+
+The proper orthochronous Lorentz group $\mathrm{SO}^+(3,1)$ is isomorphic to $\mathrm{PSL}(2,\mathbb{C})$, the group of orientation-preserving Moebius transformations of the sphere; $\mathrm{SL}(2,\mathbb{C})$ is its double cover. Boosts and rotations act on null directions through this correspondence. It is not a claim that every Moebius transformation is a pure boost, or that parity and time reversal belong to this connected group.
+
+A single cyclic Moebius action is elementary. A loxodromic map approaches its attracting fixed point for generic forward iterates and has two group limit points; a parabolic map has one. Elliptic orbits need not converge. Non-elementary discrete Kleinian groups require at least two generators with suitably distinct fixed-point structure; discreteness and further properties of the group matter. Even several distinct moves do not guarantee the desired fractal edge. Selected groups have fractal limit sets, which need not be boundary curves. An actual tide law must select the moves, their order and a map from null-direction geometry to a spatial path, its energy and its width.
+
+This correspondence supplies a possible mathematical toolbox, not an established crease. The physical construction remains open.
+
+The proposed scale distinction is physical, not a change of the Lorentz-Moebius mathematics. The tide is pictured as supplying moves and confinement as keeping them from escaping. Bounded repetition alone does not produce the required non-elementary group or a fractal. A tide law must select suitable distinct generators and their sequence. Whether the resulting structure belongs inside the nucleon, between nucleons or across both remains open.
+
+A suitable dynamical system may approach an invariant set under specified rules; a general Kleinian group action is not automatically an attracting spiral. An invariant set can motivate a picture of return, but topological closure needs a protected count that the limit set alone does not supply. No instability of heavy nuclei has been derived from failure of such a set.
+
+The confined color flux tube is a physical target for the crease proposal. Its identification with a path selected by the tide, and the gluon with the tide made visible, remains the framework's interpretation. The group correspondence supplies no energy, width or spatial channel without a further physical map. The photon has no corresponding color flux tube, but that difference alone does not establish folded or unfolded geometry.
+
+**On the dark sector and cosmology.**
+
+Whether substrate relaxation is ongoing or complete is unknown. A settled tension corresponds to a cosmological constant only with constant density and the appropriate pressure relation; unspecified static tension alone is insufficient. An ongoing relaxation law must map the state to density and pressure before the direction or size of observable evolution can be predicted.
+
+*The acceleration scale below which galaxy rotation stops matching Newtonian expectation* comes from Milgrom's 1983 work. Whether the cosmological scale that matches it should be written as $cH(z)$, as $c^2\sqrt{\Lambda}$ (c squared times the square root of the cosmological constant), or as a quantity derived from the substrate is exactly what the framework must specify. If it ties to $H(z)$ it predicts explicit evolution with redshift, which distinguishes it cleanly from fixed-constant modified-gravity models.
+
+*A shape-memory alloy* is a metal such as nickel-titanium that recovers a set shape after deformation, usually on heating. *An elastic solid whose tension is comparable to its energy density* is the solid or elastic dark energy model of Bucher and Spergel (1999), developed further by Battye and collaborators, in which tension is negative pressure and rigidity stabilizes the medium. *"Recent large-scale surveys have hinted"* refers chiefly to the DESI baryon acoustic oscillation results of 2024 and 2025.
+
+*A sterile neutrino in the range of a few thousand electron-volts* is keV sterile neutrino dark matter, produced in the early universe through the Dodelson-Widrow mechanism or variants. *A floor on its mass* comes from Lyman-alpha forest and small-scale structure constraints on warm dark matter. *A ceiling on how strongly it can mix* comes from X-ray searches for the radiative decay line. *A claimed X-ray line reported around 2014* is the 3.5 keV line reported by Bulbul and collaborators and by Boyarsky and collaborators, disputed in later observations.
+
+*The naive calculation of the vacuum's energy* is the cosmological constant problem. *The measured ratio of dark matter to ordinary matter* is approximately 5.4, from Planck. *The pattern of hot and cold spots* is the acoustic peak structure of the cosmic microwave background. *Something that clumps on its own and barely resists compression* is a component with near-zero effective sound speed, operationally a collisionless geometric condensate. *Collisions between galaxy clusters* refers to the Bullet Cluster and its relatives. *A cluster called Abell 520* is the merging system whose disputed dark core is discussed by Mahdavi, Jee, and Clowe and collaborators.
+
+**On the formal program.**
+
+**Weak chirality on a discrete substrate.** MERA and PEPS are candidate representations, not a derived substrate theory. For four-dimensional weak chirality, lattice fermion doubling is the closer diagnostic: Nielsen-Ninomiya-type results depend on specified locality, regularity, spectrum and chiral-symmetry assumptions. Domain-wall and overlap/Ginsparg-Wilson constructions alter the realization or assumptions. In a common normalization the latter use $\gamma_5 D + D\gamma_5 = a\, D\gamma_5 D$. Known vector-like or anomaly-free Abelian constructions do not alone construct the full interacting weak sector. Separately, Dubail-Read constrains particular chiral tensor states and short-range quadratic parent Hamiltonians under its own hypotheses; it is not a universal prohibition on a four-dimensional chiral gauge theory. Holographic area/entropy and entanglement-first-law results also have specific backgrounds and state assumptions. No universal Newton/stiffness relation follows for an unspecified Fractus state.
+
+## Appendix B: The framework's vocabulary, beside the established terms
+
+This framework deliberately gives one recurring name to phenomena that established science treats under separate, rigorous headings. The established terms are better for calculation and should always be used when speaking to physicists or chemists. The unifying word is what lets a reader see the single pattern across scales. Both are given here side by side so the translation is explicit and nothing is mistaken for a claim that the standard names are wrong.
+
+The intrinsic, never-static dynamics of the substrate, for which established science has no counterpart, is here the **tide**: always winding in or out, driven by nothing outside it. The iterated maps of the fold section are a way of picturing it.
+
+A configuration carrying a topological invariant, established as topological protection, is here a **closure**: a pattern whose identity cannot be smoothly undone. It is not used for an energy minimum or for a pattern merely landing on itself. The established nuclear and atomic term shell closure is kept in its own sense.
+
+The requirement that a pattern come back on itself, established as a quantization condition, is here the **return condition**.
+
+A state that is stable against small disturbances but can be escaped, established as a metastable equilibrium, keeps its established name here. It is how this framework describes **persistence**: what keeps a configuration at a finite size and depth for a while.
+
+The field that is proposed to carry a closure's count, related to the established order-parameter field, is here the substrate's **orientation**: a direction at every point telling which way the tide winds there. It is arrow-like at least where charge lives. Whether it is arrow-like or axis-like elsewhere, and what the crease keeps of it, is open.
+
+The energy minimum of a bond, established as a potential energy well with a depth called the bond dissociation energy, is here a metastable equilibrium of a **completed shared pattern**.
+
+The combining of atomic orbitals into bonding and antibonding states, established as molecular orbital theory, is here the **merging of two harmonics into a shared completion**.
+
+The exact loss of single-atom symmetry when a second center appears, established as symmetry breaking, together with its recovery by embedding in a larger group, is here the proposed **windfold**.
+
+Connections between electronic states as nuclei move are represented by **correlation diagrams**. The framework reads these as a possible graceful deformation between completions. The surviving integral in fixed-nuclei H2+ is a precise special case; Woodward-Hoffmann rules constrain particular concerted reactions rather than every bonding process.
+
+The four-dimensional hidden symmetry of hydrogen, established as Fock's SO(4) symmetry, is here the **clean four-dimensional harmonic**.
+
+The higher group structure fitting nuclear spectra, established as the interacting boson model with U(6), SO(6) and SO(5), is here the **harmonic at greater depth**.
+
+The tight color string between quarks, established as the flux tube of confinement and seen earlier in the universal slope of the Regge trajectories, is here the **conduit**, and in the language of the main text, the **crease**. Here the crease is only the path a windfold traces and the record it leaves. The energy the string holds, established as string tension times length, is the **cinch**. Whether the crease is also the core of the orientation field is open.
+
+The stable pattern a relativistic iteration converges onto, established as the limit set of a Kleinian group, is here the **anchored shape**. It is a picture of return. The word **knot** names any configuration that reaches closure, defined by role rather than by material, so a knot may be made of crease.
+
+A bound system such as an atom, established as a bound state, is here the **harness**: what the electron is strapped into. Absorption and emission belong to the harness, not to the rider.
+
+The passage of the substrate from one dimensional order into a higher one, for which established science supplies ingredients under dimensional flow, group deformation, and the limit sets of iterated conformal maps, but no single name, is here the **windfold**: the tide winding in across a dimensional order. It is not a step but a convergence. The geometry approaches the higher order across many windings rather than arriving at it in one move. Confinement does not drive it. It only keeps the windings from escaping, so they build. The windfold's record in the lower order is the crease, and what it converges onto is a knot. This entry differs from the others above in an important way: the rest of this table translates an established term into the framework's language, while here there is no established term to translate, because established science does not assert that these ingredients compose into one mechanism. That composition is the conjecture, and the windfold is its name.
+
+A note on the name, recorded because it marks a deliberate choice rather than an accident. The faithful name for this mechanism would be **advoluplication**, built from the Latin *advolvere*, to roll toward, and *plicare*, to fold. That compound says precisely what the mechanism does, winding toward and folding, with nothing left implied. It is set aside here in favour of the plain term on the same principle that governs the rest of this document: a word a reader must decode before it means anything is a tax charged on every appearance, and accessibility is not a concession but the point. The etymology is recorded so the reasoning behind the mechanism is visible even where the shorter word is used.
+
+Discrete levels at which one protected count can close, established in part as the three generations of matter, are here **depths**. Depth is discrete and selected by a rule not yet known. **Size** is continuous and set within a depth by persistence. The two are kept apart.
+
+The author's proposed steady hidden turning is here the **overturn**, performed within a single depth and distinct from the **windfold**, the passage between depths. Its physical realization is open. The phase rhythm associated with a definite mass is established; identifying that phase with a hidden turning is not. Both chiral components can have steady weights in a free state. A force selecting one component is proposed as a possible way to reveal the turning, without changing the measured chiral selection rules. The Higgs coupling is read as grip in this vocabulary, but the framework must recover its quantitative physics.
+
+The Higgs boson, established as the quantum of the Higgs field, is here the **resonance of the resting state**: the unfolded seam ringing at its own frequency when struck, before settling into the nearest available configurations.
+
+**Proper time** is the interval read by a clock carried along a path. Fractus proposes to read it through accumulated mass-related phase, calibrated by the object's mass. Calling that phase an overturn is an interpretation still to be connected to a physical turning. The phase belongs to massive scalar as well as spinor states, composite as well as elementary. Depth remains a separate label, and a regional clock remains an open construction.
+
+The connective structure between anchored patterns, represented in standard calculations by propagators and, between nucleons, by meson exchange, is here the **weave**: the fabric the creases make. **Crease** names an individual path, and **conduit** remains reserved for creases. Between nucleons the weave is read as a trace of each nucleon's confined structure; that reading is conjecture. Entanglement is kept distinct from transmitted influence. Interactions can create correlations, but the weave is not a channel for communicating Bell correlations or sending a signal through entanglement.
+
+The properties a fundamental particle carries, established as the quantum numbers mass, charge, color, and spin, are here **turnings**, rotations on separate axes of the topology at different dimensional orders, and the count of them a knot carries is its number of **anchors**. The overturn is the fundamental turning because it alone loads the substrate.
+
+Neutrino flavor, established as the label assigned by the charged-current interaction, is here a **relational label**: how the neutrino couples, not something it carries on its own. What travels unchanged is the set of mass modes.
+
+The chiral symmetry breaking vacua that couple a particle's two chiral faces, established as the Higgs vacuum expectation value and the chiral quark condensate, are here the two **grips**. The loading of the substrate that a grip produces, established only as the equivalence of inertial and gravitational mass, is here **drag**, and drag summed over a region is curvature.
+
+A neutrino that is its own antiparticle is a **Majorana fermion**. The framework reads this possibility as the **unbranched knot**, where the two halves of the first lean rejoin. That geometric interpretation remains conjectural even if neutrinoless double beta decay is detected. No minimum decay rate has yet been derived here.
+
+The large measured lepton mixing compared with quark mixing motivates the term **native ringing**. Its proposed explanation is **anchor matching**: partner families with similar kinds of anchoring might line up more closely. Mixing belongs to a pair of sector bases, not an isolated knot. Neither the relative alignment nor the mass ladders have been derived from anchoring.
+
+The essential honesty of this table is that each established term is real, rigorous, and independently accepted, and each describes its own domain without reference to the others. What this framework adds, and what has no established name because established science does not assert it, is that these are one recursive structure seen at different depths. The separate names are inherited and correct. The single word tying them together is the conjecture, and only that tie belongs to this framework.
+
+## Appendix C: What would prove this wrong
+
+To move from a thought experiment to a physical theory, this framework must survive these failure conditions. They are stated as conditions that would kill it, not as conditions it expects to pass.
+
+**Can it be built at all?**
+
+1. **Consistency.** Negative-energy excitations, instabilities, or an ill-posed initial-value problem would rule out the mathematical realization of the model.
+2. **The dark sector.** Failure to derive a mode with near-zero sound speed, one that clumps cold and independently, rules out this realization of the geometric dark matter proposal.
+3. **Generations.** Failure to derive exactly three low-energy families with the correct properties, while avoiding extra light families, rules out the chosen structure.
+4. **Light speed.** Failure to prove that Lorentz invariance emerges, resulting in unavoidable frequency-dependent dispersion of light or gravitational waves beyond observed limits, rules out the surface propagation model.
+5. **Chirality.** Failure to realize a chiral sector in the substrate's formal construction rules out the model, because the weak force's maximal parity violation is established and must be reproduced.
+
+**Does the universe agree?**
+
+6. **Precision gravity.** Unavoidable violations of equivalence-principle tests, solar-system measurements, binary-pulsar timing, or lensing constraints rule out the proposed large-scale limit.
+7. **The acceleration scale.** A specified shared-parameter law is ruled out if its independently derived coefficient or redshift dependence disagrees with observation over its stated domain and uncertainties. The cosmic quantity and coefficient have not yet been selected or derived here, so the scale coincidence alone is not a numerical prediction.
+8. **Cluster collisions.** Failure of the condensate to reproduce observed lensing offsets in cluster mergers rules out this dark sector realization.
+9. **Overturn and the Higgs.** If the framework's reading of a hidden overturn beneath matter mass predicts any departure from the measured mass-scaled Higgs decay branching ratios, or from the measured W to Z mass ratio, it is ruled out. The reading must reproduce the Higgs mechanism's numbers exactly.
+10. **Anchor matching.** A specified anchoring law is ruled out if its independently derived relation between the anchoring of partner families and their relative mixing disagrees with the measured quark and neutrino mixing matrices, using the same observable and allowed uncertainties. No such quantitative relation has yet been derived here.
+11. **The unbranched knot.** A specified realization is excluded if its independently derived decay rates, after allowed cancellations and nuclear uncertainties, are excluded over its entire stated parameter domain. This requires a positive minimum rate within that realization. No such minimum has yet been derived here, so present null results cannot by themselves exclude the general geometric reading.
+12. **Signaling.** Any version of the fold that reads entanglement as an influence carried through the channels, rather than as a constraint on joint outcomes belonging to the shape, will eventually predict that a message can be sent faster than light. That is excluded by theorem. A reading that produces it is ruled out, however the channel is described.
+13. **The phase-clock interpretation.** A specified physical clock model is ruled out if its calibrated predictions disagree with measured proper-time intervals or gravitational redshift, or imply composition dependence beyond allowed uncertainties. The ordinary mass-phase correspondence on a supplied metric is recovery, not a derived substrate clock. No independent substrate clock law or metric has yet been constructed here.
+14. **One grip at two depths.** The reading of the Higgs grip and the condensate grip as one mechanism predicts a composite Higgs. If the Higgs continues to behave exactly as an elementary particle at the precision expected from the high-luminosity collider program, and no new strong sector appears at the energies that unification would require, the one-grip reading is ruled out and the two mechanisms must be kept apart.
+
+## Appendix D: Where this could be pushed
+
+The framework is designed to recover standard large-scale results. Its possible distinguishing claims still need construction: a shared-parameter acceleration law, a selector for three families, a physical turning beneath the mass-related phase, protected identity with separate persistence, and a formal action. The steps below record those tasks rather than quantitative predictions already obtained.
+
+1. **Define the action.** Specify the substrate's degrees of freedom, symmetries, state space, energy functional, and coarse-graining map, adopting the tensor-network dictionary explicitly.
+2. **Confront chirality.** Recover the weak interaction's measured chiral couplings. For any proposed discrete regulator, state its locality, spectrum and symmetry assumptions and compare the relevant lattice doubling theorems and domain-wall/overlap alternatives. Apply the separate chiral tensor-state obstruction only if the representation meets its hypotheses. Appendix A, 'Weak chirality on a discrete substrate,' gives the distinction. No working Fractus weak-sector construction has yet been supplied.
+3. **Construct the condensate.** Build a toy model to confirm whether a near-zero-sound-speed clumping mode can coexist with a massless sector. Test whether a keV-scale unanchored knot, the sterile neutrino of the dark sector section, can play this role within the allowed window.
+4. **Derive the coefficient.** Derive the exact number relating the galactic acceleration scale to the cosmological one.
+5. **Test against the oldest light.** Derive the perturbation equations for the condensate and test whether they reproduce the observed acoustic peaks quantitatively.
+6. **Recover the atomic symmetry.** Reconstruct Fock's projection until it can be pictured rather than merely cited. Establish, for this framework's own use, the distinction between an invariance group acting within one level and a dynamical group whose operators step between levels, since a generative grammar requires the latter. Then locate the diagonal ladder operator where the n plus l ordering originates, and ask whether the substrate admits its own counterpart. The decisive question is whether that ladder structure is recursively generative or merely hierarchical, because only the first earns the fractal language.
+7. **Test the windfold conjecture.** Determine whether nuclear shell structure is the atom's SO(4) symmetry carried by windfold into a higher-dimensional, symmetry-broken form. The concrete point of entry is the interacting boson model, whose accepted fits already use U(6), SO(6) and SO(5). The task is to test whether those can be derived as a windfold of SO(4) into a higher order, with the roughly million-fold energy jump read as the cost of the windfold.
+8. **Locate the windfold across the three levels.** Determine where the windfold sits among the atom, the nucleus, and the nucleon. The cinch that gives a nucleon most of its mass lives inside the nucleon. The shell structure the windfold conjecture describes lives one level up, in the nucleus. Ask whether the windfold belongs to the nucleus, to the nucleon, or across both. Ask how the confined structure inside each nucleon shapes the binding between nucleons, and what observation would distinguish these readings. Until a bridge is found, keep the shell-windfold conjecture and the cinch-fraction idea separate.
+9. **Correlate the two ladders.** Find the transformation carrying the clean electron energy ladder into the irregular nuclear one. Consistent with the windfold conjecture this should not be sought as two projections of a single four-dimensional set, since the nuclear side is posited to occupy a higher dimensional order. It is a cross-dimensional relationship, and the transformation is the windfold itself. Reading the selection rules on both sides as return conditions constrains the map from each end.
+
+   Three open lines of inquiry follow. None is yet an independently derived windfold test.
+
+   **9a.** Find a way to test whether the nuclear ladder carries the signature of windfold. Simple fractal dimension will not do it, since even the ideal hydrogen level set has fractional box dimension. A finite measured table has dimension zero. The test has to predict something controlled ordinary dynamics would not already produce; define the spectral object and limiting procedure before choosing a statistic.
+
+   **9b.** Some families of Kleinian groups have sharp changes of limit-set behavior as parameters vary. No such family or confinement parameter has been selected here. If one is independently derived, ask whether its spectral consequences distinguish nuclear shape transitions from their established nuclear-structure explanations.
+
+   **9c.** A vocabulary pin, to avoid reinventing existing language. The conformal group central to the holographic correspondence and to the conformal bootstrap is the same Moebius family, and it already appears in this document's sources. The existing language for dimension changing under conformal maps, and for conformal symmetry breaking, should be learned from that literature before any independent formalism is attempted.
+
+10. **Relate the leptons to the core structures.** Develop rigorously how the lepton generations relate to nuclear and quark structure, treating the tau's hadronic decay, the only lepton decay crossing into strongly interacting matter, as the established anchor. Ask whether the three-generation limit follows from a depth cutoff.
+11. **Explore the quark ladder as a parallel recursion.** Examine the heavier quarks as a single quark harmonic at candidate deeper levels. Explain the asymmetry in the last generation, the bottom just barely binding while the top decays before any bound state can form, as the fine structure of persistence failing at maximum depth.
+12. **Understand the W at the boundary.** Learn the established weak-interaction physics thoroughly before laying any recursive reading over it. The framework's interest is precise: where one self-similar pattern crosses into another level of the structure, the W is the connector, and boundaries of that kind are conjectured to be where the deep structure shows itself. The tau's dual decay is the anchoring example. The CKM matrix is the W's map across generations, so this task and the mixing task below share a thread.
+13. **Overturn and cinch: one grip or two.** Decide whether a lone knot's overturn and a hadron's cinch are one mechanism at two depths, as the overturn section leans, or two mechanisms that must be kept apart. Keep the overturn wording scoped to matter knots until this is settled. If one, show how the electron's mass can be read as a very shallow cinch hidden below the scale at which the electron looks point-like, how the Yukawa hierarchy emerges from it, and which cycle a cinch carries: circulation, breathing, or something else. If two, keep the mechanisms apart throughout. The glueball is the hinge case. Its identification alone would not show that a cycle is absent, so the task includes naming observables that would distinguish one grip from two. An explicit change of description, or a limiting relation, is needed before claiming one grip. Failure condition 14 gives one test: a composite Higgs.
+14. **Extrapolate the overturn to the other turnings.** This is the next exploration. Treat mass, charge, color, and spin as rotations on separate axes of the topology at different dimensional orders, and ask the following. Can the four be ordered by dimensional order? Do charge quantization and the three values of color fall out as return conditions on continuous rotations? Are the overturn and the spinor double cover one object? How are the distinct charged- and neutral-current chiral couplings recovered? Can one loading law recover the equivalence principle for elementary mass, binding and motion without assuming that every massive state has the same physical turning? The firm stance to carry into this work is that these are properties the particle experiences, not properties it has. The four-dimensional split described in the other-turnings section is the first place to dig, along with the questions it raises: whether the strong sector's refusal to lean follows from coupling to both halves equally, and whether the four-dimensional harmonic of the shell section is the same split showing up in the atom.
+15. **The W and Z.** Decide whether the masses of the W and Z come from a windfold of their own or from something closer to the standard account of absorbing the vacuum's resting value. The carriers do not come in generations, so they live on a different axis from the matter ladder, and the framework must say what that axis is.
+16. **Mixing as alignment.** Explore anchor matching rather than anchor counting: can a law for the anchoring of the up/down families and charged-lepton/neutrino families determine their relative bases? Link this to the mass-ratio and profile-selection questions in task 29. Define a comparable CKM/PMNS observable and retain charged-lepton flavor-changing decay limits as separate constraints. The weak mixing angle is a separate gauge-sector quantity; any proposed common origin must be derived. Recover the mixing angles and CP phases without fitting the desired alignment into an undefined anchor rule. This remains an open deep-dive thread, not a selected quantitative model.
+17. **The unbranched knot and leptogenesis.** Follow the neutrinoless double beta decay searches and the measurements of CP violation in neutrino mixing. If the neutrino is Majorana, develop the reading that charge is what branches the shape and that the neutrino is where the branches rejoin. Then ask whether leptogenesis, with the heavy seam-sitting partner as the deepest configuration, can be stated in the framework's language as the mechanism that pays the first lean's debt.
+18. **The first number.** Attempt the Koide relation among the charged lepton masses from depth. It is the one unexplained numerical relation the lepton sector offers for free. Treat it as a benchmark stated with pole masses, not as a selector assumed true. Record every failed attempt.
+19. **Probe the tangle of conduits.** Study heavy quark-antiquark spectroscopy as the cleanest established window onto the confining string, and the four-quark, five-quark, and pure-field states as the open frontier where the binding field may itself be taking on structure. Ask whether the compact-versus-molecular debate is the bonding section's one-center-versus-two-center completion question at one depth down.
+20. **Keep observational comparisons dated.** Higgs-to-muon decays have evidence-level measurements; measurement is not the same as a five-sigma observation or a direct image of an overturn. Higgs data constrain the trilinear self-coupling, but a nonzero value is not established in the checked fits, and the constraints depend on other coupling assumptions. The muon magnetic-moment comparison depends on the chosen theory prediction and hadronic inputs. Preserve those dependencies, the cancellation and nuclear assumptions in double-beta searches, and composition uncertainty for glueball and exotic candidates. Refresh primary results before a later publication. None tests a Fractus number that has not been independently derived.
+
+**A pinned question on the naming of the mechanism.** Fold remains the general image. Depth labels the discrete level. Windfold names the passage between depths, the tide winding in across a dimensional order. Overturn names the proposed turning within one depth. Whether **advolution**, from *advolvere*, should replace windfold remains open. It carries the winding-toward sense more directly, at the cost of the plain word's immediate meaning.
+
+**A pinned question on what the oscillation really is.** The triad-and-ringing image raises a question worth holding: is neutrino oscillation literally a multidimensional ringing of one object through its own modes, rather than merely like one? In this framework, where a particle is a standing pattern in a folded geometry, the mass states would be the true vibrational modes of that pattern and the flavors would be particular combinations of them, which would make the musical analogy not a teaching aid but a close description. The overturn section sharpens this: the mass states would have distinct phase evolutions; a physical overturn beneath them remains conjectural. Two pictures must be kept apart. In the first, three fixed mass modes are superposed throughout, and only their phases change. In the second, the neutrino jumps from depth to depth in sequence. The established physics is the first. A successful model would have to reproduce both the phase evolution and the coupling strengths between each mass mode and each charged lepton, and ask whether the slight mass differences that set the ringing rate fall out of depth. Flagged as a pin, not a claim.
+
+21. **Entanglement, if and when it earns its place.** The entanglement-and-geometry program is corroborating company for this framework's suspicion that geometry is woven from something more basic, and it is the natural home for the Stiffness idea, read as local entanglement density. It is recorded here as kinship, not as support, and deliberately not built into the main argument. Its status, in three tiers, so that it is never overstated.
+
+   Shown as mathematics, in holographic model universes with a negative cosmological constant: the entanglement across a boundary region equals the area of a minimal surface hanging into the bulk. Dialing down the entanglement between two halves of the boundary stretches and then pinches the bulk space connecting them. Small changes in entanglement matching small changes in energy reproduce Einstein's equations to linear order. A version of that last result exists without holography, treating gravity as thermodynamics on local horizons.
+
+   Conjectured: that any of it applies to our universe, which has a positive cosmological constant and no working holographic dictionary. The proposal that entangled particles are joined by tiny wormholes is a slogan with supporting calculations, not a theorem. The tensor network picture, where depth of the network is the extra dimension, is a demonstration that it can work, not a proof that nature does it.
+
+   Not shown at all: that entanglement explains the distance between two ordinary electrons. The area law is about fields across a surface, not about two knots.
+
+   The honest line: established physics has shown that connectivity of state can be geometry. It has not shown that it is geometry here. For this framework the relevant consequence is the guard drawn in the knots section. Entanglement belongs to the shape, never to the channels.
+
+22. **What distance is.** If a calibrated mass-related phase reads proper time, distance still needs its own account. Ask what surface a photon reads, whether it is what the entanglement program calls connectivity of state, and whether the interval can be derived rather than supplied. Comparing phase counts assumes a way to compare paths; this assumption is a debt, not a solution.
+
+23. **The slicing problem.** The mass-related phase gives a single-state correspondence with proper time after calibration. Gravity needs a regional description, and relativity forbids a preferred global slice along which to sum counts. Make the author's instinct about intrinsic relativistic structure into a construction: obtain a covariant regional quantity from local clocks, or revise the interpretation. How far a clock reading can be carried deep inside a black hole remains part of this regional-clock question.
+
+24. **The emission pass.** The recoil subsection ran absorption in detail and emission by reversal. Run emission in the same detail, in particular the question the author raised: that the photon is emitted by the harness and not by the electron, and whether the harness's reorganization has a structure of its own in the framework's language that the absorption account does not reveal.
+
+25. **The bottom of the well.** Test the proposed loss of organized turning in strong curvature before assuming any cascade or ordering of species. A Compton length is not automatically a knot size, and failure of a one-particle description does not establish a stopped clock or lost rest mass. If a consistent model yields an unwinding threshold, derive its energy accounting and any dependence on what fell in. Compare with the gravastar, bounce and fuzzball pictures while keeping their different assumptions distinct. No interior-clock law is yet supplied.
+
+26. **Five dark matter strands, kept separate.** The author wants these held apart until there is reason to join them.
+    1. **The unanchored knot.** The keV sterile neutrino of the dark sector section. Cosmic.
+    2. **The persistent response.** Early-universe energy wound into the substrate, born as a reaction and living on as a source. Cosmic. Speculation, recorded in the dark sector section.
+    3. **The core condensate.** Dark matter changing phase at extreme density to stop a collapse and keep the density finite. About black hole interiors. No published version of a dark matter core of this kind has been found. The closest mainstream models, gravastars, have vacuum-energy cores that behave like dark energy, not dark matter. It must remain cold and collisionless on large scales, so any phase change would happen at extreme density only.
+    4. **The imprint.** Knots that lose their organized turning deep inside leave their energy imprinted on the substrate, permanent, no longer turning, still carrying weight. The author's image is a tattoo on the substrate. The crease is already the record of a fold, and an imprint is the same kind of record left by a knot that unwound. It may connect to strand 2 as an imprint made in the early universe instead.
+    5. **The edge.** An alternative to 3 and 4: the bottom of the well is not stored energy at all but the substrate's own curled-back boundary, pure shape with no before or after.
+
+    Strands 1 and 2 describe dark matter in space. Strands 3, 4, and 5 describe the bottom of a black hole. Whether they meet is the open question. The suggestion that dark energy and dark matter meet at the core, with the resting tension peaking there, belongs here as a question. Any imprint version must clump cold and early and move with galaxies when clusters collide.
+
+27. **Abell 520 and the multi-merger question.** Could the substrate respond differently in a collision of several groups at once? Abell 520 shows a disputed dark clump left behind with the gas. Most collisions show the opposite. The framework neither builds on this case nor dismisses it. A cleaner lensing map of Abell 520, or another multi-group merger showing the same pattern, would settle whether it is an artifact or a real exception.
+
+28. **Merging black holes and the cascading condensate.** When galaxies merge, their central black holes pair and combine. Each merger would press two condensate cores together, and the condensate might cascade into deeper layers that reshape the surrounding substrate. The mechanism is unknown. The established context: pulsar timing data show evidence for a background of slow gravitational waves consistent with supermassive black hole pairs, and pairs tend to stall about a parsec apart, the final parsec problem. A 2024 calculation found that self-interacting dark matter can carry pairs through the stall where collisionless dark matter cannot. Others say no exotic physics is required, and future pulsar timing data could decide. The tension for this framework is that colliding clusters cap how strongly dark matter can scatter off itself, so a condensate that grips itself only in extreme cores is the version that might fit.
+
+29. **The proportion question.** The gap the opening's reading of discreteness leaves is not why there are jumps. In a self-similar shape the real question is why each copy is the size it is compared with the last. Several unexplained proportions sit side by side: the Koide two-thirds among the charged lepton masses, the blend recipes of the three neutrino flavors, the much smaller quark mixing, and the fermion mass ratios and phase rates. Standard physics measures each and has no reason for any of them. They are all mixes and ratios of the same kind, which suggests something intrinsic underneath. The caution: patterns can line up by chance, and the real test is predicting one before it is measured. The specific open thread is anchor matching: what jointly selects the mass ladders and the relative alignment of partner families? Coordinate it with task 16; neither a simple anchor count nor a fitted mass pattern supplies that law.
+
+30. **What exactly is protected.** A charge label is not the whole configuration. Specify the field space and its boundary conditions before naming any invariant. Then ask which invariant that space allows: a winding number, a degree, a Hopf charge, or something else. Carry the pinned choice with it: whether the orientation is arrow-like only where charge lives or everywhere, and what the crease keeps of its direction. The current statement is only that signed charge requires an arrow-like orientation at some depth.
+
+31. **What persistence requires.** Compare the proposed balance roles, two inward and two outward, against what can be exactly conserved and what only approximately. When a configuration is squeezed, what is held fixed: spatial winding, a conserved flow, or an approximately conserved oscillation? Each gives a different response and a different way to fail. State whether every configuration in the framework is metastable or only the ones considered so far, since some model solutions are stable outright. And state, as the author's choice, whether the resting state of the substrate is a static shape or a preferred stationary organization of the restless tide.
+
+32. **What selects depth.** Gather prior art on discrete mode selection at a fixed protected identity, kept separate from the selection of geometric size. Keep the two candidate selectors, a return condition and the self-similar proportions of task 29, as competing or complementary. Any selector must yield three light families, or place further ones out of reach, as the Z boson's measured decays require.
+
+33. **The two descriptions of the crease.** The crease is described as the path a windfold traces and the record it leaves in the lower order. It is also proposed as the visible core of the orientation field that carries a protected count. Specify how one object can be both, or decide that they are two things that coincide only in some cases. Both descriptions are kept until then. The weave between nucleons adds a possible discriminator: is it the crease extending outward, a record left by one, or something else? This example supplements rather than replaces the path/record versus orientation-field-core question.
+
+34. **Circulation, breathing, and shared dynamics.** Follow the vorton and oscillon literature in Appendix E. Ask whether one tide dynamics could produce protected spatial organization and long-lived cycling as distinct aspects, and whether the known approximate correspondence between breathing and rotating configurations has a counterpart in three dimensions. Agreement with an established equation would count as recovery. A claim to explain its parameters would need a further result.
+
+## Appendix E: Sources and foundations
+
+These are sources and routes into the subject, not a claim that every named original has been read or every reference certified. Some entries were checked in originals or selected technical passages; others remain bibliographic leads or depend on later accounts. Mathematical precedent, an observed result and the Fractus interpretation must be assessed separately. Observational descriptions are dated to the material checked in November 2026; later results may change them.
+
+The intuitions in this document are the conjecture. The works below are real and established, and they are where each piece of the picture touches solid physics, including the constraints it must respect.
+
+On spacetime being effectively self-similar and scale-dependent, the best entry point is Carlip's review of dimensional reduction in quantum gravity (Classical and Quantum Gravity 34, 193001, 2017), which lays out the cross-program finding that the effective dimension runs from four at large scales toward about two at the smallest. The same reduction appears independently in causal dynamical triangulations (Ambjorn, Jurkiewicz and Loll, Physical Review Letters 95, 171301, 2005) and in asymptotically safe gravity (Lauscher and Reuter, JHEP 0510:050, 2005). Programs taking fractality as a starting axiom include Nottale's scale relativity and Calcagni's multifractional spacetimes, the latter being where the mathematics of fields on a scale-dependent geometry partly already exists. Wilson's renormalization group provides the underlying mathematics of flow across scales. The emergence of geometry from entanglement in the work of Van Raamsdonk, Swingle, and Ryu and Takayanagi, including the explicitly recursive tensor networks of that program, is the rigorous mathematical cousin of this framework.
+
+On gravity as shape rather than as a fundamental exchanged particle, the key works are Sakharov's induced gravity, Jacobson's derivation of Einstein's equations as a thermodynamic equation of state (Physical Review Letters 75, 1260, 1995), Verlinde's emergent gravity, and the analog gravity program (Barcelo, Liberati and Visser, Living Reviews in Relativity 14, 3, 2011). That general relativity is the correct large-scale limit is the effective field theory statement of Donoghue.
+
+On particles as features of geometry, see Wheeler's geons, the topological solitons of Skyrme and of 't Hooft and Polyakov, and the braided states of Bilson-Thompson, Markopoulou and Smolin (Classical and Quantum Gravity 24, 3975, 2007), the closest existing proposal to particles as knots in quantized geometry. On spin, the standard results are the spin-statistics theorem, the SU(2) double cover geometry, and Dirac's belt trick. The interpretation of spin strictly as topological anchoring is the conjecture here. The reading of the spin ladder as a stability mechanism does not survive the Delta and Omega-minus lifetimes.
+
+On protected identity and persistence, the oldest ancestor is Kelvin's theory of vortex atoms (Proceedings of the Royal Society of Edinburgh 6, 94, 1867), abandoned with the ether. The topological reading of fluid helicity as the linking of vortex lines is Moffatt (Journal of Fluid Mechanics 35, 117, 1969). The theorem that a protected count alone does not fix size in simple scalar models is Derrick (Journal of Mathematical Physics 5, 1252, 1964). Knotted solitons carrying a Hopf charge, proposed as a model of glueballs, are Faddeev and Niemi (Nature 387, 58, 1997). Localized lumps stabilized by a conserved charge, with a rotating internal phase, are Coleman's Q-balls (Nuclear Physics B 262, 263, 1985). The closed flux-loop picture of glueballs is the flux-tube model of Isgur and Paton (Physical Review D 31, 2910, 1985). The count of three light neutrino types from the Z boson's invisible width is in the combined LEP and SLD electroweak report (Physics Reports 427, 257, 2006).
+
+On circulation and breathing, the precedents are these. Current- and charge-carrying closed loops, called vortons, were constructed by Battye and Sutcliffe (Nuclear Physics B 814, 180, 2009, arXiv 0812.3239). Their examples survived axial perturbations and broke under non-axial ones. Battye, Cotterill and Pearson found numerical evidence for stable gauged vortons in selected parameter regions (JHEP 04, 005, 2022, arXiv 2112.08066). Their model keeps string winding, condensate winding along the loop, and conserved charge distinct. Numerical stability over a tested evolution is not a proof of infinite lifetime. Long-lived breathing configurations and their approximate invariant are treated by Kawasaki, Takahashi and Takeda (Physical Review D 92, 105024, 2015, arXiv 1508.01028). Ibe, Kawasaki, Nakano and Sonomoto found instability bands for some exact solutions (Physical Review D 100, 125021, 2019, arXiv 1908.11103). The derivation of breathing oscillons from effective rotating Q-balls, in one space dimension at leading nonlinear order, is Blaschke, Romanczukiewicz, Slawinska and Wereszczynski (Physical Review Letters 134, 081601, 2025, arXiv 2410.24109), with a companion paper (Physical Review D 111, 036034, 2025, arXiv 2502.09136). An extension to some generalized models is da Hora and Simas (Chaos, Solitons and Fractals 213, 119366, 2026, arXiv 2603.15505).
+
+The comparison below separates what each model demonstrates from the correspondence this framework proposes. The correspondences are proposals for comparison, not mechanisms the framework has adopted.
+
+| Model | What it demonstrates | Possible correspondence (proposal) | Limits |
+|---|---|---|---|
+| Hopf soliton | A knotted field configuration with a whole-number protected count, held at a finite size by an added stabilizing term | Closure carried by an orientation field. A glueball as a knot made of crease | A model. The stabilizing term is added by hand. No real particle is identified |
+| Q-ball | A localized lump held together by a conserved charge, with an internal phase turning at a fixed rate | A cycle that is a phase rotation. Persistence supported by a conserved flow | Not topological. Phase rotation is not chiral exchange |
+| Vorton | A closed loop held open against its own tension by a circulating current and charge | Circulation in a cinch, one lap around a closed crease | Early examples unstable. Later stability is numerical and in selected regimes. A loop need not carry Hopf protection |
+| Oscillon | Long-lived breathing without an exactly conserved charge, with an approximate invariant | Breathing in a cinch. Persistence as metastable equilibrium | Approximate. Some exact solutions are fragile. A long life is not by itself a clock |
+| Oscillon from Q-ball | A breathing configuration described as an effective rotating one | One tide dynamics showing different faces in different regimes | One space dimension, leading order, not a three-dimensional particle model |
+
+On the gauge origin of the force carriers, the foundational work is Yang and Mills (Physical Review 96, 191, 1954). On electroweak unification and the Higgs mechanism, see Glashow (Nuclear Physics 22, 579, 1961), Weinberg (Physical Review Letters 19, 1264, 1967), Salam (1968), and Higgs (Physical Review Letters 13, 508, 1964), with Englert and Brout (Physical Review Letters 13, 321, 1964). The Higgs boson discovery is ATLAS Collaboration (Physics Letters B 716, 1, 2012) and CMS Collaboration (Physics Letters B 716, 30, 2012). On zitterbewegung, the original is Schrodinger's 1930 analysis of the Dirac equation.
+
+On the confinement of gluons and the absence of free quarks, the governing result is asymptotic freedom (Gross and Wilczek, Physical Review Letters 30, 1343, 1973; Politzer, Physical Review Letters 30, 1346, 1973). On the reinterpretation of virtual particles as connective structure, their representation-dependent status is shown by the fact that the same physics can be computed with none of them in lattice gauge theory. On the decomposition of nucleon mass, see the lattice QCD computations of the hadron spectrum by Durr and collaborators (Science 322, 1224, 2008). The Yang-Mills mass gap is one of the Clay Mathematics Institute Millennium Prize Problems.
+
+On the two grips and the four-dimensional split, the quark condensate as a dynamical breaking of chiral symmetry is Nambu and Jona-Lasinio (Physical Review 122, 345, 1961), and its tie to near-zero modes is Banks and Casher (Nuclear Physics B 169, 103-125, 1980). The instanton is Belavin, Polyakov, Schwartz and Tyupkin (Physics Letters B 59, 85-87, 1975), its effect on the eta-prime and the vacuum is 't Hooft (Physical Review Letters 37, 8, 1976), the construction of every instanton is Atiyah, Hitchin, Drinfeld and Manin (Physics Letters A 65, 185-187, 1978), and Donaldson's application of gauge theory to smooth four-dimensional topology is in Journal of Differential Geometry 18, 279-315 (1983). The rule that spacetime and internal symmetry cannot merge is Coleman and Mandula (Physical Review 159, 1251, 1967). The superconducting precedent is Ginzburg and Landau (Zhurnal Eksperimental'noi i Teoreticheskoi Fiziki 20, 1064-1082, 1950) and Bardeen, Cooper and Schrieffer (Physical Review 108, 1175, 1957). The composite Higgs and top condensation programs include Kaplan and Georgi, SU(2) x U(1) breaking by vacuum misalignment (Physics Letters B 136, 183-186, 1984), Agashe, Contino and Pomarol (Nuclear Physics B 719, 165-187, 2005), and Bardeen, Hill and Lindner (Physical Review D 41, 1647, 1990). The chiral formulations of gravity are Plebanski (Journal of Mathematical Physics 18, 2511-2520, 1977), Ashtekar (Physical Review Letters 57, 2244, 1986), and Krasnov (Physical Review Letters 106, 251103, 2011). Relational time from one system clocking another is Page and Wootters (Physical Review D 27, 2885, 1983).
+
+On the hadron zoo and its organization, the Eightfold Way is Gell-Mann (Caltech Synchrotron Laboratory Report CTSL-20, 1961) and Ne'eman (Nuclear Physics 26, 222, 1961). Regge trajectories are Chew and Frautschi (Physical Review Letters 7, 394, 1961). The exotic hadrons are the X(3872) from Belle (Physical Review Letters 91, 262001, 2003), the pentaquarks from LHCb (Physical Review Letters 115, 072001, 2015, and 122, 222001, 2019), the doubly charmed tetraquark from LHCb (Nature Physics 18, 751, 2022), and the fully charmed candidate from LHCb (Science Bulletin 65, 1983, 2020). The glueball candidate is BESIII (Physical Review Letters 132, 181901, 2024). The current catalog is the Particle Data Group review (Navas et al., Physical Review D 110, 030001, 2024).
+
+On parity and CP violation, see Wu and collaborators (Physical Review 105, 1413, 1957) and Christenson, Cronin, Fitch and Turlay (Physical Review Letters 13, 138, 1964). The Sakharov conditions are from Sakharov (JETP Letters 5, 24, 1967). Quark mixing is Cabibbo (Physical Review Letters 10, 531, 1963) and Kobayashi and Maskawa (Progress of Theoretical Physics 49, 652, 1973). The strong CP problem and the axion are Peccei and Quinn (Physical Review Letters 38, 1440, 1977).
+
+On the neutrino sector, the Majorana construction is Majorana (Il Nuovo Cimento 14, 171, 1937). The seesaw mechanism appears in Minkowski (Physics Letters B 67, 421, 1977), Gell-Mann, Ramond and Slansky (1979), and Yanagida (1979). Leptogenesis is Fukugita and Yanagida (Physics Letters B 174, 45, 1986). Sterile neutrino dark matter is Dodelson and Widrow (Physical Review Letters 72, 17, 1994). The 3.5 keV line is Bulbul and collaborators (Astrophysical Journal 789, 13, 2014) and Boyarsky and collaborators (Physical Review Letters 113, 251301, 2014). The Koide relation is Koide (Lettere al Nuovo Cimento 34, 201, 1982). Neutrino oscillation, the fact that each flavor is a superposition of mass states that evolves as the neutrino propagates, is standard and well measured, encoded in the PMNS matrix. The search for a muon decaying to an electron and a photon has found nothing. The MEG II Collaboration reports an upper limit of one and a half in ten trillion decays at ninety percent confidence, from data taken in 2021 and 2022 ("New limit on the mu+ to e+ gamma decay with the MEG II experiment," European Physical Journal C, 2025, arXiv 2504.15711, DOI 10.1140/epjc/s10052-025-14906-3). A null search sets an upper limit. It does not prove exact flavor conservation, which neutrino oscillation already shows does not hold. The nested self-similar reading, the native ringing, and the unbranched knot are the conjecture. The oscillation itself is established physics.
+
+On light coupling to structure in an energy-dependent way, the closest formalized statement is the energy-dependent metric of Magueijo and Smolin's rainbow gravity. The severe constraint it must respect is that photon speed is independent of energy to beyond the Planck scale, established by Fermi observations of the gamma ray burst GRB 090510 (Abdo et al., Nature 462, 331, 2009).
+
+On recoil and resonance, the recoil-free effect is Mossbauer (Zeitschrift fur Physik 151, 124, 1958). The standard treatments of the photoelectric effect, internal conversion, photodisintegration, and the giant dipole resonance are in any nuclear physics text, Krane's Introductory Nuclear Physics among them. Photon recoil as the basis of laser cooling is in the Nobel lectures of Chu, Cohen-Tannoudji, and Phillips (Reviews of Modern Physics 70, 685, 707 and 721, respectively, 1998).
+
+On entanglement and signaling, the original is Einstein, Podolsky, and Rosen (Physical Review 47, 777, 1935), the theorem that rules out the shared-past explanation is Bell (Physics 1, 195, 1964), and the no-signaling result in its modern form is Ghirardi, Rimini, and Weber (Lettere al Nuovo Cimento 27, 293, 1980). On entanglement as geometry, the area relation is Ryu and Takayanagi (Physical Review Letters 96, 181602, 2006), the pinching of space with loss of entanglement is Van Raamsdonk (General Relativity and Gravitation 42, 2323, 2010), the derivation of linearized Einstein equations from the entanglement first law is Faulkner, Guica, Hartman, Myers, and Van Raamsdonk (JHEP 2014, 51), and the wormhole proposal is Maldacena and Susskind (Fortschritte der Physik 61, 781, 2013). None of these results is established for a universe with a positive cosmological constant.
+
+On time, de Broglie's 1924 thesis supplies the historical mass-related phase clock: its rest-frame cycle rate is $mc^2/h$, while its angular rate is $mc^2/\hbar$. The phase correspondence applies to definite-mass scalar and spinor states, not only matter knots. Fractus reads that phase as a possible physical overturn. It has not demonstrated such a turning, an operational clock made from an isolated overall phase, or a substrate derivation of the spacetime interval.
+
+On black hole interiors, the singularity theorem is Penrose (Physical Review Letters 14, 57, 1965), recognized with half of the 2020 Nobel Prize in Physics, and the interior structure is reviewed by Artemova and Novikov (arXiv astro-ph/0210545, 2002). The loop quantum gravity bounce and the Planck star are reviewed by Rovelli (Physics 11, 127, 2018). The fuzzball and microstate geometry program is reviewed by Bena, Martinec, Mathur and Warner (arXiv 2204.13113, 2022). The gravitational vacuum condensate star is reviewed by Mottola (arXiv 2302.09690, 2023), and its slowly rotating form, indistinguishable from a Kerr black hole outside, is Beltracchi, Gondolo and Mottola (Physical Review D 105, 024002, 2022).
+
+On gravitational waves, the multimessenger observation of the neutron star merger GW170817 (Abbott et al., Astrophysical Journal Letters 848, L13, 2017) and broader LIGO-Virgo-KAGRA analyses heavily constrain dispersion and speed. The evidence for a background of nanohertz gravitational waves consistent with supermassive black hole binaries is the NANOGrav 15-year data set (arXiv 2306.16213, 2023). The self-interacting dark matter solution of the final parsec problem is Alonso-Alvarez, Cline and Dewar (Physical Review Letters 133, 021401, 2024).
+
+On dark energy and its possible evolution, the acceleration was discovered through distant supernovae by Riess and by Perlmutter and collaborators in the late 1990s. DESI combinations give dataset- and parameterization-dependent hints, not a discovery of monotonic weakening; a quoted significance must name the combination and fitted model. The elastic solid precedent is Bucher and Spergel (Physical Review D 60, 043505, 1999). Milgrom's work (Astrophysical Journal 270, 365-370, 1983) supplies the galactic acceleration-scale comparison. The framework has not selected between a scale tied to $H(z)$, a constant background or a separately derived substrate quantity.
+
+On the acoustic peaks of the microwave background, the standard pedagogical reference is Hu and Dodelson (Annual Review of Astronomy and Astrophysics 40, 171, 2002), and the precision measurements pinning the peak structure and the roughly 5.4 dark-to-baryon ratio come from the Planck mission.
+
+On cluster collisions, the Bullet Cluster analysis of Clowe and collaborators (Astrophysical Journal 648, L109-L113, 2006) is a classic case. The disputed Abell 520 core appears in Mahdavi and collaborators (2007), Jee and collaborators (2012), and the contrasting reconstruction by Clowe and collaborators (2012). Harvey and collaborators (Science 347, 1462-1465, 2015) analyzed 72 substructures in 30 merging systems; Wittman and collaborators (2018) reanalyzed the offsets and weakened the inferred self-interaction constraint. The ensemble supports a near-collisionless account with substantial modeling uncertainties, not an exact-zero interaction measurement.
+
+On the atomic shells, the essential papers are Fock's result (Zeitschrift fur Physik 98, 145-154, 1935) on the hidden four-dimensional symmetry of hydrogen and the group-theoretic treatments of the periodic table by Barut, Kibler and Ostrovsky. Those two together are where the recursion intuition and established group theory are already, demonstrably, describing the same object, and they are the recommended place to dig in first.
+
+On the weave between nucleons, Yukawa's original massive-exchange proposal is *On the Interaction of Elementary Particles. I*, Proceedings of the Physico-Mathematical Society of Japan 17, 48-57 (1935), [doi:10.11429/ppmsj1919.17.0_48](https://doi.org/10.11429/ppmsj1919.17.0_48). For the distinction between pion exchange and short-distance terms, see Epelbaum, Meissner and Gloeckle, *Nuclear forces in the chiral limit*, Nuclear Physics A714, 535-574 (2003), [arXiv:nucl-th/0207089](https://arxiv.org/abs/nucl-th/0207089). Neither source identifies the force with a Fractus crease.
+
+On the mass and mixing comparison, the historical empirical lead is Gatto, Sartori and Tonin, *Weak self-masses, Cabibbo angle, and broken SU2 x SU2* (1968), [doi:10.1016/0370-2693(68)90150-0](https://doi.org/10.1016/0370-2693(68)90150-0). Its approximate mass-angle relation is not a universal hierarchy law. The measured oscillation parameters and the distinction between squared mass differences and absolute masses are reviewed in the Particle Data Group's [Neutrino Masses, Mixing, and Oscillations](https://pdg.lbl.gov/2025/reviews/rpp2025-rev-neutrino-mixing.pdf).
+
+## Appendix F: The spin ladder and the untwisting
+
+This appendix presents a conjecture that is logically of a piece with the rest of the framework but does not stand as established science. It is offered explicitly as conjecture. Nothing in the main text depends on it.
+
+The observation that motivates it is the ladder described in the spin section. Each doubling of spin halves the angle of return, 720 degrees, then 360, then 180, with matter on the first rung, the force carriers on the second, gravity's wave on the third, and the spinless Higgs off the ladder because it is not a knot at all. The same scaling by two that this framework proposes elsewhere appears to run through it.
+
+The starting point is the reading given in the spin section: a matter knot is tied into the surrounding configuration space by connective folds, so one full rotation twists them and a second untwists them, returning knot and surroundings together to rest. That is the content of Dirac's belt trick, and it is the least speculative part of the idea.
+
+The conjecture extends it. The proposal is that this untwisting is recursive: that before a configuration settles into one of the stable spin values it passes through a sequence of partial twists and releases inherited from the fold structure it is tied into, and that the stable spins are precisely the values at which that recursive untwisting returns cleanly on itself. On this reading the spin ladder is not a numerical coincidence but the signature of a self-similar untwisting, each level of the recursive topology contributing a factor of two, and a configuration holding as a particle only when its twist can unwind through every level and return. The same shape at every depth would then apply to rotation itself.
+
+The overturn section leaves an open connection for this appendix: whether a physical hidden turning and the spinor double cover are related. A spinor phase and an associated rotating frame can have rates differing by a factor of two. That distinction is not an alternation of chiral populations. Specify the returning observable before identifying this appendix's two-turn return with the mass-phase clock.
+
+The honest boundary must be stated as firmly here as anywhere in this document, because this is exactly where the idea is most tempting to overreach. This picture does not predict which spins are stable. The stronger claim, that spin three-halves is unstable because it sits off the doubling ladder, is false: as the spin section records, the Delta and the Omega-minus share that spin and their lifetimes differ by a factor of ten trillion. Stability is set by decay channels and conservation laws, not by a rung on a ladder. The recursive untwisting idea is therefore retained strictly as a topological intuition about why the return angles scale by two and why fermions are double-covered, and explicitly not as a theory of particle stability.
+
+What would turn this from intuition into physics is a single well-posed question, recorded here as the next step for this thread. Can the observed spinor transformation law, the double cover and the 720-degree return, be derived as the return condition of a recursive untwisting on a self-similar configuration space, in a way that reproduces standard results and adds at least one checkable consequence? If it cannot, this appendix remains a picture. If it can, the picture has earned a place in the main text. Until then it is kept here as a conjecture the author finds logically compelling and declines to lose.
+
+## Appendix G: The catalog, and a symmetry inventory
+
+This is the full list of particles established physics treats as fundamental, with the properties the main text keeps invoking, so that the framework's readings can be checked against every row rather than against the famous ones. Charges are written in words to keep notation out. Masses are approximate, and for the light quarks they depend on how they are defined, because a light quark is never seen alone.
+
+**Quarks.** Six, in three generations. Each carries electric charge, color charge, and spin one half. Each comes in three colors, so there are eighteen quark states before antiparticles. The charge pattern repeats exactly across generations. Only the mass changes.
+
+| Generation | Name | Electric charge | Mass (approx.) | Binds into hadrons? |
+|---|---|---|---|---|
+| 1 | up | plus two thirds | 2 MeV | yes |
+| 1 | down | minus one third | 5 MeV | yes |
+| 2 | charm | plus two thirds | 1.3 GeV | yes |
+| 2 | strange | minus one third | 95 MeV | yes |
+| 3 | top | plus two thirds | 173 GeV | no |
+| 3 | bottom | minus one third | 4.2 GeV | yes |
+
+**Leptons.** Six types in three generations. Charged leptons carry spin one half and charge minus one. Neutrinos carry spin one half and no electric or color charge. Oscillations determine two independent differences of squared masses; direct and cosmological measurements constrain the absolute scale without fixing all three masses. The full mass-ratio hierarchy remains unknown.
+
+| Generation | Name | Electric charge | Mass (approx.) | Lifetime |
+|---|---|---|---|---|
+| 1 | electron | minus one | 0.511 MeV | stable |
+| 1 | electron neutrino | zero | below 1 eV | stable, oscillates |
+| 2 | muon | minus one | 105.7 MeV | 2.2 microseconds |
+| 2 | muon neutrino | zero | below 1 eV | stable, oscillates |
+| 3 | tau | minus one | 1777 MeV | 290 femtoseconds |
+| 3 | tau neutrino | zero | below 1 eV | stable, oscillates |
+
+**Force carriers.** Four, all spin one. The graviton, if it exists, would be spin two. This document's position is that gravity has no carrier, and the graviton has never been observed, so it is listed only for completeness.
+
+| Carrier | Force | Electric charge | Mass | Range | Self-interacting? |
+|--------------------|--------------------|----------------------|----------|-------------|---------------|
+| photon | electromagnetism | zero | zero | infinite | no |
+| gluon (eight kinds) | strong | zero, carries color | zero | confined | yes |
+| W (plus and minus) | weak, charged | plus one and minus one | 80.4 GeV | very short | yes |
+| Z | weak, neutral | zero | 91.2 GeV | very short | yes |
+| graviton (hypothetical) | gravity | zero | zero | infinite | yes |
+
+**The Higgs.** One particle. Spin zero, no electric charge, no color, mass 125 GeV. Discovered in 2012. It decays into pairs of photons, Z bosons, W bosons, bottom quarks, and tau leptons, in proportions that match the prediction that its coupling to each particle scales with that particle's mass. It is the only fundamental scalar ever observed.
+
+**Anchor properties and separate flavor observables.** The table records properties and sector comparisons without placing flavor-changing decay limits on a mixing ladder.
+
+| Group | Particle | Spin | Electric charge | Color | Mass | Flavor observable and scope |
+|-------|--------------|---------|----------|-------|----------------|-------------------------------------|
+| 0 | Higgs | none | none | none | 125 GeV | not applicable |
+| 1 | neutrinos | one half | none | none | very small | PMNS relative to charged leptons: two large angles and a smaller third |
+| 2 | charged leptons | one half | yes | none | steep mass hierarchy | Charged-lepton flavor-changing decays: separate constrained amplitudes, not a third mixing rung |
+| 3 | quarks | one half | yes | yes | steep mass hierarchies | CKM up/down alignment: small angles, largest about thirteen degrees |
+
+**Symmetries that hold exactly.** The combination of charge, parity, and time reversal has never been seen to fail. Electric charge, color charge, and energy are conserved exactly. Lorentz symmetry, the symmetry the Moebius identity rests on, is tested to extreme precision and holds.
+
+**Symmetries that are broken.** Parity and charge conjugation are broken by the weak interaction, and CP violation is measured. Electroweak symmetry is broken by the Higgs vacuum. Flavor structure enters through Yukawa couplings and mixing matrices, and neutrino masses break individual lepton flavor. Spontaneous breaking of approximate light-quark chiral symmetry gives pion Goldstone modes; small explicit breaking by quark masses makes the pions light but not massless. This is distinct from proving that confinement alone produces chiral symmetry breaking.
+
+**A symmetry broken for no known reason, and one that is not broken for no known reason.** The strong force is allowed by its own symmetry to violate CP through a parameter called theta. Measurement of the neutron's electric dipole moment shows theta is zero to better than one part in ten billion. Nothing in the Standard Model requires that. This is the strong CP problem, and the leading proposed fix, the axion, has been searched for since 1977 and not found. For this framework the puzzle is pointed: the first lean says the substrate chose an orientation, and the strong sector apparently did not. Either the lean is confined to the weak sector, or something forces the strong sector back to the seam. The framework must say which.
+
+## Appendix H: Parked notes
+
+This appendix holds side notes and open threads that do not yet have a place in the body. Nothing here is a claim.
+
+**On what nothing between the two neutrino scales would mean.** If the standard seesaw is right and nothing lives between the visible neutrino and its hidden partner at a hundred trillion proton masses, then the generation ladder has a rung so far from the others that it may not be a rung at all. Either the seam-sitting partner is a different kind of configuration from the generations, or the ladder is not a ladder in the neutrino sector. The low-scale seesaw variants and the keV sterile neutrino are the two ways the gap could be partly filled. The reactor and short-baseline anomalies that once hinted at a sterile neutrino near one electron-volt have been contradicted by later measurements and most physicists now lean against them. Recorded so the status is not overstated.
+
+**On the neutrino as the shadow of the lepton.** The leptons section calls each neutrino a shadow of its charged lepton. The image carries something the body does not develop: a shadow is produced by the thing it shadows, and in beta decay the neutrino is born alongside the electron, from the same W. Whether that birth pairing is structural, the overturn of one knot producing the other as its shadow, is a question not yet asked in the body.
+
+**On the Higgs self-coupling.** Data already constrain the trilinear coupling, with assumptions about other couplings. A nonzero value is not established in the checked fits, and a trilinear constraint does not reconstruct the whole potential or independently measure its quartic term. The framework must predict a value or relation before these data can distinguish the resting-state interpretation.
+
+**On the muon coupling.** Evidence-level Higgs-to-muon measurements support the muon Yukawa interaction. They do not establish a physical overturn or determine the coupling's sign and magnitude without model assumptions. A framework prediction is needed before the comparison becomes a discriminator.
+
+**On the strong CP puzzle and the lean.** The strong sector's refusal to lean, recorded in Appendix G, is the clearest case where the first lean story is incomplete. One reading: the lean is a property of the open, unfolded channel only, and the deeply folded strong channel sits so tight that it has no room to lean. Another: the axion, if it exists, is the strong sector's version of the resting-state resonance, the thing that relaxes the strong channel back to the seam. Both are parked.
+
+**On the equivalence principle.** The thought that all mass gravitates identically because all mass is the same overturn is raised in the other-turnings section as a question. It is parked here too because it is the kind of thing that would be a prediction if derived and a tautology if merely noticed, and the difference matters. With cinch named separately, the question has two parts: whether overturn and cinch load the substrate alike.
+
+**On the generation axis for the carriers.** The W and Z do not come in generations. Neither does the photon or the gluon. So no carrier has a generation, and the whole matter ladder lives on an axis the carriers do not share. One parked reading: the carriers run along creases, and creases do not occupy deeper levels, they are what windfold leaves behind. The matter knots are what sits at the depths. That would make generation a property of knots only, by construction. Not developed.
+
+**On why entanglement is so often framed as signaling.** Partly because the history did: Einstein's phrase was a complaint that stuck as a description. Partly because of how measurement is taught: collapse sounds like an event that happens somewhere and then spreads, and if the far particle's state is pictured snapping into place a signal has already been smuggled in. And partly because the alternative is harder to say. "Nothing travels, but the outcomes are correlated more strongly than any shared past could explain" is a true sentence with no picture attached. Signaling gives the mind a picture. Bell's theorem took the picture away and gave nothing visual back. This framework faces the identical temptation with the weave: the channel image is vivid, and the thing to keep making sure of is that the channel carries structure, not messages.
+
+**On the poke.** The popular account says poke one entangled particle and the other moves. Nothing moves. When one half is measured, the other half does not change in any way its owner could detect. Every measurement on the far side gives exactly the same statistics whether the near side was measured or not. The two never had separate states. There was one state, a statement about pairs of outcomes, and measurement reveals which pair. The far particle is not nudged. It was always part of the same answer. In this framework's words, the two were never at a distance in the sense that matters.
+
+**On the method of pictures.** The front matter names the document's second habit: picturing the shape with distance and time in it, because those are the only facilities the mind has, and then correcting the picture against what is known. It is the honest answer to anyone who asks how a geometry with no stage can be imagined at all. It cannot. It can only be rendered wrongly and corrected.
+
+**On the analogies set aside for discreteness.** Two familiar pictures show how a continuous substrate could produce discrete quantum states: a guitar string that sounds only certain notes because its ends are held still, and a sheet of cloth wrapped around a cylinder until its edges meet. Both make a real point, that a return condition on a continuous surface produces discrete outcomes. This document uses neither, because neither gives a picture of the substrate that can be explored. The Kaluza-Klein picture, in which winding around a curled dimension gives a ladder of masses, is the most imaginable candidate and is already this document's template for winding cost.
+
+**On virtual particles at the bottom of the well.** The standard account of strong curvature includes particle pairs pulled out of the vacuum. The author treats virtual particles as bookkeeping and prefers not to lean on them. In the bottom-of-the-well section no such appeal is made, and any pair effect would be read as the strained substrate tying real knots.
+
+**On the weight of a single cluster.** The author is not fully sold on how much weight the Bullet Cluster carries, because clean examples of its kind are few. The body keeps the established account, keeps its rule of not building machinery on a contested case, and refuses to close a question because of one outlier. That balance is recorded here as the author's standing.

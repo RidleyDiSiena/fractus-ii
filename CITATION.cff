@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use or discuss this work, please cite it as below."
+title: "Fractus-II: One Shape, Folded at Every Depth"
+type: dataset
+authors:
+  - family-names: DiSiena
+    given-names: Ridley
+abstract: "A thought experiment on how a single folded geometry might give rise to forces, matter, spin, light, gravity, and the dark universe."
+license: CC-BY-NC-4.0
+repository: "https://github.com/RidleyDiSiena/fractus-ii"
+url: "https://ridleydisiena.github.io/fractus-ii/"
+version: 1.0.0
+date-released: 2026-11-11
+keywords:
+  - physics
+  - theoretical-physics
+  - thought-experiment
+  - standard-model
+  - fractal-geometry
+references:
+  - type: generic
+    title: "Fractus: One Shape, Folded at Every Depth"
+    authors:
+      - family-names: DiSiena
+        given-names: Ridley
+    doi: 10.5281/zenodo.23457481
