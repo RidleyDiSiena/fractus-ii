@@ -71,9 +71,23 @@ body {
 .elbow {
   background: var(--purple);
   color: var(--bg);
-  margin-left: -10px;
-  padding: 18px 20px 16px 10px;
-  border-radius: 0 0 0 28px;
+  /* Extend over the rail's 18px border so the elbow's own curve is the outer corner. */
+  margin-left: -28px;
+  padding: 18px 20px 16px 28px;
+  border-radius: 40px 0 0 0;
+  position: relative;
+}
+
+/* Concave inner corner where the elbow meets the vertical bar. */
+.elbow::after {
+  content: "";
+  position: absolute;
+  left: 18px;
+  bottom: -24px;
+  width: 24px;
+  height: 24px;
+  background: radial-gradient(circle at 100% 100%, transparent 23.5px, var(--purple) 24px);
+  pointer-events: none;
 }
 
 .brand {
@@ -311,6 +325,8 @@ img { max-width: 100%; }
     border-left-width: 14px;
     border-radius: 32px 0 0 32px;
   }
+  .elbow { margin-left: -24px; padding-left: 24px; border-top-left-radius: 32px; }
+  .elbow::after { left: 14px; }
   .brand { font-size: 40px; }
   .pills { grid-template-columns: 1fr 1fr; }
   .pill { text-align: center; border-radius: 999px; }
