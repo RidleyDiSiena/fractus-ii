@@ -12,6 +12,7 @@ Picture spacetime not as an empty stage that things happen on top of, and not as
 
 - Read it on the website: https://ridleydisiena.github.io/fractus-ii/
 - Download the PDF: [fractus-ii.pdf](fractus-ii.pdf)
+- Listen to the audio reading (2 h 32 min): [fractus-ii.mp3](fractus-ii.mp3), also playable on the website
 - Read the source file: [fractus-ii.md](fractus-ii.md)
 
 Fractus-II is the second work in the series. The first, [Fractus](https://github.com/RidleyDiSiena/fractus) ([website](https://ridleydisiena.github.io/fractus/), DOI [10.5281/zenodo.23457481](https://doi.org/10.5281/zenodo.23457481)), remains available and archived.

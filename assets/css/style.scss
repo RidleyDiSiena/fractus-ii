@@ -16,6 +16,7 @@
   --green: #6dffb3;
   --pink: #ff7ad9;
   --orange: #ffaa55;
+  --yellow: #ffd66e;
   --display: "Antonio", "Arial Narrow", sans-serif;
   --body: "Figtree", "Helvetica Neue", Arial, sans-serif;
   --mono: "JetBrains Mono", Menlo, Consolas, monospace;
@@ -129,6 +130,7 @@ body {
 .p-blue { background: var(--blue); }
 .p-orange { background: var(--orange); }
 .p-green { background: var(--green); }
+.p-yellow { background: var(--yellow); }
 
 .toc {
   flex: 1;
@@ -155,7 +157,7 @@ body {
   padding: 6px 4px 6px 0;
   list-style: none;
   overflow-y: auto;
-  max-height: calc(100vh - 498px); /* room for the elbow, six buttons and the foot */
+  max-height: calc(100vh - 536px); /* room for the elbow, seven buttons and the foot */
   scrollbar-width: thin;
   scrollbar-color: var(--line) transparent;
 }
@@ -305,6 +307,22 @@ img { max-width: 100%; }
   color: var(--muted);
 }
 
+/* Audio player */
+
+.listen {
+  margin: 0.4em 0 1.4em;
+  padding: 14px 18px 12px;
+  border-left: 6px solid var(--yellow);
+  border-radius: 4px 18px 18px 4px;
+  background: var(--panel);
+  scroll-margin-top: 24px;
+}
+.listen-head { margin: 0 0 10px; display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 14px; }
+.listen-title { font: 700 20px/1 var(--display); letter-spacing: 0.12em; text-transform: uppercase; color: var(--yellow); }
+.listen-meta { font: 600 14px/1.3 var(--display); letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); }
+.listen audio { display: block; width: 100%; height: 40px; color-scheme: dark; }
+.listen-foot { margin: 8px 0 0; font-size: 14px; color: var(--muted); }
+
 #comments h2 { color: var(--pink); text-shadow: 0 0 18px rgba(255, 122, 217, 0.35); }
 #comments > p { color: var(--muted); font-size: 16px; }
 .giscus { margin-top: 1em; }
@@ -353,7 +371,7 @@ img { max-width: 100%; }
 
 @media print {
   body { background: #fff; color: #000; font-size: 11pt; }
-  .rail, #comments, .skip { display: none; }
+  .rail, #comments, .skip, .listen { display: none; }
   .page { margin: 0; max-width: none; padding: 0; }
   h1, h2, h3 { color: #000 !important; text-shadow: none !important; filter: none; background: none; -webkit-text-fill-color: #000; }
   a, strong, em { color: #000; }
