@@ -14,6 +14,9 @@ identifiers:
   - type: doi
     value: 10.5281/zenodo.24129275
     description: "DOI of version v1.0.0."
+  - type: doi
+    value: 10.5281/zenodo.24148131
+    description: "DOI of version v1.1.0 (adds the audio reading)."
 license: CC-BY-NC-4.0
 repository: "https://github.com/RidleyDiSiena/fractus-ii"
 url: "https://ridleydisiena.github.io/fractus-ii/"
