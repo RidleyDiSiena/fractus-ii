@@ -214,7 +214,7 @@ h1 {
   filter: drop-shadow(0 0 22px rgba(185, 139, 255, 0.35));
 }
 
-.byline ~ h1 { font-size: clamp(48px, 9vw, 84px); }
+.page > h1:first-child { font-size: clamp(48px, 9vw, 84px); }
 
 h1 + h3 {
   margin-top: 0;

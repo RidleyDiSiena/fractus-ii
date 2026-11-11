@@ -1,0 +1,26 @@
+<section class="listen" id="listen" aria-label="Audio version">
+  <p class="listen-head"><span class="listen-title">Listen</span> <span class="listen-meta">Full reading, 2 h 32 min, MP3</span></p>
+  <audio id="reading" controls preload="none" src="{{ '/fractus-ii.mp3' | relative_url }}">
+    Your browser cannot play this audio. <a href="{{ '/fractus-ii.mp3' | relative_url }}">Download the MP3</a>.
+  </audio>
+  <p class="listen-foot"><span id="resume-note"></span><a href="{{ '/fractus-ii.mp3' | relative_url }}" download>Download the MP3 (70 MB)</a></p>
+</section>
+<script>
+  (function () {
+    var a = document.getElementById('reading'), note = document.getElementById('resume-note'), key = 'fractus-ii-audio-pos', saved = 0;
+    try { saved = parseFloat(localStorage.getItem(key)) || 0; } catch (e) {}
+    function fmt(t) { var h = Math.floor(t / 3600), m = Math.floor(t % 3600 / 60), s = Math.floor(t % 60);
+      return (h ? h + ':' + String(m).padStart(2, '0') : m) + ':' + String(s).padStart(2, '0'); }
+    if (saved > 30) note.textContent = 'Resumes at ' + fmt(saved) + '. ';
+    a.addEventListener('loadedmetadata', function () { if (saved > 30 && saved < a.duration - 10) a.currentTime = saved; }, { once: true });
+    var last = 0;
+    a.addEventListener('timeupdate', function () {
+      if (Math.abs(a.currentTime - last) < 5) return;
+      last = a.currentTime;
+      try { localStorage.setItem(key, a.currentTime); } catch (e) {}
+    });
+    a.addEventListener('ended', function () { try { localStorage.removeItem(key); } catch (e) {} note.textContent = ''; });
+  })();
+</script>
+
+<p class="byline">By Ridley DiSiena. Licensed <a href="{{ site.repo_url }}/blob/main/LICENSE">CC BY-NC 4.0</a>. See the <a href="{{ '/NOTICE.html' | relative_url }}">Notice of Authorship</a>. <a href="{{ '/fractus-ii.pdf' | relative_url }}">Download the PDF</a>.</p>
