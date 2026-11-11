@@ -7,8 +7,8 @@ kramdown:
   auto_ids: true
   hard_wrap: true
 repo_url: https://github.com/RidleyDiSiena/fractus-ii
-# Filled in after the first Zenodo release mints the DOI.
-doi:
+# Concept DOI: always points to the newest archived version.
+doi: 10.5281/zenodo.24129274
 # giscus comment settings, filled in after the repository exists.
 giscus_repo: RidleyDiSiena/fractus-ii
 giscus_repo_id: R_kgDOVqVvaA
