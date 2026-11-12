@@ -214,7 +214,7 @@ h1 {
   filter: drop-shadow(0 0 22px rgba(185, 139, 255, 0.35));
 }
 
-.page > h1:first-child { font-size: clamp(48px, 9vw, 84px); line-height: 0.95; margin-bottom: 0; }
+.page > h1:first-child { font-size: clamp(48px, 9vw, 84px); line-height: 1.1; margin-bottom: 0; padding-bottom: 0.04em; }
 
 h1 + h3 {
   margin-top: 0;
@@ -313,7 +313,7 @@ img { max-width: 100%; }
 
 /* Title block: byline and audio player */
 
-.page > h1:first-child + h3 { margin-top: -0.05em; }
+.page > h1:first-child + h3 { margin-top: 0.1em; }
 
 .title-by {
   margin: -0.4em 0 1.2em;
