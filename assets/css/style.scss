@@ -237,6 +237,10 @@ h2:nth-of-type(5n+5) { color: var(--purple); text-shadow: 0 0 18px rgba(185, 139
 
 h3 { font-size: 22px; color: var(--orange); }
 
+/* Headings straight after a rule or a part title need less room above them. */
+hr + h2 { margin-top: 0.4em; }
+h1 + h2 { margin-top: 0.5em; }
+
 p, ul, ol, table { margin: 0 0 1.1em; }
 
 a {
@@ -253,7 +257,7 @@ em { color: #f1e9ff; }
 hr {
   border: 0;
   height: 2px;
-  margin: 2.6em 0;
+  margin: 1.8em 0;
   background: linear-gradient(90deg, var(--cyan), var(--blue), var(--purple), var(--pink), var(--orange));
   opacity: 0.6;
   border-radius: 2px;
