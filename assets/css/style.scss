@@ -240,6 +240,7 @@ h3 { font-size: 22px; color: var(--orange); }
 /* Headings straight after a rule or a part title need less room above them. */
 hr + h2 { margin-top: 0.4em; }
 h1 + h2 { margin-top: 0; }
+h1:has(+ h2) { margin-bottom: 0.15em; }
 
 p, ul, ol, table { margin: 0 0 1.1em; }
 
