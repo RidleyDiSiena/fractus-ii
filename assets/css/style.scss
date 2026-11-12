@@ -316,7 +316,7 @@ img { max-width: 100%; }
   font-size: 15px;
   color: var(--muted);
 }
-.title-by a { color: var(--muted); text-decoration-color: rgba(169, 155, 201, 0.5); }
+.title-by a { white-space: nowrap; color: var(--muted); text-decoration-color: rgba(169, 155, 201, 0.5); }
 .title-by a:hover { color: var(--pink); }
 
 .listen {
