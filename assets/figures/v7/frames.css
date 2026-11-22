@@ -1,0 +1,45 @@
+/* Fractus-II figure frames for the existing LCARS theme. */
+.fractus-figure {
+  --figure-rim: var(--purple, #b98bff);
+  --figure-id: var(--cyan, #5ee7ff);
+  position: relative;
+  width: 100%;
+  margin: 2.1rem auto 1.8rem;
+  padding: clamp(.65rem, 2vw, 1rem);
+  border: 1px solid var(--figure-rim);
+  border-inline-start-width: 8px;
+  border-radius: 30px;
+  background: var(--bg-2, #150b24);
+  scroll-margin-top: 2rem;
+}
+.fractus-figure--compact { max-width: 35rem; }
+.fractus-figure:nth-of-type(even) {
+  --figure-rim: var(--cyan, #5ee7ff);
+  --figure-id: var(--purple, #b98bff);
+}
+.fractus-figure:target { outline: 2px solid var(--figure-id); outline-offset: 4px; }
+.fractus-figure img { display: block; width: 100%; height: auto; border-radius: 15px; }
+.fractus-figure figcaption { margin: .65rem .25rem .1rem; color: var(--muted, #a99bc9); font-size: .88em; line-height: 1.5; }
+.fractus-figure__label {
+  position: absolute;
+  inset-block-start: -1px;
+  inset-inline-start: clamp(.9rem, 3vw, 1.7rem);
+  transform: translateY(-50%);
+  padding-inline: .5rem;
+  max-inline-size: calc(100% - 2rem);
+  background: var(--bg, #0d0716);
+  color: var(--text, #e8e0fb);
+  font: 600 1.03rem/1.25 var(--display, system-ui);
+}
+.fractus-figure__number { margin-inline-end: .35em; color: var(--figure-id); white-space: nowrap; }
+.fractus-figure-index { columns: 2 15rem; column-gap: 2rem; list-style: none; padding: 0; }
+.fractus-figure-index li { break-inside: avoid; margin-block: .3rem; }
+.fractus-edition-note { font-size: .9em; color: var(--muted, #a99bc9); }
+@media (max-width: 480px) {
+  .fractus-figure { border-radius: 19px; border-inline-start-width: 5px; }
+  .fractus-figure img { border-radius: 9px; }
+}
+@media print {
+  .fractus-figure { break-inside: avoid; border: 1px solid #415768; }
+  .fractus-figure__label { color: #18202a; background: #fff; }
+}
