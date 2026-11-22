@@ -12,7 +12,6 @@
   background: var(--bg-2, #150b24);
   scroll-margin-top: 2rem;
 }
-.fractus-figure--compact { max-width: 35rem; }
 .fractus-figure:nth-of-type(even) {
   --figure-rim: var(--cyan, #5ee7ff);
   --figure-id: var(--purple, #b98bff);
